@@ -1,0 +1,31 @@
+<usg type="geo">US</usg>
+
+
+
+
+<quote>(اسپانیا و پرتغال)</quote>
+<quote>(ایرلند و اسکاتلند)</quote>
+
+<quote>(هندوستان)</quote>
+<quote>(آلمان)</quote>
+<quote>(آمریکا)</quote>
+<quote>(استرالیا)</quote>
+<quote>(اسکاتلند)</quote>
+<quote>(افریقای جنوبی)</quote>
+<quote>(ایرلند)</quote>
+<quote>(فرانسه)</quote>
+<quote>(نیویورک)</quote>
+
+
+
+<quote>(انگلیس: calibre)</quote>
+<quote>(انگلیس: candour)</quote>
+<quote>(انگلیس: clamour)</quote>
+<quote>(انگلیس: clangour)</quote>
+<quote>(انگلیس: colour)</quote>
+<quote>(انگلیس: marvellous)</quote>
+<quote>(انگلیس )</quote>
+<quote>(انگلیس)</quote>
+<quote>(در انگلیس: centre)</quote>
+<quote>(در انگلیس: flavour)</quote>
+<quote>(در انگلیس: labour)</quote>

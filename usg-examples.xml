@@ -1,0 +1,106 @@
+<entry>
+ ...
+ <sense n="1.">
+  <usg type="domain"> 昆蟲學</usg>,<def> 蜜蜂 </def>. </sense>
+ <sense n="2.">
+  <def> 忙碌的蜜蜂，工作狂 </def>。</sense>
+ <sense n="3.">
+  <usg orig="A." type="domain"> 天文學 </usg>, <def> 蒼蠅座</def> — </sense>
+ ...
+</entry>
+
+
+<entry>
+  ...
+ <usg type="reg">informal</usg>
+ ...
+</entry>
+
+<form>
+ <orth>tuer</orth>
+ <form>
+  <usg type="time">archaïque</usg>
+  <orth>occire</orth>
+ </form>
+</form>
+
+<entry type="foreign">
+ ...
+ <cit type="translation" xml:lang="en">
+  <usg type="style">literally</usg>
+  <quote>separation</quote>
+ </cit>
+</entry>
+
+
+<entry n="1">
+ <form>
+  <orth>dresser</orth>
+ </form>
+ <sense n="a">
+  <sense>
+   <usg type="dom">Theat</usg>
+   <cit type="translation" xml:lang="fr">
+    <quote>habilleur</quote>
+    <gramGrp>
+     <gen>m</gen>
+    </gramGrp>
+   </cit>
+   <cit type="translation" xml:lang="fr">
+    <quote>-euse</quote>
+    <gramGrp>
+     <gen>f</gen>
+    </gramGrp>
+   </cit>
+  </sense>
+  <sense>
+   <usg type="dom">Comm</usg>
+   <form type="compound">
+    <orth>window <oRef/>
+    </orth>
+   </form>
+   <cit type="translation" xml:lang="fr">
+    <quote>étalagiste</quote>
+    <gramGrp>
+     <gen>mf</gen>
+    </gramGrp>
+   </cit>
+  </sense>
+  <cit type="example">
+   <quote>she's a stylish <oRef/>
+   </quote>
+   <cit type="translation" xml:lang="fr">
+    <quote>elle s'habille avec chic</quote>
+   </cit>
+  </cit>
+  <xr type="see">V. <ref target="#hair">hair</ref>
+  </xr>
+ </sense>
+ <sense n="b">
+  <usg type="category">tool</usg>
+  <sense>
+   <usg type="hint">for wood</usg>
+   <cit type="translation" xml:lang="fr">
+    <quote>raboteuse</quote>
+    <gramGrp>
+     <gen>f</gen>
+    </gramGrp>
+   </cit>
+  </sense>
+  <sense>
+   <usg type="hint">for stone</usg>
+   <cit type="translation" xml:lang="fr">
+    <quote>rabotin</quote>
+    <gramGrp>
+     <gen>m</gen>
+    </gramGrp>
+   </cit>
+  </sense>
+ </sense>
+</entry>
+<!-- ... -->
+<entry xml:id="hair">
+ <sense>
+<!-- ... -->
+ </sense>
+</entry>
