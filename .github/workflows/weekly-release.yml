@@ -1,0 +1,57 @@
+name: Weekly release
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check for changes since last release
+        id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          last_tag=$(gh release view --json tagName --jq .tagName 2>/dev/null || true)
+          if [ -z "$last_tag" ]; then
+            changed=true
+          elif [ -z "$(git rev-list "${last_tag}..HEAD")" ]; then
+            changed=false
+          else
+            changed=true
+          fi
+          echo "last_tag=$last_tag" >> "$GITHUB_OUTPUT"
+          echo "changed=$changed" >> "$GITHUB_OUTPUT"
+
+      - name: Build TEI
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          python3 combine_tei.py --output aryanpour.tei
+          gzip -9 -c aryanpour.tei > aryanpour.tei.gz
+
+      - name: Create release
+        if: steps.check.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag="$(date -u +%Y.%m.%d)"
+          if gh release view "$tag" >/dev/null 2>&1; then
+            tag="${tag}-${GITHUB_RUN_NUMBER}"
+          fi
+          notes="Weekly snapshot built from ${{ github.sha }}."
+          if [ -n "${{ steps.check.outputs.last_tag }}" ]; then
+            notes="${notes}"$'\n\n'"Changes since ${{ steps.check.outputs.last_tag }}."
+          fi
+          gh release create "$tag" aryanpour.tei.gz \
+            --title "$tag" \
+            --notes "$notes" \
+            --target "${{ github.sha }}"
