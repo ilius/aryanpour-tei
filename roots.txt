@@ -1,0 +1,59 @@
+<quote>(عبری)</quote>
+<quote>(عربی)</quote>
+<quote>(اسپانیایی)</quote>
+<quote>(ایتالیایی)</quote>
+<quote>(یونانی)</quote>
+<quote>(هندی)</quote>
+<quote>(آلمانی)</quote>
+<quote>(از ریشهٔ تاتار)</quote>
+<quote>(از ریشهٔ ترکی )</quote>
+<quote>(از ریشهٔ ترکی)</quote>
+<quote>(از ریشهٔ سامی)</quote>
+<quote>(از ریشهٔ سانسکریت)</quote>
+<quote>(از ریشه عربی)</quote>
+<quote>(از ریشهٔ عربی)</quote>
+<quote>(از ریشهٔ عربی: اسود)</quote>
+<quote>(از ریشهٔ عربی: القبه)</quote>
+<quote>(از ریشهٔ عربی: جبه)</quote>
+<quote>(از ریشهٔ عربی: حریم)</quote>
+<quote>(از ریشهٔ عربی: خملت)</quote>
+<quote>(از ریشهٔ عربی: زباد)</quote>
+<quote>(از ریشهٔ عربی: سفری)</quote>
+<quote>(از ریشه عربی: سکه)</quote>
+<quote>(از ریشهٔ عربی: سمت)</quote>
+<quote>(از ریشهٔ عربی: شراب)</quote>
+<quote>(از ریشهٔ عربی: شرق)</quote>
+<quote>(از ریشهٔ عربی: شیف)</quote>
+<quote>(از ریشهٔ عربی: قصبه)</quote>
+<quote>(از ریشهٔ عربی: مخزن)</quote>
+<quote>(از ریشهٔ عربی: مخیر)</quote>
+<quote>(از ریشهٔ عربی: مسخره)</quote>
+<quote>(از ریشهٔ عربی: میمون)</quote>
+<quote>(از ریشهٔ عربی: نظیر)</quote>
+<quote>(از ریشه فارسی)</quote>
+<quote>(از ریشهٔ فارسی)</quote>
+<quote>(از ریشهٔ فارسی: تاس)</quote>
+<quote>(از ریشهٔ فارسی: تبیر)</quote>
+<quote>(از ریشهٔ فارسی: سرای)</quote>
+<quote>(از ریشهٔ فارسی: شاه)</quote>
+<quote>(از ریشهٔ فارسی: قند)</quote>
+<quote>(از ریشهٔ فارسی: گلاب)</quote>
+<quote>(از ریشهٔ فارسی: مست)</quote>
+<quote>(از ریشهٔ فارسی: مغ)</quote>
+<quote>(از ریشهٔ فارسی: موم)</quote>
+<quote>(از ریشهٔ فارسی: میر)</quote>
+<quote>(از ریشهٔ فارسی: ورد)</quote>
+<quote>(از ریشهٔ هندی)</quote>
+<quote>(از سانسکریت)</quote>
+<quote>(از عربی)</quote>
+<quote>(از عربی: قبیله)</quote>
+<quote>(از عربی: کافر)</quote>
+<quote>(از عربی: مرابط)</quote>
+<quote>(از عربی: موسم)</quote>
+<quote>(از عربی - موسیقی)</quote>
+<quote>(از عربی: نواب)</quote>
+<quote>(از فارسی: دایی)</quote>
+<quote>(از فارسی یا سانسکریت)</quote>
+<quote>(از مغولی)</quote>
+<quote>(از واژه عربی: الکحل)</quote>
+
