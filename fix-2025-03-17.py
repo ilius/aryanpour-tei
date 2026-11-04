@@ -1,7 +1,7 @@
 
 # What is the difference between (انگلیس - سابقا) and (انگلیس - قدیمی)
 
-with open("Aryanpour.tei", encoding="utf-8") as _file:
+with open("aryanpour.tei", encoding="utf-8") as _file:
 	text = _file.read()
 
 
@@ -17,14 +17,14 @@ text = text.replace("(انگلیس‌-عامیانه)", "(انگلیس - عام�
 print(len(text), hash(text))
 
 
-with open("Aryanpour.tei", "w", encoding="utf-8") as _file:
+with open("aryanpour.tei", "w", encoding="utf-8") as _file:
 	_file.write(text)
 
 
 
 """
 domain name in sense.sense.cit.quote
-grep -P '<quote>\(.{3,20}\)</quote>' Aryanpour.tei | sort | uniq | less
+grep -P '<quote>\(.{3,20}\)</quote>' aryanpour.tei | sort | uniq | less
 
 <entry>
     <form xml:lang="en">

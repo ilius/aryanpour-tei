@@ -1,4 +1,4 @@
-with open("Aryanpour.tei", encoding="utf-8") as _file:
+with open("aryanpour.tei", encoding="utf-8") as _file:
 	text = _file.read()
 
 
@@ -18,6 +18,6 @@ text = text.replace("آمریکا- عامیانه", "آمریکا- عامیان�
 print(len(text), hash(text))
 
 
-with open("Aryanpour.tei", "w", encoding="utf-8") as _file:
+with open("aryanpour.tei", "w", encoding="utf-8") as _file:
 	_file.write(text)
 

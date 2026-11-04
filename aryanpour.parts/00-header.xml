@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="freedict-dictionary.css"?>
+<?oxygen RNGSchema="freedict-P5.rng" type="xml"?>
+<!DOCTYPE TEI SYSTEM "freedict-P5.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Aryanpour [2025-03]</title>
+				<respStmt>
+					<resp>Maintainer</resp>
+					<name xml:id="ilius">Saeed Rasooli</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>2025.03.02</edition>
+			</editionStmt>
+			<extent>181165 headwords</extent>
+			<publicationStmt>
+				<publisher>Saeed Rasooli</publisher>
+				<availability status="free">
+					<p>Licensed under the <ref target="https://creativecommons.org/licenses/by-sa/3.0/legalcode">Creative Commons Attribution-ShareAlike 3.0 Unported</ref> license</p>
+				</availability>
+				<date>2023-01-14</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>
+				</p>
+			</projectDesc>
+			<tagsDecl>
+				<namespace name="http://www.tei-c.org/ns/1.0" xml:base="../shared/">
+					<tagUsage gi="pos">
+						<list n="values" type="bulleted">
+						</list>
+					</tagUsage>
+				</namespace>
+			</tagsDecl>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<body xml:lang="en">

@@ -1,4 +1,4 @@
-with open("Aryanpour.tei", encoding="utf-8") as _file:
+with open("aryanpour.tei", encoding="utf-8") as _file:
 	text = _file.read()
 
 
@@ -10,5 +10,5 @@ text = text.replace("\u200c ", " ")
 text = text.replace(" \u200c", " ")
 
 
-with open("Aryanpour.tei", "w", encoding="utf-8") as _file:
+with open("aryanpour.tei", "w", encoding="utf-8") as _file:
 	_file.write(text)
