@@ -4,25 +4,6 @@ Scope: all 61 files in `aryanpour.parts/` (181,160 entries).
 
 ## Remaining issues
 
-### 3. Inline-markup whitespace
-
-A few rare structural elements put text on a new line with indentation, which becomes whitespace in the text content:
-
-- `<br/>` inside `<quote>`:
-  - `aryanpour.parts/04-c.xml:87857`
-  - `aryanpour.parts/04-c.xml:96392`
-  - `aryanpour.parts/04-c.xml:110154`
-  - `aryanpour.parts/05-d.xml:32077`
-- `<xr>` content on its own line:
-  - `aryanpour.parts/08-g.xml:3020`
-  - `aryanpour.parts/08-g.xml:40995`
-  - `aryanpour.parts/22-u.xml:10152`
-- `<note>`:
-  - `aryanpour.parts/02-a.xml:12`
-  - `aryanpour.parts/08-g.xml:40996`
-
-Recommendation: either keep mixed content on one line or accept the extra whitespace intentionally. If `<br/>` is not wanted in the target schema, replace it with separate `<quote>`/`<cit>` elements.
-
 ### 4. Duplicate headwords
 
 After normalization, 404 `<orth>` values are duplicated within the same part file (410 globally). Most are legitimate English homographs or abbreviations (`a`, `A`, `B`, `s`, `y`, …). The Persian duplicates should be reviewed:
@@ -72,5 +53,4 @@ The publication date may be intentional (original source date), but it is worth 
 ## Recommended order of work
 
 2. Review the Persian duplicate headwords.
-3. Clean up the rare `<br/>`/`<xr>` whitespace cases.
 4. Add XML validation to the split/combine workflow.
