@@ -3,7 +3,7 @@
 ## Source of truth
 
 - `aryanpour.parts/NN-*.xml` are the editable source files.
-- `aryanpour.tei` is generated/git-ignored; regenerate only when needed.
+- `aryanpour.tei` in the project root is a manual build artifact for conversion and testing. Agents must always ignore it: never read, modify, compare against, or regenerate it unless explicitly asked.
 - Record applied work in `changelog/YYYY-MM-DD.md`.
 - Keep `review.md` for remaining issues only; remove items once fixed.
 - Do not renumber remaining issues in `review.md` after removing fixed issues; keep their original numbers.
@@ -23,4 +23,4 @@ print('ZWNJ before punctuation:', len(re.findall(r'\u200c[-–(\)!؟;.,:&/"]', t
 PY
 ```
 
-Expected: 181,160 entries, valid XML, and no ZWNJ before punctuation.
+Expected: 181,144 entries, valid XML, and no ZWNJ before punctuation.

@@ -58,6 +58,10 @@ LATIN_VARIANTS = {
 ENGLISH_MAP = {chr(ord("a") + i): f"{i + 2:02d}-{chr(ord('a') + i)}" for i in range(26)}
 PUNC_FILE = "01-puncs-digits"
 HEADER_FILE = "00-header"
+PUNC_PLACEHOLDER = (
+    "<!-- Reserved for entries whose headword starts with punctuation or a digit. "
+    "No entries currently sort here. -->\n"
+)
 ENTRY_RE = re.compile(r"<entry>.*?</entry>", re.S)
 
 
@@ -163,6 +167,8 @@ def main():
             content = "\n".join(entry for _, entry in entries)
             if content:
                 content += "\n"
+            elif name == PUNC_FILE:
+                content = PUNC_PLACEHOLDER
             if name == last_file:
                 content += footer.lstrip("\n")
         with open(path, "w", encoding="utf-8", newline="") as f:

@@ -12924,18 +12924,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>احساس گرمی کردن (عامیانه)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>burn</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>احساس گناه</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -99182,13 +99170,6 @@
 				<ref>aw</ref>
 			</quote>
 		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>اه!</orth>
-	</form>
-	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>nuts</ref>

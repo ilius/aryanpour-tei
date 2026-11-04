@@ -13712,13 +13712,6 @@
 				<ref>dude</ref>
 			</quote>
 		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>آدم (خودمانی)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>bloke</ref>
@@ -36661,13 +36654,6 @@
 				<ref>crowfoot</ref>
 			</quote>
 		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>آلاله (گیاه شناسی)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>buttercup</ref>
@@ -46818,30 +46804,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>آهسته (موسیقی)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>adagio</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>آهسته و آرام (موسیقی)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>adagio</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>آهسته و آرام (موسیقی)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -48093,13 +48055,6 @@
 				<ref>chant</ref>
 			</quote>
 		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>آهنگ (موسیقی)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>melody</ref>
@@ -48306,13 +48261,6 @@
 				<ref>harmonic</ref>
 			</quote>
 		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>آهنگین (موسیقی)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>melodious</ref>
