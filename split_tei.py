@@ -62,7 +62,7 @@ PUNC_PLACEHOLDER = (
     "<!-- Reserved for entries whose headword starts with punctuation or a digit. "
     "No entries currently sort here. -->\n"
 )
-ENTRY_RE = re.compile(r"<entry>.*?</entry>", re.S)
+ENTRY_RE = re.compile(r"<entry(?:\s[^>]*)?>.*?</entry>", re.S)
 
 
 def fold_latin(ch):
@@ -94,7 +94,12 @@ def entry_file(headword):
         if not ch.isalpha():
             continue
         if "\u0600" <= ch <= "\u06ff":
-            return PERSIAN_MAP.get(ch, PUNC_FILE)
+            ch = ARABIC_VARIANTS.get(ch, ch)
+            if ch not in PERSIAN_MAP:
+                raise ValueError(
+                    f"cannot route headword {headword!r}: unmapped Persian character {ch!r}"
+                )
+            return PERSIAN_MAP[ch]
         base = fold_latin(ch)
         if base in ENGLISH_MAP:
             return ENGLISH_MAP[base]
@@ -114,6 +119,7 @@ def all_filenames():
 
 
 def dedent_entry(text):
+    text = text.rstrip()
     lines = text.split("\n")
     prefixes = []
     for line in lines[1:]:
@@ -130,6 +136,19 @@ def dedent_entry(text):
     )
 
 
+def normalize_footer(text):
+    indents = {"</body>": "\t\t", "</text>": "\t", "</TEI>": ""}
+    lines = [line.strip() for line in text.strip().splitlines() if line.strip()]
+    result = []
+    for line in lines:
+        for tag, indent in indents.items():
+            if line.startswith(tag):
+                line = indent + line
+                break
+        result.append(line)
+    return "\n".join(result) + "\n" if result else ""
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--input", default="aryanpour.tei")
@@ -144,17 +163,16 @@ def main():
         raise SystemExit("no entries found")
 
     header = data[: matches[0].start()]
-    footer = data[matches[-1].end():]
+    footer = normalize_footer(data[matches[-1].end():])
+    footer_file = all_filenames()[-1]
 
     outputs = {name: [] for name in all_filenames()}
-    last_file = None
 
     for match in matches:
         entry = match.group(0)
         orth = re.search(r"<orth>(.*?)</orth>", entry, re.S)
         headword = orth.group(1) if orth else ""
-        last_file = entry_file(headword)
-        outputs[last_file].append((headword, dedent_entry(entry)))
+        outputs[entry_file(headword)].append((headword, dedent_entry(entry)))
 
     os.makedirs(args.outdir, exist_ok=True)
 
@@ -169,8 +187,8 @@ def main():
                 content += "\n"
             elif name == PUNC_FILE:
                 content = PUNC_PLACEHOLDER
-            if name == last_file:
-                content += footer.lstrip("\n")
+            if name == footer_file:
+                content += footer
         with open(path, "w", encoding="utf-8", newline="") as f:
             f.write(content)
 

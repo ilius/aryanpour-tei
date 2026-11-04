@@ -2,9 +2,18 @@
 import argparse
 import os
 import re
+import xml.etree.ElementTree as ET
 
-ENTRY_RE = re.compile(r"<entry>.*?</entry>", re.S)
+ENTRY_RE = re.compile(r"<entry(?:\s[^>]*)?>.*?</entry>", re.S)
 INDENT = "\t\t\t"
+
+
+def read_part(path, name):
+    with open(path, encoding="utf-8") as f:
+        text = f.read()
+    if text and not text.endswith("\n"):
+        raise SystemExit(f"{name} does not end with a newline")
+    return text
 
 
 def main():
@@ -18,13 +27,11 @@ def main():
     if not files:
         raise SystemExit(f"no part files found in {args.indir}")
 
-    with open(os.path.join(args.indir, files[0]), encoding="utf-8") as f:
-        header = f.read().rstrip()
+    header = read_part(os.path.join(args.indir, files[0]), files[0]).rstrip()
 
     chunks = []
     for name in files[1:]:
-        with open(os.path.join(args.indir, name), encoding="utf-8") as f:
-            chunks.append(f.read())
+        chunks.append(read_part(os.path.join(args.indir, name), name))
     body = "".join(chunks)
 
     matches = list(ENTRY_RE.finditer(body))
@@ -37,6 +44,13 @@ def main():
             out.write("\n" + INDENT + entry)
         if footer.strip():
             out.write("\n" + footer.lstrip("\n"))
+
+    with open(args.output, encoding="utf-8") as f:
+        combined = f.read()
+    try:
+        ET.fromstring(combined)
+    except ET.ParseError as exc:
+        raise SystemExit(f"combined output is not well-formed XML: {exc}")
 
     print(f"combined {len(files)} files, {len(matches)} entries into {args.output}")
 
