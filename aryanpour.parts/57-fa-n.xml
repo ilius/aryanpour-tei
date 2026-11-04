@@ -3662,7 +3662,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نابیمار (پزشکی - روان شناسی)</orth>
+		<orth>نابیمار (پزشکی – روان شناسی)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -15166,7 +15166,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>ناشنوا - ناگویا</orth>
+		<orth>ناشنوا – ناگویا</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -22242,7 +22242,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نامشخص (جانورشناسی - گیاه شناسی)</orth>
+		<orth>نامشخص (جانورشناسی – گیاه شناسی)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -25873,7 +25873,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نان ماتسو (خوراک‌پزی - مذهب)</orth>
+		<orth>نان ماتسو (خوراک‌پزی – مذهب)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -31288,7 +31288,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نت هم ساز (پژواک شناسی - موسیقی)</orth>
+		<orth>نت هم ساز (پژواک شناسی – موسیقی)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -33045,7 +33045,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نحو (دستور زبان - زبان شناسی)</orth>
+		<orth>نحو (دستور زبان – زبان شناسی)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -36133,7 +36133,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نرخ (منطق - ریاضی)</orth>
+		<orth>نرخ (منطق – ریاضی)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -38352,24 +38352,24 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نرینه - مادینه</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>sexual</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>نرینه مادینه</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>bisexual</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>نرینه – مادینه</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>sexual</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -39510,7 +39510,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نزله (پزشکی - دامپزشکی)</orth>
+		<orth>نزله (پزشکی – دامپزشکی)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -39899,7 +39899,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نژاد سفید (خودمانی - تحقیرآمیز)</orth>
+		<orth>نژاد سفید (خودمانی – تحقیرآمیز)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -43120,7 +43120,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نشان دادن پر و پاچه زنان (عامیانه - ناپسند)</orth>
+		<orth>نشان دادن پر و پاچه زنان (عامیانه – ناپسند)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -43180,7 +43180,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نشان دادن (شعر - نمایش)</orth>
+		<orth>نشان دادن (شعر – نمایش)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -44244,7 +44244,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نشان (موسیقی - علوم)</orth>
+		<orth>نشان (موسیقی – علوم)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -50058,7 +50058,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نفتی - شیمیایی</orth>
+		<orth>نفتی – شیمیایی</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -53960,7 +53960,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نقش (نمایش - فیلم)</orth>
+		<orth>نقش (نمایش – فیلم)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -53970,7 +53970,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نقش (نمایشنامه - تئاتر)</orth>
+		<orth>نقش (نمایشنامه – تئاتر)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -61722,7 +61722,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نمایش پر احساسات و پر تصنع و باور نکردنی (عامیانه - رادیو و تلویزیون)</orth>
+		<orth>نمایش پر احساسات و پر تصنع و باور نکردنی (عامیانه – رادیو و تلویزیون)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -62428,7 +62428,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نمایش گفت و شنودی (رادیو - تلویزیون)</orth>
+		<orth>نمایش گفت و شنودی (رادیو – تلویزیون)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -66647,7 +66647,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نواختن بدون آمادگی (خودمانی - موسیقی)</orth>
+		<orth>نواختن بدون آمادگی (خودمانی – موسیقی)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -66659,7 +66659,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نواختن بدون طرح قبلی (خودمانی - موسیقی)</orth>
+		<orth>نواختن بدون طرح قبلی (خودمانی – موسیقی)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -66671,7 +66671,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نواختن بدون نت قبلی (خودمانی - موسیقی)</orth>
+		<orth>نواختن بدون نت قبلی (خودمانی – موسیقی)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -71059,7 +71059,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نوری - برقی (فیزیک)</orth>
+		<orth>نوری – برقی (فیزیک)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
@@ -80756,7 +80756,7 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>نیرومند (عامیانه - شخص)</orth>
+		<orth>نیرومند (عامیانه – شخص)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
