@@ -979,7 +979,7 @@
 			<cit type="example">
 				<quote xml:lang="en">go call your dad!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>برو بابایت را صدا بزن‌!</quote>
+					<quote>برو بابایت را صدا بزن!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -2760,7 +2760,7 @@
 			<cit type="example">
 				<quote xml:lang="en">* what's the damage?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>(عامیانه) چقدر باید (خسارت) بپردازم‌؟</quote>
+					<quote>(عامیانه) چقدر باید (خسارت) بپردازم؟</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -2991,7 +2991,7 @@
 			<cit type="example">
 				<quote xml:lang="en">the dame is loaded with money!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>زنه حسابی پولداره‌!</quote>
+					<quote>زنه حسابی پولداره!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -3089,7 +3089,7 @@
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(ناپسند) این واژه را به کار بردن: !damn یا !damn it</quote>
+				<quote>(ناپسند) این واژه را به کار بردن: !damn یا!damn it</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -3109,7 +3109,7 @@
 			<cit type="example">
 				<quote xml:lang="en">damn! I cut my hand again!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>اه، دوباره دستم را بریدم‌!</quote>
+					<quote>اه، دوباره دستم را بریدم!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -3150,7 +3150,7 @@
 			<cit type="example">
 				<quote xml:lang="en">he was taken to jail? I don't give a damn!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>بردنش زندان‌؟ به جهنم‌!</quote>
+					<quote>بردنش زندان؟ به جهنم!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -3168,7 +3168,7 @@
 			<cit type="example">
 				<quote xml:lang="en">* well, I'll be damned!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>(نشان تعجب) عجب‌!، دنیا را چه دیدی‌!</quote>
+					<quote>(نشان تعجب) عجب!، دنیا را چه دیدی!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -3195,7 +3195,7 @@
 			<cit type="example">
 				<quote xml:lang="en">his damnable face!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>آن قیافهٔ نکبت او !</quote>
+					<quote>آن قیافهٔ نکبت او!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -3224,7 +3224,7 @@
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(حرف ندا به نشان خشم) جهنم‌!، وای‌!، اه‌!</quote>
+				<quote>(حرف ندا به نشان خشم) جهنم!، وای!، اه!</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3289,13 +3289,13 @@
 			<cit type="example">
 				<quote xml:lang="en">what a damned shame!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>چقدر اسفناک است‌!</quote>
+					<quote>چقدر اسفناک است!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">(you did) a damned good job!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>خیلی خوب کار کردی‌! مرحبا!</quote>
+					<quote>خیلی خوب کار کردی! مرحبا!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -3425,7 +3425,7 @@
 			<cit type="example">
 				<quote xml:lang="en">don't wear damp clothes!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>جامهٔ نم‌دار نپوش‌!</quote>
+					<quote>جامهٔ نم‌دار نپوش!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -3869,7 +3869,7 @@
 			<cit type="example">
 				<quote xml:lang="en">may I have the next dance?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>آیا می‌توانم (اجازه می‌دهید) رقص بعدی را با شما برقصم‌؟</quote>
+					<quote>آیا می‌توانم (اجازه می‌دهید) رقص بعدی را با شما برقصم؟</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -4823,7 +4823,7 @@
 			<cit type="example">
 				<quote xml:lang="en">what a dapper little man!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>چه مرد کوچولو و زبر و زرنگی‌!</quote>
+					<quote>چه مرد کوچولو و زبر و زرنگی!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -5108,7 +5108,7 @@
 			<cit type="example">
 				<quote xml:lang="en">* how dare you (he, she, etc.) !</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>چطور به خودت (خودش و غیره) اجازه میدهی !</quote>
+					<quote>چطور به خودت (خودش و غیره) اجازه میدهی!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -5860,7 +5860,7 @@
 			<cit type="example">
 				<quote xml:lang="en">what a darling skirt you have on!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>چه دامن خوشگلی پوشیده‌ای‌!</quote>
+					<quote>چه دامن خوشگلی پوشیده‌ای!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -5927,19 +5927,19 @@
 			<cit type="example">
 				<quote xml:lang="en">where did you put that darned book?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>آن کتاب لعنتی را کجا گذاشتی‌؟</quote>
+					<quote>آن کتاب لعنتی را کجا گذاشتی؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* darn it!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>(نشان خشم یا آزردگی) اه‌!، وای‌!</quote>
+					<quote>(نشان خشم یا آزردگی) اه!، وای!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">darn it! I am tired of calling him!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>اه - از بس صدایش زدم خسته شدم‌!</quote>
+					<quote>اه - از بس صدایش زدم خسته شدم!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -6271,7 +6271,7 @@
 			<cit type="example">
 				<quote xml:lang="en">o, dash it! where did I put the knife!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>اه - این چاقوی لعنتی را کجا گذاشتم‌!</quote>
+					<quote>اه - این چاقوی لعنتی را کجا گذاشتم!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -6364,7 +6364,7 @@
 			<cit type="example">
 				<quote xml:lang="en">he dashed off ten letters in less than an hour!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>در کمتر از یک ساعت ده تا نامه نوشت‌!</quote>
+					<quote>در کمتر از یک ساعت ده تا نامه نوشت!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -6766,7 +6766,7 @@
 			<cit type="example">
 				<quote xml:lang="en">what is the date on this coin?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>تاریخ این سکه چیست‌؟ این سکه کی ضرب شده‌؟</quote>
+					<quote>تاریخ این سکه چیست؟ این سکه کی ضرب شده؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -6789,19 +6789,19 @@
 			<cit type="example">
 				<quote xml:lang="en">do you remember the date of her arrival?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>آیا تاریخ ورود او را به یاد داری‌؟</quote>
+					<quote>آیا تاریخ ورود او را به یاد داری؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">at what date?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>در چه تاریخی‌؟ در چه زمانی‌؟</quote>
+					<quote>در چه تاریخی؟ در چه زمانی؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">what's the date today?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>امروز چه تاریخی است‌؟ تاریخ امروز چیست‌؟</quote>
+					<quote>امروز چه تاریخی است؟ تاریخ امروز چیست؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -6841,7 +6841,7 @@
 			<cit type="example">
 				<quote xml:lang="en">who was your date last night?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>دیشب با کدام دختر قرار داشتی‌؟</quote>
+					<quote>دیشب با کدام دختر قرار داشتی؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -7750,7 +7750,7 @@
 			<cit type="example">
 				<quote xml:lang="en">don't dawdle your time away watching television!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>وقت خود را با تلویزیون تماشا کردن حرام نکن‌!</quote>
+					<quote>وقت خود را با تلویزیون تماشا کردن حرام نکن!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -7895,7 +7895,7 @@
 			<cit type="example">
 				<quote xml:lang="en">what day is today?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>امروز چه روزی است‌؟</quote>
+					<quote>امروز چه روزی است؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -8136,7 +8136,7 @@
 			<cit type="example">
 				<quote xml:lang="en">* those were the days!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>خوشا به حال آن روزها!، چه روزهایی‌!</quote>
+					<quote>خوشا به حال آن روزها!، چه روزهایی!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -8460,7 +8460,7 @@
 			<cit type="example">
 				<quote xml:lang="en">* daylight robbery</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>(عامیانه - بیشتر در مورد رستوران و غیره ) دزدی سرگردنه</quote>
+					<quote>(عامیانه - بیشتر در مورد رستوران و غیره) دزدی سرگردنه</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -10316,7 +10316,7 @@
 			<cit type="example">
 				<quote xml:lang="en">when is the deadline for paying this loan?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>سررسید پرداخت این وام چه تاریخی است‌؟</quote>
+					<quote>سررسید پرداخت این وام چه تاریخی است؟</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -10971,7 +10971,7 @@
 			<cit type="example">
 				<quote xml:lang="en">whose deal is it?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>چه کسی باید دست بده‌؟</quote>
+					<quote>چه کسی باید دست بده؟</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -11011,7 +11011,7 @@
 			<cit type="example">
 				<quote xml:lang="en">* big deal</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>(عامیانه) 1- آدم مهم، آدم کله گنده، (چیز یا کار) مهم 2- (حرف ندا حاکی از تحسین یا شادی یا تمسخر) ای بابا!، دیگه چی‌؟، یعنی میگی‌چه کنم‌؟</quote>
+					<quote>(عامیانه) 1- آدم مهم، آدم کله گنده، (چیز یا کار) مهم 2- (حرف ندا حاکی از تحسین یا شادی یا تمسخر) ای بابا!، دیگه چی؟، یعنی میگی‌چه کنم؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -11416,7 +11416,7 @@
 			<cit type="example">
 				<quote xml:lang="en">don't tease your brother, dear!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>جانم، برادرت را اذیت نکن‌!</quote>
+					<quote>جانم، برادرت را اذیت نکن!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -11490,7 +11490,7 @@
 			<cit type="example">
 				<quote xml:lang="en">oh dear, did you fall again!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>وای، دوباره افتادی‌!</quote>
+					<quote>وای، دوباره افتادی!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -11801,7 +11801,7 @@
 			<cit type="example">
 				<quote xml:lang="en">I am sick to death of these kids!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>از دست این بچه‌ها جانم به لب آمده‌!</quote>
+					<quote>از دست این بچه‌ها جانم به لب آمده!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -12497,7 +12497,7 @@
 			<cit type="example">
 				<quote xml:lang="en">don't debase yourself by asking for money!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>با درخواست پول خود را خوار و خفیف نکن‌!</quote>
+					<quote>با درخواست پول خود را خوار و خفیف نکن!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -14714,7 +14714,7 @@
 			<cit type="example">
 				<quote xml:lang="en">take off those short pants and wear something more decent</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>آن شلوار کوتاه را دربیار و یک چیز مناسب‌تر بپوش‌!</quote>
+					<quote>آن شلوار کوتاه را دربیار و یک چیز مناسب‌تر بپوش!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -16115,7 +16115,7 @@
 			<cit type="example">
 				<quote xml:lang="en">* I declare!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>تعجب می‌کنم‌!، راست میگی‌!، نه‌!</quote>
+					<quote>تعجب می‌کنم!، راست میگی!، نه!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -17452,7 +17452,7 @@
 			<cit type="example">
 				<quote xml:lang="en">is divorce on the decrease?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>آیا طلاق رو به کاهش است‌؟</quote>
+					<quote>آیا طلاق رو به کاهش است؟</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -18949,7 +18949,7 @@
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>فریزر (دستگاهی که خوراک را به تندی و شدت منجمد می‌کند )</quote>
+				<quote>فریزر (دستگاهی که خوراک را به تندی و شدت منجمد می‌کند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -20612,7 +20612,7 @@
 			<cit type="example">
 				<quote xml:lang="en">what is the definition of "total"?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>معنی "total" چیست‌؟</quote>
+					<quote>معنی "total" چیست؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -24375,7 +24375,7 @@
 			<cit type="example">
 				<quote xml:lang="en">your baby is such a delight!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>کودک شما واقعا دوست داشتنی است‌؟</quote>
+					<quote>کودک شما واقعا دوست داشتنی است؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -25762,7 +25762,7 @@
 			<cit type="example">
 				<quote xml:lang="en">don't make too many demands!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>خواسته‌های بیش از حد را عنوان نکن‌!، خیلی تحکم نکن‌!</quote>
+					<quote>خواسته‌های بیش از حد را عنوان نکن!، خیلی تحکم نکن!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -29430,7 +29430,7 @@
 			<cit type="example">
 				<quote xml:lang="en">how come you are so dense?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>تو چرا اینقدر خنگی‌؟</quote>
+					<quote>تو چرا اینقدر خنگی؟</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -30216,7 +30216,7 @@
 			<cit type="example">
 				<quote xml:lang="en">don't deny it, you were the one who broke the cup!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>حاشا نکن‌! تو بودی که فنجان را شکستی‌!</quote>
+					<quote>حاشا نکن! تو بودی که فنجان را شکستی!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -30771,7 +30771,7 @@
 			<cit type="example">
 				<quote xml:lang="en">write the first draft; editing and rewriting it is Ahmad's department</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>من نسخهٔ اول را می‌نویسم‌; بازنویسی و ویراستاری آن کار احمد است.</quote>
+					<quote>من نسخهٔ اول را می‌نویسم; بازنویسی و ویراستاری آن کار احمد است.</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -30881,7 +30881,7 @@
 			<cit type="example">
 				<quote xml:lang="en">what time is your departure?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>حرکت شما چه ساعتی است‌؟</quote>
+					<quote>حرکت شما چه ساعتی است؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -32585,7 +32585,7 @@
 			<cit type="example">
 				<quote xml:lang="en">today, you look very depressed!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>امروز خیلی افسرده به نظر می‌رسی‌!</quote>
+					<quote>امروز خیلی افسرده به نظر می‌رسی!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -33071,7 +33071,7 @@
 			<cit type="example">
 				<quote xml:lang="en">what is the average depth of this river?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>عمق متوسط این دریاچه چقدر است‌؟</quote>
+					<quote>عمق متوسط این دریاچه چقدر است؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -33853,7 +33853,7 @@
 			<cit type="example">
 				<quote xml:lang="en">what is the derivation of this word?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>اشتقاق این واژه چیست‌؟</quote>
+					<quote>اشتقاق این واژه چیست؟</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -35562,7 +35562,7 @@
 			<cit type="example">
 				<quote xml:lang="en">he deserves praise not punishment!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>او سزاوار تحسین است نه تنبیه‌!</quote>
+					<quote>او سزاوار تحسین است نه تنبیه!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -38652,7 +38652,7 @@
 			<cit type="example">
 				<quote xml:lang="en">* spare me the details!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>وارد جزئیات نشو!، آب و تابش نده‌!</quote>
+					<quote>وارد جزئیات نشو!، آب و تابش نده!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -40384,7 +40384,7 @@
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(حرف ندا حاکی از خشم یا شگفتی و غیره) درک‌!، نکبت‌!</quote>
+				<quote>(حرف ندا حاکی از خشم یا شگفتی و غیره) درک!، نکبت!</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -40409,7 +40409,7 @@
 			<cit type="example">
 				<quote xml:lang="en">you're in a deuced fix now!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>حالا در بد مخمصه‌ای گرفتار شده‌ای‌!</quote>
+					<quote>حالا در بد مخمصه‌ای گرفتار شده‌ای!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -40546,7 +40546,7 @@
 		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(شیمی) دوتریوم (ایزوتوپ هیدروژن که در راکتورهای اتمی و غیره به کار می‌رود - نشان آن: D، وزن اتمی: 2/0141، نقطهٔ‌گداز -254/54c، وزن مخصوص: 2، نقطهٔ جوش: -249c)</quote>
+				<quote>(شیمی) دوتریوم (ایزوتوپ هیدروژن که در راکتورهای اتمی و غیره به کار می‌رود - نشان آن: D، وزن اتمی: 2/0141، نقطهٔگداز -254/54c، وزن مخصوص: 2، نقطهٔ جوش: -249c)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -41658,7 +41658,7 @@
 			<cit type="example">
 				<quote xml:lang="en">* go to the devil</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>1- گمراه و فاسد شدن 2- (حرف امر حاکی از خشم) برو به جهنم‌!، گورت را گم‌کن‌!</quote>
+					<quote>1- گمراه و فاسد شدن 2- (حرف امر حاکی از خشم) برو به جهنم!، گورت را گم‌کن!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -41682,7 +41682,7 @@
 			<cit type="example">
 				<quote xml:lang="en">* talk of the devil!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>(هنگام صحبت دربارهٔ کسی اگر او وارد شود این عبارت را می‌گویند) حلال‌زاده‌!، انگار که موشو آتش زدند!</quote>
+					<quote>(هنگام صحبت دربارهٔ کسی اگر او وارد شود این عبارت را می‌گویند) حلال‌زاده!، انگار که موشو آتش زدند!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -41694,7 +41694,7 @@
 			<cit type="example">
 				<quote xml:lang="en">the devil you did!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>واقعا راست می‌گویی که این کار را کردی‌!</quote>
+					<quote>واقعا راست می‌گویی که این کار را کردی!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -41712,7 +41712,7 @@
 			<cit type="example">
 				<quote xml:lang="en">there will be the devil to pay if you come late!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>وای بر تو اگر دیر بیایی‌!</quote>
+					<quote>وای بر تو اگر دیر بیایی!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -44579,7 +44579,7 @@
 			<cit type="example">
 				<quote xml:lang="en">draw me a diagram of the engine!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>نمودار موتور را برایم بکش‌!</quote>
+					<quote>نمودار موتور را برایم بکش!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -46536,7 +46536,7 @@
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(حرف ندا - کودکانه) منم میخام‌!، من‌!</quote>
+				<quote>(حرف ندا - کودکانه) منم میخام!، من!</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -46672,7 +46672,7 @@
 			<cit type="example">
 				<quote xml:lang="en">* no dice !</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>(عامیانه) 1- هرگز!، ابدا!، نه 2- قبول ندارم‌!، نمیشه !</quote>
+					<quote>(عامیانه) 1- هرگز!، ابدا!، نه 2- قبول ندارم!، نمیشه!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -47101,13 +47101,13 @@
 			<cit type="example">
 				<quote xml:lang="en">where the dickens had you gone to?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>کدام گور رفته بودی‌؟</quote>
+					<quote>کدام گور رفته بودی؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">we had the dickens of a time finding your house!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>پدرمان درآمد تا خانهٔ شما را پیدا کردیم‌!</quote>
+					<quote>پدرمان درآمد تا خانهٔ شما را پیدا کردیم!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -47713,7 +47713,7 @@
 			<cit type="example">
 				<quote xml:lang="en">how much does this English-Persian dictionary cost?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>این فرهنگ انگلیسی - فارسی چند است‌؟</quote>
+					<quote>این فرهنگ انگلیسی - فارسی چند است؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -48112,7 +48112,7 @@
 			<cit type="example">
 				<quote xml:lang="en">Adam, didst thou disobey me?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>آیا از من نافرمانی کردی آدم‌؟</quote>
+					<quote>آیا از من نافرمانی کردی آدم؟</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -48222,7 +48222,7 @@
 			<cit type="example">
 				<quote xml:lang="en">to die, to sleep no more!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>(شکسپیر) مردن و دیگر نخوابیدن‌!</quote>
+					<quote>(شکسپیر) مردن و دیگر نخوابیدن!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -48233,7 +48233,7 @@
 			<cit type="example">
 				<quote xml:lang="en">when I saw her, I died of shame</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>او را که دیدم از شرم مردم‌!</quote>
+					<quote>او را که دیدم از شرم مردم!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -49165,13 +49165,13 @@
 			<cit type="example">
 				<quote xml:lang="en">I am sorry to differ with you on this!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>متاسفم که در این مورد با شما مخالفم‌!</quote>
+					<quote>متاسفم که در این مورد با شما مخالفم!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">I beg to differ!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>اجازه بدهید مخالفت خود را ابراز کنم‌!</quote>
+					<quote>اجازه بدهید مخالفت خود را ابراز کنم!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -49389,7 +49389,7 @@
 		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(با: from و [عامیانه‌] than و [انگلیس‌] to) متفاوت، ناسان، ناهمسان، وابر، ناساز، نابرابر، دگرسان</quote>
+				<quote>(با: from و [عامیانه] than و [انگلیس] to) متفاوت، ناسان، ناهمسان، وابر، ناساز، نابرابر، دگرسان</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">different points of view</quote>
@@ -49712,7 +49712,7 @@
 			<cit type="example">
 				<quote xml:lang="en">can you differentiate between these two colors?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>آیا می‌توانی این دو رنگ را از هم تشخیص بدهی‌؟</quote>
+					<quote>آیا می‌توانی این دو رنگ را از هم تشخیص بدهی؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -49949,7 +49949,7 @@
 			<cit type="example">
 				<quote xml:lang="en">to succeed you must overcome diffidence!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>شرط موفقیت آن است که بر عدم اعتماد به نفس چیره شوی‌!</quote>
+					<quote>شرط موفقیت آن است که بر عدم اعتماد به نفس چیره شوی!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -49976,7 +49976,7 @@
 			<cit type="example">
 				<quote xml:lang="en">don't be so diffident about your abilities</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>دربارهٔ توانایی‌های خود این همه بی‌اعتماد نباش‌!</quote>
+					<quote>دربارهٔ توانایی‌های خود این همه بی‌اعتماد نباش!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -50380,7 +50380,7 @@
 			<cit type="example">
 				<quote xml:lang="en">do you dig my meaning?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>مقصودم را می‌فهمی‌؟</quote>
+					<quote>مقصودم را می‌فهمی؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -50442,7 +50442,7 @@
 			<cit type="example">
 				<quote xml:lang="en">give the donkey a hard dig in the side!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>به پهلوی الاغ یک سکهٔ محکم بزن‌!</quote>
+					<quote>به پهلوی الاغ یک سکهٔ محکم بزن!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -52692,7 +52692,7 @@
 			<cit type="example">
 				<quote xml:lang="en">we didn't even make a dime!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>حتی یک غاز هم کاسبی نکردیم‌!</quote>
+					<quote>حتی یک غاز هم کاسبی نکردیم!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -52797,7 +52797,7 @@
 			<cit type="example">
 				<quote xml:lang="en">what are the dimensions of this box?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>ابعاد این جعبه چقدر است‌؟</quote>
+					<quote>ابعاد این جعبه چقدر است؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -52960,7 +52960,7 @@
 		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(شعر انگلیسی ) دو پایه (سطر شعر دارای دو feet)</quote>
+				<quote>(شعر انگلیسی) دو پایه (سطر شعر دارای دو feet)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -53606,7 +53606,7 @@
 			<cit type="example">
 				<quote xml:lang="en">let's dine out tonight!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>بیا امشب شام برویم بیرون‌!</quote>
+					<quote>بیا امشب شام برویم بیرون!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -53773,7 +53773,7 @@
 			<cit type="example">
 				<quote xml:lang="en">she gave me a ding across the ear!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>او دنگی زد تو گوشم‌!</quote>
+					<quote>او دنگی زد تو گوشم!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -54212,7 +54212,7 @@
 			<cit type="example">
 				<quote xml:lang="en">what's for dinner?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>شام چی داریم‌؟</quote>
+					<quote>شام چی داریم؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -56558,7 +56558,7 @@
 			<cit type="example">
 				<quote xml:lang="en">in which direction did the bandit go?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>راهزن کدام ور رفت‌؟</quote>
+					<quote>راهزن کدام ور رفت؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -57270,7 +57270,7 @@
 			<cit type="example">
 				<quote xml:lang="en">how can I get the dirt off my hand?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>چطور دست‌هایم را از کثافت پاک کنم‌؟</quote>
+					<quote>چطور دست‌هایم را از کثافت پاک کنم؟</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -57479,7 +57479,7 @@
 			<cit type="example">
 				<quote xml:lang="en">don't use dirty language in front of the kids</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>جلو بچه‌ها حرف رکیک نزن‌!</quote>
+					<quote>جلو بچه‌ها حرف رکیک نزن!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -57556,7 +57556,7 @@
 			<cit type="example">
 				<quote xml:lang="en">I am sick of this dirty weather!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>از این هوای گند بیزارم‌!</quote>
+					<quote>از این هوای گند بیزارم!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -57584,7 +57584,7 @@
 			<cit type="example">
 				<quote xml:lang="en">don't dirty your face!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>صورتت را کثیف نکن‌!</quote>
+					<quote>صورتت را کثیف نکن!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -58433,7 +58433,7 @@
 			<cit type="example">
 				<quote xml:lang="en">what disappointing news!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>چه خبر مایوس کننده‌ای‌!</quote>
+					<quote>چه خبر مایوس کننده‌ای!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -61173,7 +61173,7 @@
 			<cit type="example">
 				<quote xml:lang="en">you must discount some of the things Agha Rahim says</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>برخی از حرف‌های آقا رحیم را نباید باور کنی‌!</quote>
+					<quote>برخی از حرف‌های آقا رحیم را نباید باور کنی!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -61208,7 +61208,7 @@
 			<cit type="example">
 				<quote xml:lang="en">helping the poor seems to be at a discount today!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>ظاهرا این روزها دستگیری از مسکینان چندان متداول نیست‌!</quote>
+					<quote>ظاهرا این روزها دستگیری از مسکینان چندان متداول نیست!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -61343,7 +61343,7 @@
 			<cit type="example">
 				<quote xml:lang="en">I am very discouraged!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>خیلی سرخورده شده‌ام‌!</quote>
+					<quote>خیلی سرخورده شده‌ام!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -61851,7 +61851,7 @@
 			<cit type="example">
 				<quote xml:lang="en">be discreet and do not refer to her being an orphan!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>محتاط باش و اشاره‌ای به یتیم بودن او نکن‌!</quote>
+					<quote>محتاط باش و اشاره‌ای به یتیم بودن او نکن!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -62916,7 +62916,7 @@
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(از قید چیزی ) آزاد کردن، رهانیدن، (از تعهد و غیره) درآوردن</quote>
+				<quote>(از قید چیزی) آزاد کردن، رهانیدن، (از تعهد و غیره) درآوردن</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -63436,7 +63436,7 @@
 			<cit type="example">
 				<quote xml:lang="en">you are a disgrace to the human race!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>تو مایهٔ ننگ بشریت هستی‌!</quote>
+					<quote>تو مایهٔ ننگ بشریت هستی!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -63514,7 +63514,7 @@
 			<cit type="example">
 				<quote xml:lang="en">you are very disgraceful!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>تو خیلی بی‌آبرو هستی‌!</quote>
+					<quote>تو خیلی بی‌آبرو هستی!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -63598,7 +63598,7 @@
 			<cit type="example">
 				<quote xml:lang="en">everyone thought she was an old woman, but when her disguises were removed, she was found to be a ten-year old girl!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>همه می‌پنداشتند پیرزن است ولی وقتی نقاب او را برداشتند معلوم شد دختر بچه‌ای ده ساله است‌!</quote>
+					<quote>همه می‌پنداشتند پیرزن است ولی وقتی نقاب او را برداشتند معلوم شد دختر بچه‌ای ده ساله است!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -63821,7 +63821,7 @@
 			<cit type="example">
 				<quote xml:lang="en">Madonna is such a nice dish!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>مادونا عجب چیز خوبیه‌!</quote>
+					<quote>مادونا عجب چیز خوبیه!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -63843,7 +63843,7 @@
 			<cit type="example">
 				<quote xml:lang="en">all the guests are here; why don't you dish out the food?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>مهمانان همه اینجا هستند; چرا غذا را نمی‌کشی‌؟</quote>
+					<quote>مهمانان همه اینجا هستند; چرا غذا را نمی‌کشی؟</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -64101,7 +64101,7 @@
 			<cit type="example">
 				<quote xml:lang="en">he ate a dishful of Chello Kabob and said, "what's for lunch?"</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>او یک پرس چلوکباب کامل را خورد و گفت ((نهار چی داریم‌؟))</quote>
+					<quote>او یک پرس چلوکباب کامل را خورد و گفت ((نهار چی داریم؟))</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -65735,7 +65735,7 @@
 			<cit type="example">
 				<quote xml:lang="en">you must dismiss such childish anxieties!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>تو باید این نگرانی‌های کودکانه را از سر بیرون کنی‌!</quote>
+					<quote>تو باید این نگرانی‌های کودکانه را از سر بیرون کنی!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -67674,7 +67674,7 @@
 		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>تفریح و شادی کردن، جست و خیز کردن، شادمانی کردن (معمولا با -self )، کیف کردن</quote>
+				<quote>تفریح و شادی کردن، جست و خیز کردن، شادمانی کردن (معمولا با -self)، کیف کردن</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">there the youths disported themselves to their heart's content</quote>
@@ -68861,7 +68861,7 @@
 			<cit type="example">
 				<quote xml:lang="en">you must not be disrespectful toward your uncle!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>تو نباید نسبت به عموی خود بی‌احترامی بکنی‌!</quote>
+					<quote>تو نباید نسبت به عموی خود بی‌احترامی بکنی!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -69178,7 +69178,7 @@
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(زمین‌شناسی - دارای بریدگی و تپه ماهور در اثر فرسایش )، پرگسله</quote>
+				<quote>(زمین‌شناسی - دارای بریدگی و تپه ماهور در اثر فرسایش)، پرگسله</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -70765,7 +70765,7 @@
 			<cit type="example">
 				<quote xml:lang="en">what is the distance between Tehran and Kashan?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>فاصلهٔ بین تهران و کاشان چقدر است‌؟</quote>
+					<quote>فاصلهٔ بین تهران و کاشان چقدر است؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -70805,7 +70805,7 @@
 			<cit type="example">
 				<quote xml:lang="en">does her distance have anything to do with what I said?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>آیا سردی او به واسطهٔ حرفی است که من زده‌ام‌؟</quote>
+					<quote>آیا سردی او به واسطهٔ حرفی است که من زده‌ام؟</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -71032,7 +71032,7 @@
 		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(با: for ) بی‌میلی، اکراه، بیزاری، نفرت، روی‌گردانی از، آریغ</quote>
+				<quote>(با: for) بی‌میلی، اکراه، بیزاری، نفرت، روی‌گردانی از، آریغ</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">she had a distaste for boxing</quote>
@@ -76587,7 +76587,7 @@
 			<cit type="example">
 				<quote xml:lang="en">do what I tell you!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>آنچه را که به تو می‌گویم بکن‌!</quote>
+					<quote>آنچه را که به تو می‌گویم بکن!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -76611,13 +76611,13 @@
 			<cit type="example">
 				<quote xml:lang="en">do your best!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>حداکثر سعی خودت را بکن‌!</quote>
+					<quote>حداکثر سعی خودت را بکن!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">do, don't merely talk!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>تنها حرف را نزن - عمل کن‌!</quote>
+					<quote>تنها حرف را نزن - عمل کن!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -76730,7 +76730,7 @@
 			<cit type="example">
 				<quote xml:lang="en">will this do?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>آیا این کافی است‌؟</quote>
+					<quote>آیا این کافی است؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -76808,7 +76808,7 @@
 			<cit type="example">
 				<quote xml:lang="en">do you know my name?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>اسم مرا میدانی‌؟</quote>
+					<quote>اسم مرا میدانی؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -76978,7 +76978,7 @@
 			<cit type="example">
 				<quote xml:lang="en">* is anything doing tonight</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>آیا امشب خبری هست‌؟ (مهمانی و غیره هست‌؟)</quote>
+					<quote>آیا امشب خبری هست؟ (مهمانی و غیره هست؟)</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -77223,7 +77223,7 @@
 		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(حشره‌شناسی ) مگس دابسون (از تیرهٔ Corydalidae که لیسهٔ آن در آب زندگی می‌کند)</quote>
+				<quote>(حشره‌شناسی) مگس دابسون (از تیرهٔ Corydalidae که لیسهٔ آن در آب زندگی می‌کند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -78627,7 +78627,7 @@
 			<cit type="example">
 				<quote xml:lang="en">doest thou know? (do you know?)</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>آیا تو میدانی‌؟</quote>
+					<quote>آیا تو میدانی؟</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -78733,7 +78733,7 @@
 			<cit type="example">
 				<quote xml:lang="en">you're a lucky dog!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>بچه خوش شانسی هستی‌!</quote>
+					<quote>بچه خوش شانسی هستی!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -79359,7 +79359,7 @@
 			<cit type="example">
 				<quote xml:lang="en">this room is too doggone big!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>این اتاق دیگه زیادی بزرگه‌!</quote>
+					<quote>این اتاق دیگه زیادی بزرگه!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -79370,7 +79370,7 @@
 			<cit type="example">
 				<quote xml:lang="en">I'll be doggoned if I go!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>لعنت بر من اگر بروم‌!</quote>
+					<quote>لعنت بر من اگر بروم!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -80108,7 +80108,7 @@
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(دستور نواختن موسیقی) آرام بنوازید!، ملایم‌!</quote>
+				<quote>(دستور نواختن موسیقی) آرام بنوازید!، ملایم!</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -80631,7 +80631,7 @@
 		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(از ریشهٔ ترکی )</quote>
+				<quote>(از ریشهٔ ترکی)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -81536,7 +81536,7 @@
 			<cit type="example">
 				<quote xml:lang="en">don't dominate the conversation!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>متکلم وحده نشو!، بحث را قبضه نکن‌!</quote>
+					<quote>متکلم وحده نشو!، بحث را قبضه نکن!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -82573,13 +82573,13 @@
 			<cit type="example">
 				<quote xml:lang="en">don't be a donkey!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>خر نباش‌! (یا خر بازی در نیار!)</quote>
+					<quote>خر نباش! (یا خر بازی در نیار!)</quote>
 				</cit>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">his master is an absolute donkey</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>ارباب او یک خر تمام عیار است‌!</quote>
+					<quote>ارباب او یک خر تمام عیار است!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -83136,7 +83136,7 @@
 			<cit type="example">
 				<quote xml:lang="en">open the door!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>در را باز کن‌!</quote>
+					<quote>در را باز کن!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -83686,7 +83686,7 @@
 			<cit type="example">
 				<quote xml:lang="en">you forgot your book again, you dope!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>خنگ خدا! بازم کتابتو فراموش کردی‌!</quote>
+					<quote>خنگ خدا! بازم کتابتو فراموش کردی!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -85596,7 +85596,7 @@
 			<cit type="example">
 				<quote xml:lang="en">he looks like your double!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>او عین تو است‌!</quote>
+					<quote>او عین تو است!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -86689,7 +86689,7 @@
 			<cit type="example">
 				<quote xml:lang="en">I had doublets!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>من جفت آوردم‌!</quote>
+					<quote>من جفت آوردم!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -87679,7 +87679,7 @@
 			<cit type="example">
 				<quote xml:lang="en">come my dove, don't be afraid!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>عزیزم بیا، نترس‌!</quote>
+					<quote>عزیزم بیا، نترس!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -88110,7 +88110,7 @@
 			<cit type="example">
 				<quote xml:lang="en">don't kick a man when he is down!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>آدم افتاده را لگد نزن‌!</quote>
+					<quote>آدم افتاده را لگد نزن!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -88144,7 +88144,7 @@
 			<cit type="example">
 				<quote xml:lang="en">turn down the radio!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>رادیو را کم کن‌!</quote>
+					<quote>رادیو را کم کن!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -88155,7 +88155,7 @@
 			<cit type="example">
 				<quote xml:lang="en">you must get down to work!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>باید حسابی کار کنی‌!</quote>
+					<quote>باید حسابی کار کنی!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -88331,7 +88331,7 @@
 			<cit type="example">
 				<quote xml:lang="en">down with dictatorship!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>سرنگون باد رژیم دیکتاتوری‌!</quote>
+					<quote>سرنگون باد رژیم دیکتاتوری!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -88349,7 +88349,7 @@
 			<cit type="example">
 				<quote xml:lang="en">the steps are slippery, don't fall down!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>پله‌ها لیز است نیافتی‌!</quote>
+					<quote>پله‌ها لیز است نیافتی!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -89738,7 +89738,7 @@
 			<cit type="example">
 				<quote xml:lang="en">how much are eggs per dozen?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>قیمت هر دوجین تخم‌مرغ چقدر است‌؟</quote>
+					<quote>قیمت هر دوجین تخم‌مرغ چقدر است؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -90370,7 +90370,7 @@
 			<cit type="example">
 				<quote xml:lang="en">don't sit in the draft!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>در کوران ننشین‌!، جلو باد ننشین‌!</quote>
+					<quote>در کوران ننشین!، جلو باد ننشین!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -90805,7 +90805,7 @@
 			<cit type="example">
 				<quote xml:lang="en">why do you drag politics into everything?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>چرا همه چیز را به سیاست می‌کشانی‌؟</quote>
+					<quote>چرا همه چیز را به سیاست می‌کشانی؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -91197,7 +91197,7 @@
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(با: into ) وادار کردن، مجبور کردن</quote>
+				<quote>(با: into) وادار کردن، مجبور کردن</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">they dragooned him into marrying the pregnant girl</quote>
@@ -92161,7 +92161,7 @@
 		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(حرف ندا) اه‌!، آی، وای، خاک عالم</quote>
+				<quote>(حرف ندا) اه!، آی، وای، خاک عالم</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -92349,7 +92349,7 @@
 			<cit type="example">
 				<quote xml:lang="en">draw the curtain!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>پرده را بکش‌!</quote>
+					<quote>پرده را بکش!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -92405,7 +92405,7 @@
 			<cit type="example">
 				<quote xml:lang="en">don't draw in the cigarette smoke!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>دود سیگار را تو نده‌!</quote>
+					<quote>دود سیگار را تو نده!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -92587,7 +92587,7 @@
 			<cit type="example">
 				<quote xml:lang="en">what conclusions do you draw from his answer?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>از پاسخ او چه نتیجه‌ای می‌گیری‌؟</quote>
+					<quote>از پاسخ او چه نتیجه‌ای می‌گیری؟</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -92851,7 +92851,7 @@
 			<cit type="example">
 				<quote xml:lang="en">* draw it mild!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>(انگلیس - خودمانی) کم مبالغه بکن‌!</quote>
+					<quote>(انگلیس - خودمانی) کم مبالغه بکن!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -92887,7 +92887,7 @@
 			<cit type="example">
 				<quote xml:lang="en">* draw up</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>1- آراستن، مرتب کردن، بسیج کردن، فراخواندن 2- (متون حقوقی و غیره را) تدوین کردن، نوشتن 3- ایستاندن، متوقف کردن یا شدن‌4- خود را جمع کردن</quote>
+					<quote>1- آراستن، مرتب کردن، بسیج کردن، فراخواندن 2- (متون حقوقی و غیره را) تدوین کردن، نوشتن 3- ایستاندن، متوقف کردن یا شدن 4- خود را جمع کردن</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -93827,7 +93827,7 @@
 			<cit type="example">
 				<quote xml:lang="en">who has dreamed up this foolish plan?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>چه کسی این نقشهٔ احمقانه را در سر پرورانده است‌؟</quote>
+					<quote>چه کسی این نقشهٔ احمقانه را در سر پرورانده است؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -95259,7 +95259,7 @@
 		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(صفت عالی: dry ) خشک‌ترین</quote>
+				<quote>(صفت عالی: dry) خشک‌ترین</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -95900,7 +95900,7 @@
 			<cit type="example">
 				<quote xml:lang="en">get up and drink of the fresh morning air!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>برخیز و هوای تازهٔ بامدادی را تنفس کن‌!</quote>
+					<quote>برخیز و هوای تازهٔ بامدادی را تنفس کن!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -95916,7 +95916,7 @@
 			<cit type="example">
 				<quote xml:lang="en">let's drink to the bride and bridegroom's health!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>بسلامتی عروس و داماد بنوشیم‌!</quote>
+					<quote>بسلامتی عروس و داماد بنوشیم!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -96017,7 +96017,7 @@
 			<cit type="example">
 				<quote xml:lang="en">would you like a drink before dinner?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>پیش از خوراک یک مشروب (الکلی) می‌خواهی‌؟</quote>
+					<quote>پیش از خوراک یک مشروب (الکلی) می‌خواهی؟</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -96687,7 +96687,7 @@
 			<cit type="example">
 				<quote xml:lang="en">what are you driving at?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>منظورت چیست‌؟</quote>
+					<quote>منظورت چیست؟</quote>
 				</cit>
 				<cit type="trans" xml:lang="fa">
 					<quote>2- هدف گیری کردن</quote>
@@ -97709,7 +97709,7 @@
 			<cit type="example">
 				<quote xml:lang="en">don't drop the baby!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>بچه را نیندازی‌!</quote>
+					<quote>بچه را نیندازی!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -101306,7 +101306,7 @@
 			<cit type="example">
 				<quote xml:lang="en">he is a funny duck!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>آدم بامزه‌ای است‌!</quote>
+					<quote>آدم بامزه‌ای است!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -102100,7 +102100,7 @@
 			<cit type="example">
 				<quote xml:lang="en">if you haven't paid your dues you can't get in!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>اگر حق عضویت نداده باشی اجازهٔ ورود نداری‌!</quote>
+					<quote>اگر حق عضویت نداده باشی اجازهٔ ورود نداری!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -102647,7 +102647,7 @@
 			<cit type="example">
 				<quote xml:lang="en">put up your dukes!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>مشت‌های خود را آماده (ی مشت‌زنی) کن‌!</quote>
+					<quote>مشت‌های خود را آماده (ی مشت‌زنی) کن!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -103415,7 +103415,7 @@
 			<cit type="example">
 				<quote xml:lang="en">Paris is not the capital of England, dummy!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>خنگ خدا، پایتخت انگلیس پاریس نیست‌!</quote>
+					<quote>خنگ خدا، پایتخت انگلیس پاریس نیست!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -104906,7 +104906,7 @@
 			<cit type="example">
 				<quote xml:lang="en">of what duration?</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>در طول چه مدتی‌؟</quote>
+					<quote>در طول چه مدتی؟</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -106727,7 +106727,7 @@
 			<cit type="example">
 				<quote xml:lang="en">don't dwell on your own negative points!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>نکات منفی خودت را شرح و بسط نده‌!</quote>
+					<quote>نکات منفی خودت را شرح و بسط نده!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -106738,7 +106738,7 @@
 			<cit type="example">
 				<quote xml:lang="en">a sound mind dwells in a healthy body!</quote>
 				<cit type="trans" xml:lang="fa">
-					<quote>عقل سالم در بدن سالم است‌!</quote>
+					<quote>عقل سالم در بدن سالم است!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
