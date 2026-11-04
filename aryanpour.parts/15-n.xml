@@ -141,21 +141,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>N Eng</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="abbreviation">مخفف</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>New England</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>n-</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -171,19 +156,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>N'Djamena</orth>
-		<pron>ən jä´ mə nə</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>شهر انجمنا (پایتخت کشور افریقایی چاد)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>n/a</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -193,21 +165,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(بانکداری) کشندهٔ چک حساب ندارد</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>n/s</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="abbreviation">مخفف</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(بانکداری) موجودی غیر کافی (است)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -275,23 +232,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>غیر صادق (N/A هم می‌نویسند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Na-Dene</orth>
-		<pron>nä´də nā´</pron>
-		<pron>-dā-</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(زبان‌شناسی) نادین (نام دسته‌ای از زبان‌های سرخپوستان آمریکای شمالی)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -573,6 +513,23 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(اسپانیایی) هیچ، هیچ چیز</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Na-Dene</orth>
+		<pron>nä´də nā´</pron>
+		<pron>-dā-</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(زبان‌شناسی) نادین (نام دسته‌ای از زبان‌های سرخپوستان آمریکای شمالی)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1096,12 +1053,49 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>nailbrush</orth>
+		<pron>-brush´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ناخن پاک کن (فرچهٔ کوچک برای پاک کردن ناخن‌ها)، برس ناخن</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nail file</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>ناخن تراش، سوهان ناخن</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nailhead</orth>
+		<pron>-hed´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>سر میخ (که مسطح و گرد است)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>زینت سرمیخی (مثلا برجستگی‌های سر میخ مانند چرم)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1126,43 +1120,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(دستگاهی که با آن سر میخ را برابر با سطح چوب و یا فرو تر می‌کوبند) دستگاه میخران</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>nailbrush</orth>
-		<pron>-brush´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ناخن پاک کن (فرچهٔ کوچک برای پاک کردن ناخن‌ها)، برس ناخن</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>nailhead</orth>
-		<pron>-hed´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>سر میخ (که مسطح و گرد است)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>زینت سرمیخی (مثلا برجستگی‌های سر میخ مانند چرم)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1727,30 +1684,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>name day</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>روز عید شخص مقدس (که نام او را روی کسی گذاشته اند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>name of the game</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>وضع یا ویژگی یا هدف اساسی، کار عمده</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>name-calling</orth>
 		<pron>-kôl´iŋ</pron>
 	</form>
@@ -1761,6 +1694,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>ناسزاگویی، دشنام</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>name day</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>روز عید شخص مقدس (که نام او را روی کسی گذاشته اند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1849,6 +1794,18 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>فقط یک نفر مسئول خواهد بود، شما.</quote>
 				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>name of the game</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>وضع یا ویژگی یا هدف اساسی، کار عمده</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3442,6 +3399,34 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>narrowcast</orth>
+		<pron>-kast´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<pos norm="transitive verb">فعل متعدی</pos>
+			<pos norm="intransitive verb">فعل لازم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(به ویژه تلویزیون کابلی) برای مشتریان معدودی برنامه پراکنی کردن</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>برنامه پراکنی محدود</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>برنامهٔ پراکنده شده به طور محدود</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>narrow gauge</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -3486,34 +3471,6 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>روش کوته فکرانه</quote>
 				</cit>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>narrowcast</orth>
-		<pron>-kast´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<pos norm="transitive verb">فعل متعدی</pos>
-			<pos norm="intransitive verb">فعل لازم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(به ویژه تلویزیون کابلی) برای مشتریان معدودی برنامه پراکنی کردن</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>برنامه پراکنی محدود</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>برنامهٔ پراکنده شده به طور محدود</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3912,6 +3869,25 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>-nastic</orth>
+		<pron>nas´tik</pron>
+	</form>
+	<form>
+		<orth>nastic</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="suffix">پسوند</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>تنجشی، تنجش [epinastic و hyponastic]</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nastic</orth>
 		<pron>nas´tik</pron>
 	</form>
@@ -3934,25 +3910,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>-nastic</orth>
-		<pron>nas´tik</pron>
-	</form>
-	<form>
-		<orth>nastic</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="suffix">پسوند</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>تنجشی، تنجش [epinastic و hyponastic]</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>nasturtium</orth>
 		<pron>nə stu_r´ shəm</pron>
 		<pron>na-</pron>
@@ -3964,6 +3921,25 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(گیاه‌شناسی) لادن (گل‌های جنس Tropaeolum از تیرهٔ Tropaeolaceae - دولپه‌ای و از راستهٔ Geraniales)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>-nasty</orth>
+		<pron>nas´tē</pron>
+	</form>
+	<form>
+		<orth>nasty</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="suffix">پسوند</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(گیاه‌شناسی) تنجشی، تنجش [epinasty]</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -4077,25 +4053,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>آدم ناخوشایند، چیز ناخوشایند</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>-nasty</orth>
-		<pron>nas´tē</pron>
-	</form>
-	<form>
-		<orth>nasty</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="suffix">پسوند</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(گیاه‌شناسی) تنجشی، تنجش [epinasty]</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -4418,28 +4375,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>nation-state</orth>
-		<pron>nā´shən stāt´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>دولت ملی، کشور ساخته شده از یک ملت، کشور یک ملیتی، ملت کشور</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">Germany is a nation-state and China is a multinational state</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>آلمان کشور یک ملیتی و چین کشور چند ملیتی است.</quote>
-				</cit>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>national</orth>
 		<pron>nash´ə nəl</pron>
 	</form>
@@ -4595,66 +4530,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>National Liberation Front</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>جبههٔ آزادیبخش ملی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>national monument</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا - بنای تاریخی یا محل طبیعی که از سوی دولت فدرال برای استفادهٔ عموم نگهداری می‌شود) یادگارهای ملی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>national park</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا) پارک ملی (که تحت ادارهٔ دولت فدرال است - در برابر: پارک ایالتی state park و پارک شهر city park)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>national seashore</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا - کرانه‌ای که برای برای شنا و شکار و ماهیگیری برای استفادهٔ همگان توسط دولت فدرال نگهداری می‌شود) کرانهٔ ملی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>National Weather Service</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا - شاخه‌ای از وزارت بازرگانی که کارش گردآوری و بایگانی اطلاعات مربوط به آب و هوا است) بنگاه ملی هواشناسی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>nationalism</orth>
 		<pron>nash´ə nəl iz´əm</pron>
 	</form>
@@ -4791,6 +4666,88 @@
 				<quote xml:lang="en">the nationalization of oil industries</quote>
 				<cit type="trans" xml:lang="fa">
 					<quote>ملی کردن صنایع نفت</quote>
+				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>National Liberation Front</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>جبههٔ آزادیبخش ملی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>national monument</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا - بنای تاریخی یا محل طبیعی که از سوی دولت فدرال برای استفادهٔ عموم نگهداری می‌شود) یادگارهای ملی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>national park</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا) پارک ملی (که تحت ادارهٔ دولت فدرال است - در برابر: پارک ایالتی state park و پارک شهر city park)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>national seashore</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا - کرانه‌ای که برای برای شنا و شکار و ماهیگیری برای استفادهٔ همگان توسط دولت فدرال نگهداری می‌شود) کرانهٔ ملی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>National Weather Service</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا - شاخه‌ای از وزارت بازرگانی که کارش گردآوری و بایگانی اطلاعات مربوط به آب و هوا است) بنگاه ملی هواشناسی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nation-state</orth>
+		<pron>nā´shən stāt´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>دولت ملی، کشور ساخته شده از یک ملت، کشور یک ملیتی، ملت کشور</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">Germany is a nation-state and China is a multinational state</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>آلمان کشور یک ملیتی و چین کشور چند ملیتی است.</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -4965,18 +4922,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>native son</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا) کاندیدای محلی برای مقام فدرال یا نمایندگی کنگره</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>native-born</orth>
 		<pron>-bôrn´</pron>
 	</form>
@@ -4987,6 +4932,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>بوم‌زاد، متولد محل، بومی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>native son</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا) کاندیدای محلی برای مقام فدرال یا نمایندگی کنگره</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -5417,112 +5374,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>natural law</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>قانون طبیعت</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>قانون طبیعی (که بر مبنای اخلاقیات و فطرت انسانی است)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>قوانین طبیعت</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>natural logarithm</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(ریاضی) لگاریتم طبیعی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>natural number</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(ریاضی) عدد طبیعی، عدد صحیح و مثبت</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>natural philosophy</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>natural science</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>natural resources</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>منابع طبیعی (مانند کان ها و جنگل ها و رودها و زمین و غیره)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>natural science</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>دانش طبیعی (جغرافی و گیاه‌شناسی و زیست‌شناسی و جانورشناسی و شیمی و فیزیک و زمین‌شناسی)، (جمع) علوم طبیعی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>natural selection</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(فرگشت داروینی) گزین طبیعی، انتخاب طبیعی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>natural theology</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>الهیات طبیعی (که بر پایهٔ مشاهدهٔ فرآیندهای طبیعی است نه تجلیات ملکوتی)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>naturalism</orth>
 		<pron>nach´ər əl iz´əm</pron>
 	</form>
@@ -5676,6 +5527,40 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>natural law</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>قانون طبیعت</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>قانون طبیعی (که بر مبنای اخلاقیات و فطرت انسانی است)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>قوانین طبیعت</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>natural logarithm</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(ریاضی) لگاریتم طبیعی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>naturally</orth>
 		<pron>nach´ər əlē</pron>
 	</form>
@@ -5738,6 +5623,78 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>((مسابقه را بردی‌؟)) ((بله، البته که بردم‌!))</quote>
 				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>natural number</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(ریاضی) عدد طبیعی، عدد صحیح و مثبت</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>natural philosophy</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>natural science</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>natural resources</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>منابع طبیعی (مانند کان ها و جنگل ها و رودها و زمین و غیره)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>natural science</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>دانش طبیعی (جغرافی و گیاه‌شناسی و زیست‌شناسی و جانورشناسی و شیمی و فیزیک و زمین‌شناسی)، (جمع) علوم طبیعی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>natural selection</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(فرگشت داروینی) گزین طبیعی، انتخاب طبیعی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>natural theology</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>الهیات طبیعی (که بر پایهٔ مشاهدهٔ فرآیندهای طبیعی است نه تجلیات ملکوتی)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -5911,6 +5868,25 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>-natured</orth>
+		<pron>nā´chərd</pron>
+	</form>
+	<form>
+		<orth>natured</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="suffix">پسوند</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>نهاد، - سرشت، - فطرت [good-natured]</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nature study</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -5929,25 +5905,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>طبیعت پرستی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>-natured</orth>
-		<pron>nā´chərd</pron>
-	</form>
-	<form>
-		<orth>natured</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="suffix">پسوند</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>نهاد، - سرشت، - فطرت [good-natured]</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -7281,6 +7238,19 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>N'Djamena</orth>
+		<pron>ən jä´ mə nə</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>شهر انجمنا (پایتخت کشور افریقایی چاد)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Ne</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -7328,6 +7298,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>ne-</orth>
+		<pron>nē</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="prefix">پیشوند</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>نو، نوین (پیش از واکه می آید)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>né</orth>
 		<pron>nā</pron>
 	</form>
@@ -7347,73 +7333,6 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>جرج ارول که نام پیشین او اریک بلر بود</quote>
 				</cit>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>ne plus ultra</orth>
-		<pron>nā plus ul´trə</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(لاتین) بهترین، از این بهتر نمی‌شود، عالی‌ترین</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>ne-</orth>
-		<pron>nē</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="prefix">پیشوند</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>نو، نوین (پیش از واکه می آید)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>ne'er</orth>
-		<pron>ner</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adverb">قید</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(شعر قدیم) رجوع شود به: <ref>never</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>ne'er-do-well</orth>
-		<pron>ner´dōō wel´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>آدم بی‌عرضه</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>بی‌کاره، کاهل، تنه لش</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -7749,51 +7668,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Near East</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(پیشترها) سرزمین‌های تحت تسلط امپراطوری عثمانی (که شامل بخشی از بالکان هم می‌شد)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>خاور نزدیک (سرزمین های مجاور مدیترانهٔ شرقی: بخش شرقی شمال افریقا و سوریه و لبنان و فلسطین و اردن و عربستان و عراق و ترکیه) ( با Middle East مقایسه شود)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>near miss</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(بمب و گلولهٔ توپ و غیره) نزدیک به هدف (که به هدف نمی‌خورد ولی تا اندازه‌ای خسارت وارد می‌کند)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(نتیجه) تا اندازه‌ای موفقیت آمیز</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(حادثه یا تصادف یا رویداد) تصادفی که به سختی از آن احتراز می‌شود، آنچه که به وقوع نمی‌پیوندد ولی خیلی به وقوع نزدیک می‌شود</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">he didn't hit the tree, but it was a near miss</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>او به درخت برخورد نکرد، اما چیزی نمانده بود (که به درخت برخورد کند).</quote>
-				</cit>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>nearby</orth>
 		<pron>nir´bī´</pron>
 	</form>
@@ -7840,6 +7714,23 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>Near East</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(پیشترها) سرزمین‌های تحت تسلط امپراطوری عثمانی (که شامل بخشی از بالکان هم می‌شد)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>خاور نزدیک (سرزمین های مجاور مدیترانهٔ شرقی: بخش شرقی شمال افریقا و سوریه و لبنان و فلسطین و اردن و عربستان و عراق و ترکیه) ( با Middle East مقایسه شود)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nearly</orth>
 		<pron>nir´lē</pron>
 	</form>
@@ -7877,6 +7768,34 @@
 				<quote xml:lang="en">* not nearly</quote>
 				<cit type="trans" xml:lang="fa">
 					<quote>اصلا، بهیچ وجه</quote>
+				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>near miss</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(بمب و گلولهٔ توپ و غیره) نزدیک به هدف (که به هدف نمی‌خورد ولی تا اندازه‌ای خسارت وارد می‌کند)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(نتیجه) تا اندازه‌ای موفقیت آمیز</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(حادثه یا تصادف یا رویداد) تصادفی که به سختی از آن احتراز می‌شود، آنچه که به وقوع نمی‌پیوندد ولی خیلی به وقوع نزدیک می‌شود</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">he didn't hit the tree, but it was a near miss</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>او به درخت برخورد نکرد، اما چیزی نمانده بود (که به درخت برخورد کند).</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -8024,19 +7943,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>neat's-foot oil</orth>
-		<pron>nēts´ foot´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>روغن پاچهٔ گاو (که در چرم‌سازی به کار می‌رود) (neatsfoot oil هم می‌نویسند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>neaten</orth>
 		<pron>nēt´'n</pron>
 	</form>
@@ -8082,6 +7988,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>رجوع شود به: <ref>cowherd</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>neat's-foot oil</orth>
+		<pron>nēts´ foot´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>روغن پاچهٔ گاو (که در چرم‌سازی به کار می‌رود) (neatsfoot oil هم می‌نویسند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -8791,23 +8710,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>neck-rein</orth>
-		<pron>-rān´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="intransitive verb">فعل لازم</pos>
-			<pos norm="transitive verb">فعل متعدی</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(اسب سواری) دهنه را به راست کشیدن (تا اسب به سوی چپ برود و بالعکس)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>neckband</orth>
 		<pron>-band´</pron>
 	</form>
@@ -8932,6 +8834,23 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>شال گردن (به ویژه ازخز)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>neck-rein</orth>
+		<pron>-rān´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="intransitive verb">فعل لازم</pos>
+			<pos norm="transitive verb">فعل متعدی</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(اسب سواری) دهنه را به راست کشیدن (تا اسب به سوی چپ برود و بالعکس)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -9655,18 +9574,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>needle valve</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(مکانیک) شیرسوزنی، پستانک</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>needlefish</orth>
 		<pron>-fish´</pron>
 	</form>
@@ -9726,6 +9633,18 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>نیاز به گفتن نیست (که)</quote>
 				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>needle valve</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(مکانیک) شیرسوزنی، پستانک</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -9842,6 +9761,44 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(انگلیس - محلی) شلغم</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>ne'er</orth>
+		<pron>ner</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adverb">قید</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(شعر قدیم) رجوع شود به: <ref>never</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>ne'er-do-well</orth>
+		<pron>ner´dōō wel´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>آدم بی‌عرضه</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>بی‌کاره، کاهل، تنه لش</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11274,30 +11231,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>nem con</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(لاتین) به اتفاق آرا، بدون مخالفت</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>nem diss</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(لاتین) به اتفاق آرا، بدون رای مخالف</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>nemathelminth</orth>
 		<pron>nem´ə thel´minth´</pron>
 	</form>
@@ -11402,6 +11335,30 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(نام بازرگانی) نمبوتال (رجوع شود به: <ref>pentobarbital sodium</ref>)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nem con</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(لاتین) به اتفاق آرا، بدون مخالفت</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nem diss</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(لاتین) به اتفاق آرا، بدون رای مخالف</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11532,6 +11489,21 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>N Eng</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="abbreviation">مخفف</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>New England</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>neo-</orth>
 		<pron>nē´ō</pron>
 		<pron>-ə</pron>
@@ -11558,88 +11530,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(شیمی - ترکیب) وابسته به ترکیب قدیمی‌تر [neoprene]، وابسته به هیدروکربن که لااقل یک اتم کربن آن به چهار اتم کربن دیگر متصل باشد [neopentane]</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Neo-Darwinism</orth>
-		<pron>-där´win iz´əm</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(زیست‌شناسی) داروین گرایی نوین (که گزینش طبیعی و زادشناسی را مورد تاکید قرار می‌دهد)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Neo-Hebraic</orth>
-		<pron>nē´ō hē brā´ik</pron>
-		<pron>-hi-</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>Modern Hebrew</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Neo-Lamarckism</orth>
-		<pron>-lə märk´ iz´əm</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(زیست‌شناسی) نولامارک گرایی، لامارک گرایی نوین</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Neo-Latin</orth>
-		<pron>-lat´'n</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>Modern Latin</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>neo-orthodoxy</orth>
-		<pron>nē´ō ôr´thə däk´sē</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(سدهٔ بیستم میلادی‌- گرایش برخی عوامل کلیسای پروتستان به سوی اصول سنتی مسیحیت و پروتستان در واکنش نسبت به آزادی گرایی‌های مذهبی قرن اخیر) نوراستکیشی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11764,6 +11654,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>Neo-Darwinism</orth>
+		<pron>-där´win iz´əm</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(زیست‌شناسی) داروین گرایی نوین (که گزینش طبیعی و زادشناسی را مورد تاکید قرار می‌دهد)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>neodymium</orth>
 		<pron>nē´o dim´ē əm</pron>
 		<pron>nē´ə-</pron>
@@ -11814,6 +11720,24 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>Neo-Hebraic</orth>
+		<pron>nē´ō hē brā´ik</pron>
+		<pron>-hi-</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>Modern Hebrew</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>neoimpressionism</orth>
 		<pron>-im presh´ən iz´əm</pron>
 	</form>
@@ -11824,6 +11748,38 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>امپرسیونیسم نوین (به ویژه در نقاشی)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Neo-Lamarckism</orth>
+		<pron>-lə märk´ iz´əm</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(زیست‌شناسی) نولامارک گرایی، لامارک گرایی نوین</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Neo-Latin</orth>
+		<pron>-lat´'n</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>Modern Latin</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11957,18 +11913,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>neon lamp</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>چراغ نئون، چراغ شب نما (که در آگهی‌های بازرگانی و غیره به کار می‌رود)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>neonate</orth>
 		<pron>nē´ō nāt´</pron>
 	</form>
@@ -11995,6 +11939,34 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(بخشی از پزشکی که با نوزادان از زایش تا یک ماهگی سروکار دارد) نوزاد‌شناسی، نوهستی‌شناسی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>neon lamp</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>چراغ نئون، چراغ شب نما (که در آگهی‌های بازرگانی و غیره به کار می‌رود)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>neo-orthodoxy</orth>
+		<pron>nē´ō ôr´thə däk´sē</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(سدهٔ بیستم میلادی‌- گرایش برخی عوامل کلیسای پروتستان به سوی اصول سنتی مسیحیت و پروتستان در واکنش نسبت به آزادی گرایی‌های مذهبی قرن اخیر) نوراستکیشی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -12701,6 +12673,19 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>ne plus ultra</orth>
+		<pron>nā plus ul´trə</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(لاتین) بهترین، از این بهتر نمی‌شود، عالی‌ترین</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nepotism</orth>
 		<pron>nep´ə tiz´əm</pron>
 	</form>
@@ -13150,31 +13135,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>nerve-racking</orth>
-		<pron>-rak´iŋ</pron>
-	</form>
-	<form>
-		<orth>nerve-wracking</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>اعصاب خرد کن</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">this music is nervewracking to me</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>این موسیقی اعصاب مرا خرد می‌کند.</quote>
-				</cit>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>nerveless</orth>
 		<pron>nu_rv´lis</pron>
 	</form>
@@ -13200,6 +13160,31 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>خونسرد، آرام، سوار بر اوضاع، مسلط بر خود</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nerve-racking</orth>
+		<pron>-rak´iŋ</pron>
+	</form>
+	<form>
+		<orth>nerve-wracking</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>اعصاب خرد کن</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">this music is nervewracking to me</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>این موسیقی اعصاب مرا خرد می‌کند.</quote>
+				</cit>
 			</cit>
 		</sense>
 	</sense>
@@ -13398,6 +13383,26 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>-ness</orth>
+		<pron>nis</pron>
+		<pron>nəs</pron>
+	</form>
+	<form>
+		<orth>ness</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="suffix">پسوند</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>بودن، واری، کیفیت، وضع [sadness و togetherness]</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>ness</orth>
 		<pron>nes</pron>
 	</form>
@@ -13421,26 +13426,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>لاخ‌نس (نام دریاچهٔ مرتفعی در اسکاتلند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>-ness</orth>
-		<pron>nis</pron>
-		<pron>nəs</pron>
-	</form>
-	<form>
-		<orth>ness</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="suffix">پسوند</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>بودن، واری، کیفیت، وضع [sadness و togetherness]</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -13995,46 +13980,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>net national product</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(اقتصاد - ارزش کل تولیدات و خدمات کشور در یک سال منهای ارزش سرمایه و استهلاک و غیره که در این راه مصرف شده است) تولید خالص ملی، فرورد ویژهٔ ملی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>net ton</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>معیار وزن برابر 2000 پوند (short ton هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>net-winged</orth>
-		<pron>net´wiŋd´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(در مورد بال حشرات) تورینه بال، دارای بال تورسان، توربال</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Neth</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -14100,23 +14045,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>nether world</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(اسطورهٔ یونان و روم) دنیای اسفل، جهان مردگان، جهان زیرزمین</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(الهیات) جهنم، دوزخ</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Netherlands</orth>
 		<pron>neth´ər ləndz</pron>
 	</form>
@@ -14164,6 +14092,35 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>پست ترین، تحتانی ترین، زیرترین، اسفل‌السافلین</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nether world</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(اسطورهٔ یونان و روم) دنیای اسفل، جهان مردگان، جهان زیرزمین</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(الهیات) جهنم، دوزخ</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>net national product</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(اقتصاد - ارزش کل تولیدات و خدمات کشور در یک سال منهای ارزش سرمایه و استهلاک و غیره که در این راه مصرف شده است) تولید خالص ملی، فرورد ویژهٔ ملی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14288,6 +14245,34 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>گزنده، آزار دهنده، ناراحت کننده</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>net ton</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>معیار وزن برابر 2000 پوند (short ton هم می‌گویند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>net-winged</orth>
+		<pron>net´wiŋd´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(در مورد بال حشرات) تورینه بال، دارای بال تورسان، توربال</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14513,18 +14498,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>neural tube</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(در مراحل نخستین جنین مهره‌داران) لولهٔ عصبی (که تبدیل به مغز و نخاع شوکی می‌شود)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>neuralgia</orth>
 		<pron>nōō ral´jə</pron>
 	</form>
@@ -14535,6 +14508,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(پزشکی) پی درد، درد اعصاب</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>neural tube</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(در مراحل نخستین جنین مهره‌داران) لولهٔ عصبی (که تبدیل به مغز و نخاع شوکی می‌شود)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15337,18 +15322,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>neutral spirits</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>الکل اتیل (بامیزان خلوص 190یا بیشتر که با ویسکی کهنه آمیخته می‌شود و همچنین در ساختن لیکور و غیره به کار می‌رود)، الکل سفید</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>neutralism</orth>
 		<pron>-iz´əm</pron>
 	</form>
@@ -15432,6 +15405,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(برق) فاقد الکتریسیته کردن، بی‌بار کردن</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>neutral spirits</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>الکل اتیل (بامیزان خلوص 190یا بیشتر که با ویسکی کهنه آمیخته می‌شود و همچنین در ساختن لیکور و غیره به کار می‌رود)، الکل سفید</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15690,45 +15675,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>never-never</orth>
-		<pron>nev´ər nev´ər</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(انگلیس - خودمانی)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>پرداخت قسطی</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>تخیلی، غیر واقعی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>never-never land</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(جا یا موقعیت) غیر واقعی، تخیلی، رویایی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>nevermind</orth>
 		<pron>-mīnd´</pron>
 	</form>
@@ -15765,6 +15711,45 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>دیگر هرگز، دیگر هیچ وقت، دیگر هیچ‌گاه</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>never-never</orth>
+		<pron>nev´ər nev´ər</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(انگلیس - خودمانی)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>پرداخت قسطی</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>تخیلی، غیر واقعی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>never-never land</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(جا یا موقعیت) غیر واقعی، تخیلی، رویایی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -16112,12 +16097,49 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>newborn</orth>
+		<pron>nōō´bôrn´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>نوزاد، تازه به دنیا آمده، شیرخواره</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(از نظر مذهبی یا روحی) احیا شده، عمر نو یافته، نوزاده، زندگی را از سر گرفته</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>New Brunswick</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>استان نیوبرونزویک (در خاور کانادا- پایتخت: Fredericton - مخفف: 72090 - NB کیلومتر مربع)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Newburg</orth>
+		<pron>nōō´bu_rg´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(خوراک‌پردازی) همراه با سس کره و زردهٔ تخم مرغ و شراب شری</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -16142,6 +16164,35 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>رجوع شود به: <ref>candela</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Newcastle</orth>
+		<pron>nōō´kas´əl</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>بندر نیوکاسل (در شمال انگلیس)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>newcomer</orth>
+		<pron>nōō´kum´ər</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>تازه وارد، اخیرالورود، تازه رسیده (ازراه)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -16218,6 +16269,32 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>newel</orth>
+		<pron>nōō´əl</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(معماری)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ستون پلکان (مانند پله های مناره‌ها)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ستون جلوی پلکان (که نردهٔ پلکان را نگه می‌دارد) (newel post هم می‌گویند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>New England</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -16278,341 +16355,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>New Guinea</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>جزیرهٔ گینهٔ نو (در شمال استرالیا که بخش باختری آن جزو اندونزی بوده و West Irian نام دارد و بخش خاوری آن کشور پاپوانیوگینی Papua New Guinea است - 854700 کیلومتر مربع)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>New Hampshire</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ایالت نیوهامشایر (در شمال خاوری ایالات متحده - پایتخت: Concord - مخفف: NH یا.24190 - N.H کیلومتر مربع)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>New Jersey</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ایالت نیوجرسی (در شمال خاوری ایالات متحده - پایتخت: 20296 - Trenton کیلومترمربع - مخفف: NJ یا .N.J)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>New Mexico</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ایالت نیومکزیکو (در جنوب غربی ایالت متحده - پایتخت: Santa Fe - مخفف: NM یا.N.M یا 316410 - N Mex کیلومتر مربع)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>new moon</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ماه نو، محاق، اول ماه، هلال ماه نو</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>New Orleans</orth>
-		<pron>nōō ôr´lē ənz</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>شهر نیواورلئان (در ایالت لوئیزیانا- آمریکا)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>New South Wales</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>استان نیوساوت‌ولز (در جنوب خاوری استرالیا- پایتخت: 801429 - Sydney کیلومتر مربع)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>New Stone Age</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>the Neolithic</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>New Testament</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(الهیات مسیحی) قول خداوند به بنی آدم که در زندگی و تعالیم عیسی تجلی یافته</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>انجیل عهد جدید (که حاوی زندگینامه و تعالیم حضرت عیسی است)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>new wave</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(هنر و ادبیات و امور فرهنگی) موج جدید، جنبش نوین، مکتب تازه</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>New World</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>نیمکرهٔ غربی، آمریکا، ینگه دنیا، بر جدید</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>new year</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>سال نو، نوروز، سال نو مسیحی (اول ژانویه)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>New Year's Day</orth>
-	</form>
-	<form>
-		<orth>New Year's</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>روز اول سال، اول ژانویه</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>New Year's Eve</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>شب سال نو (که در نیمه شب آن سال نو آغاز می‌شود)، شب ژانویه</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>New York</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>شهر نیویورک (در ایالت نیویورک - پرجمعیت‌ترین شهر ایالات متحده)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ایالت نیویورک (در شمال خاوری ایالات متحده - پایتخت: Albany - مخفف: NY یا.128402 - N.Y کیلومترمربع)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>New Zealand</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>کشور زلاندنو، نیوزیلند (پایتخت: 268676 - Wellington کیلومترمربع)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>new-fashioned</orth>
-		<pron>-fash´ənd</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>تازه مد شده، تازه رواج یافته، نورواج</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>به روش نوین، به طرز جدید</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>new-mown</orth>
-		<pron>nōō´ mōn´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(علف و چمن و کاه وغیره) تازه بریده، تازه چین (چیده)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>newborn</orth>
-		<pron>nōō´bôrn´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>نوزاد، تازه به دنیا آمده، شیرخواره</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(از نظر مذهبی یا روحی) احیا شده، عمر نو یافته، نوزاده، زندگی را از سر گرفته</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Newburg</orth>
-		<pron>nōō´bu_rg´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(خوراک‌پردازی) همراه با سس کره و زردهٔ تخم مرغ و شراب شری</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Newcastle</orth>
-		<pron>nōō´kas´əl</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>بندر نیوکاسل (در شمال انگلیس)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>newcomer</orth>
-		<pron>nōō´kum´ər</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>تازه وارد، اخیرالورود، تازه رسیده (ازراه)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>newel</orth>
-		<pron>nōō´əl</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(معماری)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ستون پلکان (مانند پله های مناره‌ها)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ستون جلوی پلکان (که نردهٔ پلکان را نگه می‌دارد) (newel post هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Newf</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -16655,6 +16397,27 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>new-fashioned</orth>
+		<pron>-fash´ənd</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>تازه مد شده، تازه رواج یافته، نورواج</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>به روش نوین، به طرز جدید</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Newfoundland</orth>
 		<pron>nōō´fənd lənd</pron>
 	</form>
@@ -16683,6 +16446,30 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>New Guinea</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>جزیرهٔ گینهٔ نو (در شمال استرالیا که بخش باختری آن جزو اندونزی بوده و West Irian نام دارد و بخش خاوری آن کشور پاپوانیوگینی Papua New Guinea است - 854700 کیلومتر مربع)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>New Hampshire</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ایالت نیوهامشایر (در شمال خاوری ایالات متحده - پایتخت: Concord - مخفف: NH یا.24190 - N.H کیلومتر مربع)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>newish</orth>
 		<pron>nōō´ish</pron>
 	</form>
@@ -16693,6 +16480,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>نسبتا نو</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>New Jersey</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ایالت نیوجرسی (در شمال خاوری ایالات متحده - پایتخت: 20296 - Trenton کیلومترمربع - مخفف: NJ یا .N.J)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -16777,6 +16576,59 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(سدهٔ 19) پالتوی بلند و چسبان (مردانه و زنانه) (Newmarket coat هم می‌گفتند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>New Mexico</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ایالت نیومکزیکو (در جنوب غربی ایالت متحده - پایتخت: Santa Fe - مخفف: NM یا.N.M یا 316410 - N Mex کیلومتر مربع)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>new moon</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ماه نو، محاق، اول ماه، هلال ماه نو</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>new-mown</orth>
+		<pron>nōō´ mōn´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(علف و چمن و کاه وغیره) تازه بریده، تازه چین (چیده)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>New Orleans</orth>
+		<pron>nōō ôr´lē ənz</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>شهر نیواورلئان (در ایالت لوئیزیانا- آمریکا)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -16883,52 +16735,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>news conference</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>press conference</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>news release</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(معمولا توسط دولت یا موسسات بزرگ) اعلام خبری، اطلاعیه، آگهداد</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>news service</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>news agency</ref></quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>wire service</ref></quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>syndicate</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>newsboy</orth>
 		<pron>-boi´</pron>
 	</form>
@@ -16955,6 +16761,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(رادیو و تلویزیون) پخش اخبار، پخش نودادها، برنامهٔ خبری</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>news conference</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>press conference</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17075,6 +16893,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>شایعه پراکن، خبرچین، خبرکش</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>New South Wales</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>استان نیوساوت‌ولز (در جنوب خاوری استرالیا- پایتخت: 801429 - Sydney کیلومتر مربع)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17250,6 +17080,18 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>news release</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(معمولا توسط دولت یا موسسات بزرگ) اعلام خبری، اطلاعیه، آگهداد</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>newsroom</orth>
 		<pron>-room´</pron>
 	</form>
@@ -17266,6 +17108,28 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>news service</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>news agency</ref></quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>wire service</ref></quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>syndicate</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>newsstand</orth>
 		<pron>-stand´</pron>
 	</form>
@@ -17276,6 +17140,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>دکهٔ روزنامه فروشی، کیوسک روزنامه و مجله فروشی (انگلیس: news stall هم می‌گویند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>New Stone Age</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>the Neolithic</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17352,6 +17228,23 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>New Testament</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(الهیات مسیحی) قول خداوند به بنی آدم که در زندگی و تعالیم عیسی تجلی یافته</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>انجیل عهد جدید (که حاوی زندگینامه و تعالیم حضرت عیسی است)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>newton</orth>
 		<pron>nōō´tən</pron>
 	</form>
@@ -17381,6 +17274,98 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>آیزاک نیوتن (دانشمند انگلیسی – 1642-1727)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>new wave</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(هنر و ادبیات و امور فرهنگی) موج جدید، جنبش نوین، مکتب تازه</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>New World</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>نیمکرهٔ غربی، آمریکا، ینگه دنیا، بر جدید</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>new year</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>سال نو، نوروز، سال نو مسیحی (اول ژانویه)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>New Year's Day</orth>
+	</form>
+	<form>
+		<orth>New Year's</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>روز اول سال، اول ژانویه</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>New Year's Eve</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>شب سال نو (که در نیمه شب آن سال نو آغاز می‌شود)، شب ژانویه</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>New York</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>شهر نیویورک (در ایالت نیویورک - پرجمعیت‌ترین شهر ایالات متحده)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ایالت نیویورک (در شمال خاوری ایالات متحده - پایتخت: Albany - مخفف: NY یا.128402 - N.Y کیلومترمربع)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>New Zealand</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>کشور زلاندنو، نیوزیلند (پایتخت: 268676 - Wellington کیلومترمربع)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17570,6 +17555,28 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>next-door</orth>
+		<pron>nekst´dôr´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>خانه (یامغازه یا ساختمان و غیره)ی مجاور، بعدی، پهلویی</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">he lives in the next-door building</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>او در ساختمان پهلویی زندگی می‌کند.</quote>
+				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>next friend</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -17593,28 +17600,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(حقوق - به ویژه در مورد کسانی که بدون وصیت نامه می‌میرند) منسوب بلافصل، وارث بلافصل</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>next-door</orth>
-		<pron>nekst´dôr´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>خانه (یامغازه یا ساختمان و غیره)ی مجاور، بعدی، پهلویی</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">he lives in the next-door building</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>او در ساختمان پهلویی زندگی می‌کند.</quote>
-				</cit>
 			</cit>
 		</sense>
 	</sense>
@@ -18320,18 +18305,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>nice Nell</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا) آدم زاهد ماب، جانماز آبکش، آدم متظاهر، آدم وانمودگر</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Nicene</orth>
 		<pron>nī´sēn´</pron>
 		<pron>nī sēn´</pron>
@@ -18367,6 +18340,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(مسیحیت) اعتقاد نامهٔ نیسا (که چنین آغاز می‌شود: من اعتقاد دارم به خدای یکتا ...)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nice Nell</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا) آدم زاهد ماب، جانماز آبکش، آدم متظاهر، آدم وانمودگر</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -18656,42 +18641,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>nickel plate</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>روکش نیکلی، آب نیکل، آب ورشو</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>nickel silver</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمیزهٔ نیکل و مس و روی) نیکل نقره فام، ورشو</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>nickel steel</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>پولاد نیکل (پولاد محکم و ضدزنگ که پنج درصد نیکل دارد)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>nickel-and-dime</orth>
 		<pron>nik´əl ən dīm´</pron>
 	</form>
@@ -18817,6 +18766,42 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>nickel plate</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>روکش نیکلی، آب نیکل، آب ورشو</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nickel silver</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمیزهٔ نیکل و مس و روی) نیکل نقره فام، ورشو</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nickel steel</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>پولاد نیکل (پولاد محکم و ضدزنگ که پنج درصد نیکل دارد)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nicker</orth>
 		<pron>nik´ər</pron>
 	</form>
@@ -18916,19 +18901,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Nicol prism</orth>
-		<pron>nik´əl</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>منشور نیکول (مشتمل بر دو منشور که به هم چسبانده شده‌اند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Nicolas</orth>
 		<pron>nik´ ə ləs</pron>
 	</form>
@@ -18949,6 +18921,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>اسم خاص مونث (مخفف: Nicky یا Nikki)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Nicol prism</orth>
+		<pron>nik´əl</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>منشور نیکول (مشتمل بر دو منشور که به هم چسبانده شده‌اند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -19762,170 +19747,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>night heron</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(جانورشناسی) حواصیل شب‌کار (انواع حواصیل‌هایی که در غروب یا شب فعال‌اند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>night latch</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>چفت در(که از بیرون با کلید باز می شود ولی از تو با فشار دکمه باز می شود)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>night letter</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>تلگرام شبانه(که نرخ آن ارزانتر است)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>night life</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>تفریحات شبانه (سینما و تئاتر و غیره)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>شرکت در تفریحات شبانه، شب نشینی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>night light</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>چراغ خواب، چراغ کم سو</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>night owl</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>جغد شبخوان، جغد شب</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>آدم شب زنده‌دار</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>night prayer</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(کلیسای کاتولیک) دعای شب (آخرین دعای هفتگانه compline هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>night school</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>مدرسهٔ شبانه</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>night soil</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>کود انسانی، کود مستراح</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>night stand</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>میز کنار بستر، میز کوچک پهلوی تختخواب</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>night watch</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>شبگرد، پاسدار شبانه، نگهبان شبانه</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>شبگردی، پاسداری شبانه</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>زمان پاسداری شبانه، نوبت شبگردی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>night watchman</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>شبگرد، پاسدار شبانه، مستحفظ شبانه، نگهبان شب</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>night-blooming cereus</orth>
 		<pron>-blōō´miŋ</pron>
 	</form>
@@ -20102,6 +19923,18 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>night heron</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(جانورشناسی) حواصیل شب‌کار (انواع حواصیل‌هایی که در غروب یا شب فعال‌اند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nightie</orth>
 		<pron>nīt´ē</pron>
 	</form>
@@ -20159,6 +19992,59 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(جانور‌شناسی) بوف اروپایی (تیرهٔ Caprimulgidae)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>night latch</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>چفت در(که از بیرون با کلید باز می شود ولی از تو با فشار دکمه باز می شود)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>night letter</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>تلگرام شبانه(که نرخ آن ارزانتر است)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>night life</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>تفریحات شبانه (سینما و تئاتر و غیره)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>شرکت در تفریحات شبانه، شب نشینی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>night light</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>چراغ خواب، چراغ کم سو</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -20253,6 +20139,35 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>night owl</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>جغد شبخوان، جغد شب</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>آدم شب زنده‌دار</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>night prayer</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(کلیسای کاتولیک) دعای شب (آخرین دعای هفتگانه compline هم می‌گویند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nightrider</orth>
 		<pron>nīt´rīd´ər</pron>
 	</form>
@@ -20285,6 +20200,18 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>شب‌ها کار می‌کند و در طول روز می‌خوابد.</quote>
 				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>night school</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>مدرسهٔ شبانه</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -20360,6 +20287,18 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>night soil</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>کود انسانی، کود مستراح</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nightspot</orth>
 		<pron>nīt´spät´</pron>
 	</form>
@@ -20370,6 +20309,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>رجوع شود به: <ref>nightclub</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>night stand</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>میز کنار بستر، میز کوچک پهلوی تختخواب</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -20440,6 +20391,40 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(نادر) ولگرد شبانه، فاحشهٔ دوره‌گرد (در شب‌ها)، دزد شبانه</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>night watch</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>شبگرد، پاسدار شبانه، نگهبان شبانه</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>شبگردی، پاسداری شبانه</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>زمان پاسداری شبانه، نوبت شبگردی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>night watchman</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>شبگرد، پاسدار شبانه، مستحفظ شبانه، نگهبان شب</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -20586,24 +20571,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>nihil obstat</orth>
-		<pron>nē´hil´ ōôb´stät´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(لاتین: مانعی ندارد - کلیسای کاتولیک) نشان یا مهر تایید (که روی کتاب و غیره چاپ می شود تا پیروان بدانند آن نشریه از نظر کلیسا ایرادی ندارد)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(مجازی) تایید رسمی، اعلام نبودن ایراد و مانع</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>nihilism</orth>
 		<pron>nī´hi liz´əm</pron>
 	</form>
@@ -20630,6 +20597,24 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>هیچ بودن، هیچی، پوچی، نیستی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nihil obstat</orth>
+		<pron>nē´hil´ ōôb´stät´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(لاتین: مانعی ندارد - کلیسای کاتولیک) نشان یا مهر تایید (که روی کتاب و غیره چاپ می شود تا پیروان بدانند آن نشریه از نظر کلیسا ایرادی ندارد)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(مجازی) تایید رسمی، اعلام نبودن ایراد و مانع</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -21662,22 +21647,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>nip-up</orth>
-		<pron>nip´up´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آکروبات و نرمش) از حالت خوابیدن بر پشت به روی دو پا پریدن، بر پا خیز</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>nipa</orth>
 		<pron>nē´pə</pron>
 	</form>
@@ -21854,6 +21823,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>nip-up</orth>
+		<pron>nip´up´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آکروبات و نرمش) از حالت خوابیدن بر پشت به روی دو پا پریدن، بر پا خیز</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nirvana</orth>
 		<pron>nir vä´nə</pron>
 		<pron>nər-</pron>
@@ -22015,23 +22000,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>nit-picking</orth>
-		<pron>nit´pik´iŋ</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ایرادگیری، خرده‌گیری، بهانه گیری، مته به خشخاش گذاری</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>niter</orth>
 		<orth>nitre</orth>
 		<pron>nīt´ər</pron>
@@ -22101,6 +22069,23 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>ایراد (بیجا) گرفتن</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nit-picking</orth>
+		<pron>nit´pik´iŋ</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ایرادگیری، خرده‌گیری، بهانه گیری، مته به خشخاش گذاری</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -22437,6 +22422,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>nitrogenase</orth>
+		<pron>nī träj´ə nās´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(زیست‌شناسی) نیتروژناز (آنزیم موجود در برخی ترکیزه های خاکی و خزه‌ها که در گرفتن نیتروژن هوا و ساختن آمونیاک نقش دارد)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nitrogen cycle</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -22473,34 +22474,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>nitrogen narcosis</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>خفتگی نیتروژنی (زیاد شدن نیتروژن در بافت‌های بدن در اثر غواصی در ژرفای زیاد که موجب اختلال فکر و واکنش‌های بدنی می‌شود)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>nitrogenase</orth>
-		<pron>nī träj´ə nās´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(زیست‌شناسی) نیتروژناز (آنزیم موجود در برخی ترکیزه های خاکی و خزه‌ها که در گرفتن نیتروژن هوا و ساختن آمونیاک نقش دارد)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>nitrogenize</orth>
 		<pron>nī träj´ə nīz´</pron>
 	</form>
@@ -22511,6 +22484,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(شیمی) با نیتروژن آمیختن، نیتروژنی کردن</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nitrogen narcosis</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>خفتگی نیتروژنی (زیاد شدن نیتروژن در بافت‌های بدن در اثر غواصی در ژرفای زیاد که موجب اختلال فکر و واکنش‌های بدنی می‌شود)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -23244,41 +23229,12 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>no man's land</orth>
+		<orth>NOAA</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>زمین بی‌صاحب</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>سرزمین اشغال نشده (که بین دو ناحیهٔ اشغال شده قرار دارد)، سرزمین میانگیر، میانستان</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>no one</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>هیچ کس، هیچ نفر</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">no one knows</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>هیچ کس نمی‌داند.</quote>
-				</cit>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">we saw no one</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>ما کسی را ندیدیم.</quote>
-				</cit>
+				<quote>(آمریکا) مخفف: ادارهٔ کل اقیانوس‌شناسی و جو‌شناسی (که ادارهٔ هواشناسی بخشی از آن است)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -23305,305 +23261,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>آدم مهمل، آدم بیکاره</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>no-fault</orth>
-		<pron>nō´fôlt´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(بیمه اتومبیل و غیره که خسارات همه را بدون در نظر گرفتن اینکه مقصر با چه کسی بوده پرداخت می‌کند) بیمهٔ بی‌تقصیر</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(نوعی طلاق که بدون بررسی تقصیر احتمالی طرفین اعطا می‌شود) طلاق بی‌تقصیر</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>no-frills</orth>
-		<pron>nō´frilz´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(خودمانی) بی‌زر و زیور، بی‌مخلفات، بدون خدمات یا مزایای اضافی، بدون تجملات</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>no-go</orth>
-		<pron>nō´gō´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا - خودمانی) خراب، نا آماده برای شروع، معیوب، نرفتنی (در مورد فضاناو و غیره)، دارای عیب فنی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>no-good</orth>
-		<pron>nō´good´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(خودمانی) بد، ناجنس، خبیث، نابکار، به درد نخور</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>no-growth</orth>
-		<pron>nō´grōth´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>وابسته به سیاست عدم تشویق رشد جمعیت و صنعت و آلودگی‌های همایند آن</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>no-hitter</orth>
-		<pron>nō´hit´ər</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا - بیس‌بال) بازی بدون base hit</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>no-knock</orth>
-		<pron>nō´näk´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا - حقوق - عامیانه) وابسته به قوانینی که به پلیس اجازه می‌دهد با در دست داشتن اجازهٔ دادگاه ولی بدون در زدن و معرفی خود سرزده وارد محلی بشود</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>no-load</orth>
-		<pron>nō´lōd´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(شرکت‌های تعاونی سهام) عاری از دستمزد فروش، بی‌کمیسیون</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>no-lose</orth>
-		<pron>nō lōōz´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(عامیانه) کاری که باخت ندارد، بدون احتمال زیان، بی‌باخت، بی‌شکست</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">a no-lose situation</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>وضعی که احتمال باخت ندارد</quote>
-				</cit>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>no-no</orth>
-		<pron>nō´nō´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا - خودمانی) اصلا نه، ابدا ابدا، نه نه</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">in our house smoking is a no-no</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>در خانهٔ ما ابدا نمی‌شود سیگار کشید.</quote>
-				</cit>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>no-nonsense</orth>
-		<pron>nō´nän´sens</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ناچرند، حرف جدی (که چرت و پرت نیست)، بی‌شوخی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>no-par</orth>
-		<pron>nō´pär´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(اوراق بهادار و غیره) بدون ارزش اسمی</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">a no-par stock certificate</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>ورقهٔ سهم بدون بهای اسمی</quote>
-				</cit>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>no-see-um</orth>
-		<pron>nō sē´əm</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>biting midge</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>no-show</orth>
-		<pron>nō´shō´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(هواپیما و هتل و غیره) کسی که جا رزرو می‌کند ولی نمی‌رود، نایند، عدم حضور</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>no-trump</orth>
-		<pron>nō´trump´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(بازی بریج) بدون خال آتو</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>no-win</orth>
-		<pron>nō´win´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>بدون برد، بدون امکان موفقیت</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">we are in a no-win situation</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>ما در موقعیتی قرار داریم که امکان برد نداریم.</quote>
-				</cit>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>NOAA</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا) مخفف: ادارهٔ کل اقیانوس‌شناسی و جو‌شناسی (که ادارهٔ هواشناسی بخشی از آن است)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -24834,6 +24491,43 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>no-fault</orth>
+		<pron>nō´fôlt´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(بیمه اتومبیل و غیره که خسارات همه را بدون در نظر گرفتن اینکه مقصر با چه کسی بوده پرداخت می‌کند) بیمهٔ بی‌تقصیر</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(نوعی طلاق که بدون بررسی تقصیر احتمالی طرفین اعطا می‌شود) طلاق بی‌تقصیر</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>no-frills</orth>
+		<pron>nō´frilz´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(خودمانی) بی‌زر و زیور، بی‌مخلفات، بدون خدمات یا مزایای اضافی، بدون تجملات</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nog</orth>
 		<pron>näg</pron>
 	</form>
@@ -24921,6 +24615,70 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(معماری) دیوار آجری بین دو پایه یا ستون</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>no-go</orth>
+		<pron>nō´gō´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا - خودمانی) خراب، نا آماده برای شروع، معیوب، نرفتنی (در مورد فضاناو و غیره)، دارای عیب فنی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>no-good</orth>
+		<pron>nō´good´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(خودمانی) بد، ناجنس، خبیث، نابکار، به درد نخور</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>no-growth</orth>
+		<pron>nō´grōth´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>وابسته به سیاست عدم تشویق رشد جمعیت و صنعت و آلودگی‌های همایند آن</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>no-hitter</orth>
+		<pron>nō´hit´ər</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا - بیس‌بال) بازی بدون base hit</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -25205,16 +24963,16 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>nol-pros</orth>
-		<pron>näl´ präs´</pron>
+		<orth>no-knock</orth>
+		<pron>nō´näk´</pron>
 	</form>
 	<sense n="1" xml:lang="fa">
 		<gramGrp>
-			<pos norm="transitive verb">فعل متعدی</pos>
+			<pos norm="adjective">صفت</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(حقوق) ترک پیگیری کردن، اعلان انصراف از پیگیری دادن</quote>
+				<quote>(آمریکا - حقوق - عامیانه) وابسته به قوانینی که به پلیس اجازه می‌دهد با در دست داشتن اجازهٔ دادگاه ولی بدون در زدن و معرفی خود سرزده وارد محلی بشود</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -25260,6 +25018,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>no-load</orth>
+		<pron>nō´lōd´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(شرکت‌های تعاونی سهام) عاری از دستمزد فروش، بی‌کمیسیون</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nolo contendere</orth>
 		<pron>nō´lō kən ten´də rē</pron>
 	</form>
@@ -25267,6 +25041,44 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(لاتین - حقوق) خودداری خوانده از دفاع از خود و خودداری او از اعتراف (این کار جلو محکومیت احتمالی او را نمی‌گیرد ولی راه را برای اقدامات احتمالی آینده باز نگه می‌دارد)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>no-lose</orth>
+		<pron>nō lōōz´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(عامیانه) کاری که باخت ندارد، بدون احتمال زیان، بی‌باخت، بی‌شکست</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">a no-lose situation</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>وضعی که احتمال باخت ندارد</quote>
+				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nol-pros</orth>
+		<pron>näl´ präs´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="transitive verb">فعل متعدی</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(حقوق) ترک پیگیری کردن، اعلان انصراف از پیگیری دادن</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -25282,38 +25094,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>nominative</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>nom de guerre</orth>
-		<pron>näm´də ger´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(فرانسه) نام مستعار</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>nom de plume</orth>
-		<pron>näm´ də plōōm´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(فرانسه) نام مستعار (به ویژه در مورد نویسنده)، تخلص</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -25396,6 +25176,23 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>no man's land</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>زمین بی‌صاحب</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>سرزمین اشغال نشده (که بین دو ناحیهٔ اشغال شده قرار دارد)، سرزمین میانگیر، میانستان</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nombril</orth>
 		<pron>näm´brəl</pron>
 	</form>
@@ -25406,6 +25203,38 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(در نشان های اشرافی) نافگاه، زیر مرکز سپر</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nom de guerre</orth>
+		<pron>näm´də ger´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(فرانسه) نام مستعار</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nom de plume</orth>
+		<pron>näm´ də plōōm´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(فرانسه) نام مستعار (به ویژه در مورد نویسنده)، تخلص</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -25562,30 +25391,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>nominal value</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>par value</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>nominal wages</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>دستمزد پولی (در برابر دستمزد برحسب قوهٔ خرید)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>nominalism</orth>
 		<pron>-iz´əm</pron>
 	</form>
@@ -25622,6 +25427,30 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>به طور ناچیز، به مقدار جزئی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nominal value</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>par value</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nominal wages</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>دستمزد پولی (در برابر دستمزد برحسب قوهٔ خرید)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -25922,89 +25751,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>non compos mentis</orth>
-		<pron>nän´käm pōs men´tis</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(حقوق) دیوانه، مجنون، نامسئول (به خاطر جنون) (non compos هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>non obstante</orth>
-		<pron>nän äb stan´tē</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(لاتین - حقوق) علیرغم (آن قانون یا حکم یا سنت)، با وجود (آن)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>non placet</orth>
-		<pron>nän plā´set´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(لاتین - هنگام دادن رای منفی) خشنودم نمی‌کند، مخالفم</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>non prosequitur</orth>
-		<pron>nän´ prō sek´wē tər</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(حقوق) حکم دادگاه علیه مدعی که در دادگاه غیبت دارد یا در انجام مراسم قانونی قصور می‌کند (.non pros هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>non sequitur</orth>
-		<pron>nän´sek´wi tər</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(منطق) نتیجهٔ کاذب، پیامد غیر منطقی (.non seq هم می‌گویند)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>حرف نامربوط، اظهار ناوابسته به موضوع مورد بحث</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>non troppo</orth>
-		<pron>nän trō´pō</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(دستور نواختن موسیقی) کمی ملایم تر (ولی نه خیلی)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>non-</orth>
 		<pron>nän</pron>
 		<pron>nun</pron>
@@ -26016,113 +25762,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>نا -، غیر -، عدم، نه -، بی - [nonvoter و noncooperation و nonbook و noncandidate و nonhuman]</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>non-book</orth>
-		<pron>-book´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>کتاب بی‌ارزش، ناکتاب، چیزی که استحقاق نام کتاب را ندارد</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>non-Euclidean</orth>
-		<pron>nän´yōō klid´ē ən</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(هندسه) غیر اقلیدسی، نااقلیدسی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>non-pros</orth>
-		<pron>nän´präs´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="transitive verb">فعل متعدی</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(حقوق) حکم دادن علیه یک مدعی که در دادگاه غیبت داشته یا در انجام مراسم قانونی قصور کرده است</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>non-sked</orth>
-		<pron>nän´sked´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>nonscheduled</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>non-starter</orth>
-		<pron>nän´stärt´ər</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(خودمانی)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رویدادی که روی نمی‌دهد، طرحی که انجام نمی‌شود، کار نا انجام</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>کار یا فکر عبث، بیهوده، کار نشدنی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>non-U</orth>
-		<pron>nän´yoo´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(انگلیس‌- عامیانه) ناوابسته به طبقات بالای اجتماع، غیراعیانی، عامی، وابسته به عوام</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -26283,6 +25922,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>non-book</orth>
+		<pron>-book´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>کتاب بی‌ارزش، ناکتاب، چیزی که استحقاق نام کتاب را ندارد</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nonce</orth>
 		<pron>näns</pron>
 	</form>
@@ -26305,18 +25960,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>nonce word</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(واژه‌ای که برای موقعیت یا کار ویژه‌ای ساخته شده) واژهٔ یک کاره، واژهٔ تک منظوره</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>noncellulosic</orth>
 		<pron>nän´sel´yōō lōs´ik</pron>
 	</form>
@@ -26327,6 +25970,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>وابسته به الیاف غیرگیاهی، غیرگیاهی، غیر سلولزی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nonce word</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(واژه‌ای که برای موقعیت یا کار ویژه‌ای ساخته شده) واژهٔ یک کاره، واژهٔ تک منظوره</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -26488,6 +26143,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>عدم انجام، سرپیچی (به ویژه از دستور دادگاه یا مافوق و غیره)، عدم تسلیم یا توافق، عدم تمکین</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>non compos mentis</orth>
+		<pron>nän´käm pōs men´tis</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(حقوق) دیوانه، مجنون، نامسئول (به خاطر جنون) (non compos هم می‌گویند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -27058,6 +26726,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>non-Euclidean</orth>
+		<pron>nän´yōō klid´ē ən</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(هندسه) غیر اقلیدسی، نااقلیدسی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nonevent</orth>
 		<pron>nän´ē vent´</pron>
 	</form>
@@ -27340,6 +27024,29 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>no-no</orth>
+		<pron>nō´nō´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا - خودمانی) اصلا نه، ابدا ابدا، نه نه</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">in our house smoking is a no-no</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>در خانهٔ ما ابدا نمی‌شود سیگار کشید.</quote>
+				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nonobjective</orth>
 		<pron>nän´əb jek´tiv</pron>
 	</form>
@@ -27356,6 +27063,35 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>تندیس گری ناهست‌نما</quote>
 				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>non obstante</orth>
+		<pron>nän äb stan´tē</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(لاتین - حقوق) علیرغم (آن قانون یا حکم یا سنت)، با وجود (آن)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>no-nonsense</orth>
+		<pron>nō´nän´sens</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ناچرند، حرف جدی (که چرت و پرت نیست)، بی‌شوخی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -27447,6 +27183,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(کسی که دولت وجود او را انکار می‌کند یا ذکر نام او را منع می‌کند) ناشخص (unperson هم می‌گویند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>non placet</orth>
+		<pron>nän plā´set´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(لاتین - هنگام دادن رای منفی) خشنودم نمی‌کند، مخالفم</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -27556,6 +27305,35 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(به ویژه در مورد جلوگیری از گسترش سلاح‌های اتمی) ناگسترش</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>non-pros</orth>
+		<pron>nän´präs´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="transitive verb">فعل متعدی</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(حقوق) حکم دادن علیه یک مدعی که در دادگاه غیبت داشته یا در انجام مراسم قانونی قصور کرده است</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>non prosequitur</orth>
+		<pron>nän´ prō sek´wē tər</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(حقوق) حکم دادگاه علیه مدعی که در دادگاه غیبت دارد یا در انجام مراسم قانونی قصور می‌کند (.non pros هم می‌گویند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -27803,6 +27581,41 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>non sequitur</orth>
+		<pron>nän´sek´wi tər</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(منطق) نتیجهٔ کاذب، پیامد غیر منطقی (.non seq هم می‌گویند)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>حرف نامربوط، اظهار ناوابسته به موضوع مورد بحث</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>non-sked</orth>
+		<pron>nän´sked´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>nonscheduled</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nonskid</orth>
 		<pron>nän´skid´</pron>
 	</form>
@@ -27850,6 +27663,32 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>عامیانه، محلی، خودمانی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>non-starter</orth>
+		<pron>nän´stärt´ər</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(خودمانی)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رویدادی که روی نمی‌دهد، طرحی که انجام نمی‌شود، کار نا انجام</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>کار یا فکر عبث، بیهوده، کار نشدنی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -27993,6 +27832,35 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>غیر هجایی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>non troppo</orth>
+		<pron>nän trō´pō</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(دستور نواختن موسیقی) کمی ملایم تر (ولی نه خیلی)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>non-U</orth>
+		<pron>nän´yoo´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(انگلیس‌- عامیانه) ناوابسته به طبقات بالای اجتماع، غیراعیانی، عامی، وابسته به عوام</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -28288,6 +28156,30 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>no one</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>هیچ کس، هیچ نفر</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">no one knows</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>هیچ کس نمی‌داند.</quote>
+				</cit>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">we saw no one</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>ما کسی را ندیدیم.</quote>
+				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nooning</orth>
 		<pron>nōōn´iŋ</pron>
 	</form>
@@ -28403,6 +28295,28 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(گیاه‌شناسی) نوپال (جنس Nopalea که از کاکتوس‌های حاره‌ای بوده و گل‌های قرمز می‌دهند به ویژه انجیر هندی یا Nopaleacochinellifera)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>no-par</orth>
+		<pron>nō´pär´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(اوراق بهادار و غیره) بدون ارزش اسمی</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">a no-par stock certificate</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>ورقهٔ سهم بدون بهای اسمی</quote>
+				</cit>
 			</cit>
 		</sense>
 	</sense>
@@ -28533,6 +28447,28 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>nor'</orth>
+		<pron>nôr</pron>
+	</form>
+	<form>
+		<orth>nor</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(به ویژه در ترکیب) شمال، شمالی</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">nor'western</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>باد شمال غربی</quote>
+				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nor-</orth>
 		<pron>nôr</pron>
 	</form>
@@ -28553,28 +28489,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>وابسته به ترکیبی که یک بنیان کم دارد (معمولا methyl)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>nor'</orth>
-		<pron>nôr</pron>
-	</form>
-	<form>
-		<orth>nor</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(به ویژه در ترکیب) شمال، شمالی</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">nor'western</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>باد شمال غربی</quote>
-				</cit>
 			</cit>
 		</sense>
 	</sense>
@@ -28835,18 +28749,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>normal school</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>مدرسهٔ تربیت معلم، دانشسرای مقدماتی، دانشسرا</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>normalize</orth>
 		<pron>nôr´məl īz´</pron>
 	</form>
@@ -28913,6 +28815,18 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>normal school</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>مدرسهٔ تربیت معلم، دانشسرای مقدماتی، دانشسرا</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Norman</orth>
 		<pron>nôr´mən</pron>
 	</form>
@@ -28967,6 +28881,19 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>Normandy</orth>
+		<pron>nôr´mən dē</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ناحیهٔ نورماندی (در شمال غربی فرانسه)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Norman French</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -28983,19 +28910,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(امروزه) گویش فرانسوی رایج در ناحیهٔ نورماندی (در شمال غرب فرانسه)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Normandy</orth>
-		<pron>nôr´mən dē</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ناحیهٔ نورماندی (در شمال غربی فرانسه)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -29200,6 +29114,28 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>northbound</orth>
+		<pron>nôrth´bound´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>عازم شمال، به سوی شمال</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">a northbound train</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>ترن عازم شمال</quote>
+				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>north by east</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -29242,112 +29178,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>ایالت داکوتای شمالی (در مرکز و شمال ایالات‌متحده - مرکز: Bismarck - مخفف: ND یا .N.D یا 183022 - N Dak کیلومتر مربع)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>North Island</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(زلاندنو) جزیرهٔ شمالی (یکی از دو جزیرهٔ عمدهٔ زلاندنو - 114729 کیلومتر مربع)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>north pole</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>قطب شمال، شمالگان</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>North Sea</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>دریای شمال (بخشی از اقیانوس اطلس که میان شمال انگلیس و اروپای شمالی قرار دارد)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>North Star</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>Polaris</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>north-northeast</orth>
-		<pron>nôrth´ nôrth´ēst´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<pos norm="adjective">صفت</pos>
-			<pos norm="adverb">قید</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(قطب نمای دریانوردان) شمال از شمال خاوری (30 درجه و 22 دقیقه در شرق جهت شمال یا نصف زاویه‌ای میان شمال و شمال شرقی)، از سوی یا به طرف شمال از شمال خاوری</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>north-northwest</orth>
-		<pron>-west´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<pos norm="adjective">صفت</pos>
-			<pos norm="adverb">قید</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(قطب نمای دریانوردان) شمال از شمال باختری (30 درجه و 22 دقیقه در غرب جهت شمال یا نصف زاویهٔ میان شمال و شمال غرب)، از سوی یا به طرف شمال از شمال باختری</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>northbound</orth>
-		<pron>nôrth´bound´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>عازم شمال، به سوی شمال</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">a northbound train</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>ترن عازم شمال</quote>
-				</cit>
 			</cit>
 		</sense>
 	</sense>
@@ -29402,18 +29232,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(قطب نمای دریانوردان) شمال خاوری از شمال (11 درجه و 15 دقیقه در شمال – شمال شرق یا نصف جهت شمال خاوری و شمال - شمال خاوری)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Northeast Passage</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>گذر دریایی شمال خاوری (راه دریایی که از شمال اروپا و آسیا، اقیانوس اطلس را به اقیانوس آرام وصل می‌کند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -29486,6 +29304,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(N بزرگ) وابسته به شمال شرق ایالات متحده</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Northeast Passage</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>گذر دریایی شمال خاوری (راه دریایی که از شمال اروپا و آسیا، اقیانوس اطلس را به اقیانوس آرام وصل می‌کند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -29690,6 +29520,27 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>northerner</orth>
+		<pron>nôr´thərn ər</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آدم) شمالی، اهل شمال</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(N بزرگ) اهل شمال ایالات متحده</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Northern Hemisphere</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -29726,39 +29577,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Northern Territory</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(استرالیا) سرزمین شمالی (بخشی از شمال استرالیا - پایتخت: 519770 - Darwin کیلومتر مربع)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>northerner</orth>
-		<pron>nôr´thərn ər</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آدم) شمالی، اهل شمال</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(N بزرگ) اهل شمال ایالات متحده</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>northernmost</orth>
 		<pron>nôr´thərn mōst´</pron>
 	</form>
@@ -29769,6 +29587,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>شمالی‌ترین نقطه یا بخش، دورترین محل در شمال</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Northern Territory</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(استرالیا) سرزمین شمالی (بخشی از شمال استرالیا - پایتخت: 519770 - Darwin کیلومتر مربع)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -29791,6 +29621,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>جهت شمال، شمال سوی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>North Island</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(زلاندنو) جزیرهٔ شمالی (یکی از دو جزیرهٔ عمدهٔ زلاندنو - 114729 کیلومتر مربع)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -29830,6 +29672,78 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>رجوع شود به: <ref>Norseman</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>north-northeast</orth>
+		<pron>nôrth´ nôrth´ēst´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<pos norm="adjective">صفت</pos>
+			<pos norm="adverb">قید</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(قطب نمای دریانوردان) شمال از شمال خاوری (30 درجه و 22 دقیقه در شرق جهت شمال یا نصف زاویه‌ای میان شمال و شمال شرقی)، از سوی یا به طرف شمال از شمال خاوری</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>north-northwest</orth>
+		<pron>-west´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<pos norm="adjective">صفت</pos>
+			<pos norm="adverb">قید</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(قطب نمای دریانوردان) شمال از شمال باختری (30 درجه و 22 دقیقه در غرب جهت شمال یا نصف زاویهٔ میان شمال و شمال غرب)، از سوی یا به طرف شمال از شمال باختری</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>north pole</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>قطب شمال، شمالگان</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>North Sea</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>دریای شمال (بخشی از اقیانوس اطلس که میان شمال انگلیس و اروپای شمالی قرار دارد)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>North Star</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>Polaris</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -30011,42 +29925,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Northwest Passage</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>گذر شمال غرب (راه دریایی شمال کانادا که اقیانوس اطلس را به اقیانوس آرام وصل می‌کند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Northwest Territories</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>سرزمین‌های شمال غرب (بخشی از شمال کانادا - پایتخت: Yellowknife - مخفف: NWT یا 3379700 - NWTer کیلومتر مربع)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Northwest Territory</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا - پیشترها) سرزمین شمال غرب (ناحیه‌ای که بعدها تبدیل شد به ایالت‌های اوهایو و ایندیانا و ایلی‌نوی و میشیگان و ویسکانسین و بخشی از مینه‌سوتا)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>northwester</orth>
 		<pron>nôrth´wes´tər</pron>
 	</form>
@@ -30111,6 +29989,42 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(N بزرگ) وابسته به شمال غرب ایالات متحده یا کانادا</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Northwest Passage</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>گذر شمال غرب (راه دریایی شمال کانادا که اقیانوس اطلس را به اقیانوس آرام وصل می‌کند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Northwest Territories</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>سرزمین‌های شمال غرب (بخشی از شمال کانادا - پایتخت: Yellowknife - مخفف: NWT یا 3379700 - NWTer کیلومتر مربع)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Northwest Territory</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا - پیشترها) سرزمین شمال غرب (ناحیه‌ای که بعدها تبدیل شد به ایالت‌های اوهایو و ایندیانا و ایلی‌نوی و میشیگان و ویسکانسین و بخشی از مینه‌سوتا)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -30582,6 +30496,38 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>noseband</orth>
+		<pron>nōz´band´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>پوزبند (اسب و الاغ)، رودماغی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nosebleed</orth>
+		<pron>-blēd´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>خون دماغ، خونریزی از بینی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nose cone</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -30639,6 +30585,38 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>no-see-um</orth>
+		<pron>nō sē´əm</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>biting midge</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nosegay</orth>
+		<pron>nōz´ gā´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>دستهٔ گل (به ویژه برای در دست نگهداشتن)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nose guard</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -30657,71 +30635,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(عامیانه) جراحی پلاستیک بینی، عمل دماغ</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>nose ring</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>حلقهٔ بینی (حلقهٔ فلزی که در پوزهٔ جانور قرار می‌دهند واز آن راه او را مهار می‌کنند)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(در میان برخی مردم) حلقهٔ زینتی بینی، حلقهٔ دماغ</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>noseband</orth>
-		<pron>nōz´band´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>پوزبند (اسب و الاغ)، رودماغی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>nosebleed</orth>
-		<pron>-blēd´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>خون دماغ، خونریزی از بینی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>nosegay</orth>
-		<pron>nōz´ gā´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>دستهٔ گل (به ویژه برای در دست نگهداشتن)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -30759,6 +30672,23 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>nose ring</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>حلقهٔ بینی (حلقهٔ فلزی که در پوزهٔ جانور قرار می‌دهند واز آن راه او را مهار می‌کنند)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(در میان برخی مردم) حلقهٔ زینتی بینی، حلقهٔ دماغ</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nosey</orth>
 		<pron>nō´zē</pron>
 	</form>
@@ -30787,6 +30717,22 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(خودمانی) خوراک سبک خوردن</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>no-show</orth>
+		<pron>nō´shō´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(هواپیما و هتل و غیره) کسی که جا رزرو می‌کند ولی نمی‌رود، نایند، عدم حضور</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -31236,22 +31182,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>پشت، کمر، پشتی، جنوب، جنوبی (پیش از واکه می آید والا: noto-)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>not-for-profit</orth>
-		<pron>nät´fər präf´it</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>nonprofit</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -31821,30 +31751,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>note of hand</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>promissory note</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>note paper</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>کاغذ یادداشت، کاغذ نامه نگاری</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>notebook</orth>
 		<pron>nōt´book´</pron>
 	</form>
@@ -31911,6 +31817,30 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>note of hand</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>promissory note</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>note paper</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>کاغذ یادداشت، کاغذ نامه نگاری</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>noteworthy</orth>
 		<pron>-wu_r´thē</pron>
 	</form>
@@ -31927,6 +31857,22 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>موفقیت چشمگیر</quote>
 				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>not-for-profit</orth>
+		<pron>nät´fər präf´it</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>nonprofit</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -32712,6 +32658,23 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>no-trump</orth>
+		<pron>nō´trump´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(بازی بریج) بدون خال آتو</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>notum</orth>
 		<pron>nōt´ əm</pron>
 	</form>
@@ -33081,19 +33044,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Nova Scotia</orth>
-		<pron>nō´və skō´ shə</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>استان نووسکوشیا (در جنوب خاوری کانادا - پایتخت: Halifax - مخفف 55490 - NS کیلومتر مربع)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>novaculite</orth>
 		<pron>nō vak´yōō līt´</pron>
 	</form>
@@ -33104,6 +33054,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(سنگ‌شناسی) سنگ چاقو تیزکن، سنگ نواکولیت</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Nova Scotia</orth>
+		<pron>nō´və skō´ shə</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>استان نووسکوشیا (در جنوب خاوری کانادا - پایتخت: Halifax - مخفف 55490 - NS کیلومتر مربع)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -33768,6 +33731,28 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>no-win</orth>
+		<pron>nō´win´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>بدون برد، بدون امکان موفقیت</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">we are in a no-win situation</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>ما در موقعیتی قرار داریم که امکان برد نداریم.</quote>
+				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nowise</orth>
 		<pron>nō´wīz´</pron>
 	</form>
@@ -33984,6 +33969,21 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>n/s</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="abbreviation">مخفف</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(بانکداری) موجودی غیر کافی (است)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>NS</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -34059,21 +34059,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>nt wt</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="abbreviation">مخفف</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>وزن خالص، وزن ویژه</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>NTA</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -34134,6 +34119,21 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>حرارت و فشار هوای طبیعی (صفر درجه و 760 میلیمتر جیوه) (stp هم می‌گویند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nt wt</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="abbreviation">مخفف</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>وزن خالص، وزن ویژه</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -35944,6 +35944,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>numberless</orth>
+		<pron>num´bər lis</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>بی شمار، بی حدوحصر، بسیار زیاد، نشمردنی، شمارناپذیر</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>number one</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -35960,22 +35976,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>درجه یک، خیلی خوب، دست اول</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>numberless</orth>
-		<pron>num´bər lis</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>بی شمار، بی حدوحصر، بسیار زیاد، نشمردنی، شمارناپذیر</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -36791,18 +36791,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>nurse practitioner</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>پرستار دیپلمه (دارای تخصص بخصوص)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>nursemaid</orth>
 		<pron>nu_rs´mād´</pron>
 	</form>
@@ -36813,6 +36801,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>دایه، پرستار بچه (nurserymaid هم می‌گویند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nurse practitioner</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>پرستار دیپلمه (دارای تخصص بخصوص)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -36873,6 +36873,23 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>nurseryman</orth>
+		<pron>-mən</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>متصدی قلمستان، کارگر خزانه، فروشندهٔ درخت و گل</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>nursery rhyme</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -36891,23 +36908,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>مهد کودک، کودکستان (ویژهٔ کودکان 3 تا 5 ساله)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>nurseryman</orth>
-		<pron>-mən</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>متصدی قلمستان، کارگر خزانه، فروشندهٔ درخت و گل</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -37169,46 +37169,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>nut case</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(خودمانی) آدم خل و ضع، خل، غیر عادی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>nut pine</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>انواع کاج‌هایی که تخم آنها خوراکی است</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>nut-brown</orth>
-		<pron>nut´broun´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>قهوه‌ای تیره، (رنگ) فندقی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>nutant</orth>
 		<pron>nōō´tənt</pron>
 		<pron>nyōō´-</pron>
@@ -37247,6 +37207,34 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(نجوم) رقص محوری، آسه پیچی، تمایل قطب</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nut-brown</orth>
+		<pron>nut´broun´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>قهوه‌ای تیره، (رنگ) فندقی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nut case</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(خودمانی) آدم خل و ضع، خل، غیر عادی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -37385,6 +37373,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(آلت کوچک و تیز و قاشقک مانندی که با آن هستهٔ گردو و غیره را از پوست آن بیرون می‌آورند) هسته کش، مغز کش</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>nut pine</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>انواع کاج‌هایی که تخم آنها خوراکی است</quote>
 			</cit>
 		</sense>
 	</sense>

@@ -51,100 +51,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>U bolt</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>پیچ رکابی، کرپی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>U-boat</orth>
-		<pron>yōō´ bōt´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>زیردریایی آلمانی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>U-joint</orth>
-		<pron>yōō´ joint´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="abbreviation">مخفف</pos>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>universal joint</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>U-shaped</orth>
-		<pron>yōō´shāpt´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>به شکل U، زانویی شکل</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>U-turn</orth>
-		<pron>yōō´tu_rn´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(رانندگی) دور کامل، دورزنی، دور</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">no U-turn</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>دور زدن ممنوع</quote>
-				</cit>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>دگرگونی، وارونی، زیروروشدگی</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">* make a U-turn</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>دور زدن، 180 درجه چرخیدن</quote>
-				</cit>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>UAE</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -213,19 +119,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>ubi supra</orth>
-		<pron>ōō´ bē sōō´ prə</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(لاتین) در محل فوق‌الذکر</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>ubiety</orth>
 		<pron>yōō bī´ə tē</pron>
 	</form>
@@ -274,6 +167,47 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>حضور همزمان در همه جا (مانند ذات پروردگار)، همه جا حاضر، شیوع، همه‌جاگیری</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>ubi supra</orth>
+		<pron>ōō´ bē sōō´ prə</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(لاتین) در محل فوق‌الذکر</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>U-boat</orth>
+		<pron>yōō´ bōt´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>زیردریایی آلمانی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>U bolt</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>پیچ رکابی، کرپی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -649,6 +583,21 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>UHF</orth>
+	</form>
+	<form>
+		<orth>uhf</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(مخفف: ultrahigh frequency ) ابر بسامد، فراپر بسامد، یو اچ اف</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>uh-huh</orth>
 		<pron>un hun´</pron>
 	</form>
@@ -675,37 +624,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>uh-uh</orth>
-		<pron>un´ un´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="interjection">حرف ندا</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(ندا حاکی از پاسخ منفی) نه‌!، نچ نچ، نچ</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>UHF</orth>
-	</form>
-	<form>
-		<orth>uhf</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(مخفف: ultrahigh frequency ) ابر بسامد، فراپر بسامد، یو اچ اف</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>uhlan</orth>
 		<pron>ōō´län´</pron>
 	</form>
@@ -716,6 +634,22 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(سابقا - در لهستان و پروس - از ریشهٔ ترکی: اغلان) سوار، سرباز سوار بر اسب، نیزه‌دار</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>uh-uh</orth>
+		<pron>un´ un´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="interjection">حرف ندا</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(ندا حاکی از پاسخ منفی) نه‌!، نچ نچ، نچ</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -769,19 +703,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Uinta Mountains</orth>
-		<pron>yōō in´tə</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>کوه‌های یواینتا (در ایالت یوتا - آمریکا)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>uintaite</orth>
 		<pron>yōō in´tə īt´</pron>
 	</form>
@@ -801,6 +722,19 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>Uinta Mountains</orth>
+		<pron>yōō in´tə</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>کوه‌های یواینتا (در ایالت یوتا - آمریکا)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>uitlander</orth>
 		<pron>ëit´ lan´dər</pron>
 	</form>
@@ -811,6 +745,23 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(آفریقای جنوبی) خارجی، بیگانه، غیر بوئر</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>U-joint</orth>
+		<pron>yōō´ joint´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="abbreviation">مخفف</pos>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>universal joint</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1394,24 +1345,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>ultima Thule</orth>
-		<pron>ul´ti mə thōō´lē</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>شمالی‌ترین نقطه (رجوع شود به: <ref>Thule</ref>)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>دورترین جا، فراترین، بیشترین حد، حدغایی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>ultimate</orth>
 		<pron>ul´ tə mit</pron>
 	</form>
@@ -1514,6 +1447,24 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>ultima Thule</orth>
+		<pron>ul´ti mə thōō´lē</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>شمالی‌ترین نقطه (رجوع شود به: <ref>Thule</ref>)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>دورترین جا، فراترین، بیشترین حد، حدغایی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>ultimatum</orth>
 		<pron>ul´tə mā t´əm</pron>
 	</form>
@@ -1585,19 +1536,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>افراطی، تندرو (از نظر عقیده)، دو آتشه</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>ultra vires</orth>
-		<pron>ul´ trə vī´rēz´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(حقوق) خارج از اختیارات قانونی و قدرت شخص یا موسسه</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -2001,6 +1939,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>برتابش فرابنفش</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>ultra vires</orth>
+		<pron>ul´ trə vī´rēz´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(حقوق) خارج از اختیارات قانونی و قدرت شخص یا موسسه</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -2838,33 +2789,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>un-American</orth>
-		<pron>un´ə mer´ə kən</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>غیر آمریکایی، ناوابسته به آمریکا</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(به ویژه در دههٔ 1950) ضد آمریکایی</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">un-American activities</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>فعالیت‌های ضد آمریکایی</quote>
-				</cit>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Una</orth>
 		<pron>ōō´nə</pron>
 		<pron>yōō´-</pron>
@@ -2873,19 +2797,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>اسم خاص مونث</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>una corda</orth>
-		<pron>ōō´nə kôr´ də</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(دستور به نوازندهٔ پیانو) با فشار بر جا پایی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3092,6 +3003,19 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>una corda</orth>
+		<pron>ōō´nə kôr´ də</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(دستور به نوازندهٔ پیانو) با فشار بر جا پایی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>unadvised</orth>
 		<pron>un´əd vīzd´</pron>
 	</form>
@@ -3138,6 +3062,33 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>بی شائبه، بی‌شیله پیله، ساده دل، صاف و صادق، بی‌پیرایه، بی‌تکلف</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>un-American</orth>
+		<pron>un´ə mer´ə kən</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>غیر آمریکایی، ناوابسته به آمریکا</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(به ویژه در دههٔ 1950) ضد آمریکایی</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">un-American activities</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>فعالیت‌های ضد آمریکایی</quote>
+				</cit>
 			</cit>
 		</sense>
 	</sense>
@@ -5418,30 +5369,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Uncle Sam</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا- عامیانه) عمو سام، دولت آمریکا، آمریکا (معمولا به شکل مرد لاغر و بلند و ملبس به پرچم آمریکا)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Uncle Tom</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا- عامیانه) عموتام، سیاهپوست مطیع، چاکر سفیدپوستان</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>unclean</orth>
 		<pron>un klēn´</pron>
 	</form>
@@ -5512,6 +5439,30 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>او مشت‌های خود را گره کرد و سپس از هم گشود.</quote>
 				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Uncle Sam</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا- عامیانه) عمو سام، دولت آمریکا، آمریکا (معمولا به شکل مرد لاغر و بلند و ملبس به پرچم آمریکا)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Uncle Tom</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا- عامیانه) عموتام، سیاهپوست مطیع، چاکر سفیدپوستان</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -6966,22 +6917,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>کم، اندک [underdeveloped]</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>under-the-counter</orth>
-		<pron>un´dər thə koun´tər</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(عامیانه) زیرجلی، مخفیانه (و معمولا به طور غیر قانونی)، قاچاقی (under-the-table هم می‌گویند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -9825,6 +9760,22 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>حرفهٔ کفن و دفن</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>under-the-counter</orth>
+		<pron>un´dər thə koun´tər</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(عامیانه) زیرجلی، مخفیانه (و معمولا به طور غیر قانونی)، قاچاقی (under-the-table هم می‌گویند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14326,59 +14277,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>union jack</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>پرچم</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(U و J بزرگ) پرچم انگلیس</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Union of Soviet Socialist Republics</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(سابقا) اتحادجماهیر شوروی سوسیالیستی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>union shop</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>کارخانه و غیره که عضویت در اتحادیه برای کارگران آن اجباری است</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>union suit</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>زیر شلواری وزیر پیراهنی متصل به هم، زیرپوش یک تکه</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>unionism</orth>
 		<pron>-iz´əm</pron>
 	</form>
@@ -14453,6 +14351,59 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>یونیزه نشده، یونی نشده</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>union jack</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>پرچم</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(U و J بزرگ) پرچم انگلیس</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Union of Soviet Socialist Republics</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(سابقا) اتحادجماهیر شوروی سوسیالیستی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>union shop</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>کارخانه و غیره که عضویت در اتحادیه برای کارگران آن اجباری است</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>union suit</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>زیر شلواری وزیر پیراهنی متصل به هم، زیرپوش یک تکه</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14898,69 +14849,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>unit cell</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(کوچکترین یکان ساختاری بلور) یاختهٔ ساختاری، تک ساختار</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>unit character</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(زاد‌شناسی - قوانین مندل) ویژگی تک زادی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>unit magnetic pole</orth>
-	</form>
-	<form>
-		<orth>unit pole</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>قطب مغناطیسی یکان</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>unit pricing</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(بازرگانی)قیمت گذاری واحد، بها گذاری یکان</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>unit rule</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(انتخابات - آمریکا) دادن همهٔ آرای ایالت به یک نامزد یا حزب (و به حساب نیاوردن آرای اقلیت)، تسلط اکثریت</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>unitage</orth>
 		<pron>-ij</pron>
 	</form>
@@ -15035,6 +14923,30 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>وابسته به اتحاد، متحدانه، اتحادی، هم‌پیوسته</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>unit cell</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(کوچکترین یکان ساختاری بلور) یاختهٔ ساختاری، تک ساختار</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>unit character</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(زاد‌شناسی - قوانین مندل) ویژگی تک زادی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15342,6 +15254,45 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>unit magnetic pole</orth>
+	</form>
+	<form>
+		<orth>unit pole</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>قطب مغناطیسی یکان</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>unit pricing</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(بازرگانی)قیمت گذاری واحد، بها گذاری یکان</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>unit rule</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(انتخابات - آمریکا) دادن همهٔ آرای ایالت به یک نامزد یا حزب (و به حساب نیاوردن آرای اقلیت)، تسلط اکثریت</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>unity</orth>
 		<pron>yōōn´ə tē</pron>
 	</form>
@@ -15614,45 +15565,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>universal joint</orth>
-	</form>
-	<form>
-		<orth>universal coupling</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(مکانیک) قفل گاردان، چهارشاخهٔ گاردان، همبست همه کاره، همبست همه سویه، مفصل چرخان</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>universal set</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(ریاضی) مجموعهٔ عام، افزونهٔ همگانی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Universal time</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>Greenwich mean time</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>universalism</orth>
 		<pron>-iz´əm</pron>
 	</form>
@@ -15750,6 +15662,21 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>universal joint</orth>
+	</form>
+	<form>
+		<orth>universal coupling</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(مکانیک) قفل گاردان، چهارشاخهٔ گاردان، همبست همه کاره، همبست همه سویه، مفصل چرخان</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>universally</orth>
 		<pron>yōōn´ə vu_r´səl ē</pron>
 	</form>
@@ -15771,6 +15698,30 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>برده‌داری در سراسر جهان مردود شناخته شده است.</quote>
 				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>universal set</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(ریاضی) مجموعهٔ عام، افزونهٔ همگانی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Universal time</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>Greenwich mean time</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -22649,106 +22600,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>up-bow</orth>
-		<pron>up´bō´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(سازهای زهی) کشیدن آرشه به طرف دستهٔ ویولون (و غیره)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>up-market</orth>
-		<pron>up´mär´kit</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>upscale</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>up-tempo</orth>
-		<pron>up´ tem´pō</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-			<pos norm="adverb">قید</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>باسرعت زیاد، با آهنگ سریع</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>up-to-date</orth>
-		<pron>up´tə dāt´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>روزآمد، بهنگام، به روز</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">we must keep our accounts up-to-date</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>بایستی حساب‌های خود را به روز کنیم.</quote>
-				</cit>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(مطابق) آخرین اطلاعات (یا آمار یا رویدادها و غیره)، امروزین، زمان تراز، جدیدترین، آخرین، تازه‌ترین</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">newspapers kept the people up-to-date about the war</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>روزنامه‌ها مردم را در جریان آخرین اخبار مربوط به جنگ قرار می‌دادند.</quote>
-				</cit>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">an up-to-date report</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>یک گزارش امروزین، آخرین گزارش</quote>
-				</cit>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">* to keep up-to-date</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>در جریان آخرین رویدادها (یا اختراعات و غیره) قرار دادن</quote>
-				</cit>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">* to stay up-to-date</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>در جریان آخرین اخبار (و غیره) بودن یا باقیماندن</quote>
-				</cit>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Upanishads</orth>
 		<pron>ōō pan´i shadz´</pron>
 	</form>
@@ -22811,6 +22662,22 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>خیلی نسبت به آیندهٔ اکتشافات فضایی خوش‌بین است.</quote>
 				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>up-bow</orth>
+		<pron>up´bō´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(سازهای زهی) کشیدن آرشه به طرف دستهٔ ویولون (و غیره)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -23566,6 +23433,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>up-market</orth>
+		<pron>up´mär´kit</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>upscale</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>upmost</orth>
 		<pron>up´mōst´</pron>
 	</form>
@@ -23900,6 +23783,23 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>upperclassman</orth>
+		<pron>up´ər klas´mən</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا - دبیرستان و دانشگاه) شاگرد دو سال آخر، شاگرد ارشد</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>upper crust</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -23911,6 +23811,34 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(عامیانه) رجوع شود به: <ref>upper class</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>uppercut</orth>
+		<pron>up´ər kut´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<pos norm="transitive verb">فعل متعدی</pos>
+			<pos norm="intransitive verb">فعل لازم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(مشت‌بازی)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ضربهٔ روبه بالا</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ضربهٔ روبه بالا زدن</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -23941,90 +23869,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>مجلس سنا، مجلس لردان، مجلس فوقانی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Upper Peninsula</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>بخش شمالی ایالت میشیگان (آمریکا)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Upper Volta</orth>
-		<pron>väl´tə</pron>
-		<pron>vôl´-</pron>
-		<pron>vōl´-</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(نام پیشین کشور افریقایی Burkina Faso) ولتای علیا، ولتای شمالی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>upper works</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آن بخش از کشتی بارگیری شده که بالای سطح آب است) زبرناو</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>upperclassman</orth>
-		<pron>up´ər klas´mən</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا - دبیرستان و دانشگاه) شاگرد دو سال آخر، شاگرد ارشد</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>uppercut</orth>
-		<pron>up´ər kut´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<pos norm="transitive verb">فعل متعدی</pos>
-			<pos norm="intransitive verb">فعل لازم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(مشت‌بازی)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ضربهٔ روبه بالا</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ضربهٔ روبه بالا زدن</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -24076,6 +23920,45 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>افکاری که در مغزم بیش از همه حایز اهمیت بود.</quote>
 				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Upper Peninsula</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>بخش شمالی ایالت میشیگان (آمریکا)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Upper Volta</orth>
+		<pron>väl´tə</pron>
+		<pron>vôl´-</pron>
+		<pron>vōl´-</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(نام پیشین کشور افریقایی Burkina Faso) ولتای علیا، ولتای شمالی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>upper works</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آن بخش از کشتی بارگیری شده که بالای سطح آب است) زبرناو</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -25207,6 +25090,23 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>up-tempo</orth>
+		<pron>up´ tem´pō</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+			<pos norm="adverb">قید</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>باسرعت زیاد، با آهنگ سریع</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>upthrow</orth>
 		<pron>-thrō´</pron>
 	</form>
@@ -25328,6 +25228,57 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>زمان کار ماشین یا کامپیوتر، زمان دایر بودن، کار زمان</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>up-to-date</orth>
+		<pron>up´tə dāt´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>روزآمد، بهنگام، به روز</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">we must keep our accounts up-to-date</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>بایستی حساب‌های خود را به روز کنیم.</quote>
+				</cit>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(مطابق) آخرین اطلاعات (یا آمار یا رویدادها و غیره)، امروزین، زمان تراز، جدیدترین، آخرین، تازه‌ترین</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">newspapers kept the people up-to-date about the war</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>روزنامه‌ها مردم را در جریان آخرین اخبار مربوط به جنگ قرار می‌دادند.</quote>
+				</cit>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">an up-to-date report</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>یک گزارش امروزین، آخرین گزارش</quote>
+				</cit>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">* to keep up-to-date</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>در جریان آخرین رویدادها (یا اختراعات و غیره) قرار دادن</quote>
+				</cit>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">* to stay up-to-date</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>در جریان آخرین اخبار (و غیره) بودن یا باقیماندن</quote>
+				</cit>
 			</cit>
 		</sense>
 	</sense>
@@ -25940,30 +25891,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>urban renewal</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا) بازسازی شهری (به ویژه محلات فقیرنشین)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>urban sprawl</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(گسترش بی‌رویهٔ شهر و بلعیدن دهات اطراف) هرزه‌رویی شهری</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>urbane</orth>
 		<pron>u_r bān´</pron>
 	</form>
@@ -26082,6 +26009,30 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(ویژه‌گر مسائل شهری) شهر شناس</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>urban renewal</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا) بازسازی شهری (به ویژه محلات فقیرنشین)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>urban sprawl</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(گسترش بی‌رویهٔ شهر و بلعیدن دهات اطراف) هرزه‌رویی شهری</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -28532,6 +28483,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>U-shaped</orth>
+		<pron>yōō´shāpt´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>به شکل U، زانویی شکل</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Ushas</orth>
 		<pron>ōō´shäs´</pron>
 	</form>
@@ -29886,6 +29853,39 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>رجوع شود به: <ref>utmost</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>U-turn</orth>
+		<pron>yōō´tu_rn´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(رانندگی) دور کامل، دورزنی، دور</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">no U-turn</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>دور زدن ممنوع</quote>
+				</cit>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>دگرگونی، وارونی، زیروروشدگی</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">* make a U-turn</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>دور زدن، 180 درجه چرخیدن</quote>
+				</cit>
 			</cit>
 		</sense>
 	</sense>
