@@ -2,16 +2,7 @@
 
 Scope: all 61 files in `aryanpour.parts/` (181,160 entries).
 
-## Remaining issues (not auto-fixed)
-
-### 1. Ambiguous ZWNJ-before-hyphen/parenthesis conversions
-
-The applied fix converted `\u200c-`, `\u200c–`, and `\u200c(` to a normal space. This produces forms such as:
-
-- `(گیاه - شناسی)` from `(گیاه‌- شناسی)`
-- `آب پرده (کالبد‌شناسی)` from `آب پرده‌(کالبد‌شناسی‌)`
-
-These are much cleaner than the stray ZWNJ forms, but the exact desired wording (e.g. `گیاه‌شناسی` vs `گیاه - شناسی`) should be checked manually for the 328 hyphen and 351 parenthesis cases.
+## Remaining issues
 
 ### 2. Remaining space-before-punctuation edge cases
 
@@ -92,7 +83,6 @@ The publication date may be intentional (original source date), but it is worth 
 
 ## Recommended order of work
 
-1. Manually spot-check the ZWNJ-before-hyphen/parenthesis conversions.
 2. Review the Persian duplicate headwords.
 3. Clean up the rare `<br/>`/`<xr>` whitespace cases.
 4. Add XML validation to the split/combine workflow.
