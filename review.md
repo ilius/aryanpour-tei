@@ -33,6 +33,9 @@ These formatting-only changes have already been applied to the part files:
 | Footer indentation fixed in `60-fa-ye.xml` (`8 spaces` → `2 tabs`) | 1 |
 | `<extent>` corrected from `181165` to `181160` headwords | 1 |
 | Re-sorted after normalization (`32-fa-t.xml`, `57-fa-n.xml`) | 2 files |
+| Duplicate comma `، ،` collapsed to `،` | 4 |
+| ASCII `;` replaced with `؛` in Persian text | 77 |
+| Spaced hyphens normalized to en dash `–` in Persian separator contexts | 10,808 |
 
 Post-change validation:
 
@@ -42,41 +45,11 @@ Post-change validation:
 - No non-letter-adjacent ZWNJ remain.
 - No trailing whitespace and no double-space text nodes remain.
 - Header + last part still close the TEI document correctly.
+- Persian separator dashes use en dash (`–`); 43 ` - ` occurrences remain in English/numeric contexts.
 
 ## Remaining issues (not auto-fixed)
 
-### 1. Duplicate comma
-
-Four occurrences of `، ،`:
-
-- `aryanpour.parts/05-d.xml:42261` — `خالی (از)، ، تهی (از)`
-- `aryanpour.parts/17-p.xml:98379` — `پاپ کردن، ، ترق تروق کردن`
-- `aryanpour.parts/20-s.xml:128520` — `گریه زاری، ، آه و ناله`
-- `aryanpour.parts/21-t.xml:70809` — `... کوه، ، شخص فرا کوهی`
-
-Recommendation: remove the extra `،`.
-
-### 2. ASCII semicolon in Persian text
-
-About 80 text occurrences use ASCII `;` where Persian `؛` is expected. Examples:
-
-- `aryanpour.parts/02-a.xml:46381` — `بچه را ول کن; او که به تو کاری ندارد!`
-- `aryanpour.parts/03-b.xml:31805` — `من آن را خراب نکردم; از اول خراب بود.`
-- `aryanpour.parts/03-b.xml:41910` — `مواظب این سگ باشید; گاز می‌گیرد!`
-
-Recommendation: replace with `؛` when the surrounding text is Persian. Do not touch semicolons inside XML entities (`&amp;`, `&lt;`, …) or English examples.
-
-### 3. Dash inconsistency
-
-There are 722 en dashes (`–`) in the corpus, while earlier fix scripts normalize some domain labels to `-`. Compare:
-
-- `aryanpour.parts/02-a.xml:33822` — `تسهیلات سمعی – بصری`
-- `aryanpour.parts/08-g.xml:183` — `(آمریکا ) ...`
-- fix scripts expect forms like `(آمریکا - جانورشناسی)` / `(آمریکا- عامیانه)`
-
-Recommendation: decide on one separator convention for domain/region labels and apply it consistently. Keep en dashes only for genuine ranges if desired.
-
-### 4. Ambiguous ZWNJ-before-hyphen/parenthesis conversions
+### 1. Ambiguous ZWNJ-before-hyphen/parenthesis conversions
 
 The applied fix converted `\u200c-`, `\u200c–`, and `\u200c(` to a normal space. This produces forms such as:
 
@@ -85,7 +58,7 @@ The applied fix converted `\u200c-`, `\u200c–`, and `\u200c(` to a normal spac
 
 These are much cleaner than the stray ZWNJ forms, but the exact desired wording (e.g. `گیاه‌شناسی` vs `گیاه - شناسی`) should be checked manually for the 328 hyphen and 351 parenthesis cases.
 
-### 5. Remaining space-before-punctuation edge cases
+### 2. Remaining space-before-punctuation edge cases
 
 - 9 remaining `space + )` cases have a non-alphanumeric predecessor and were intentionally skipped:
   - `aryanpour.parts/02-a.xml:7857` — `(بدین شکل: ' )`
@@ -97,7 +70,7 @@ These are much cleaner than the stray ZWNJ forms, but the exact desired wording 
   - `aryanpour.parts/06-e.xml:60801` — `(این نشان: !)`
   These should stay as-is.
 
-### 6. Inline-markup whitespace
+### 3. Inline-markup whitespace
 
 A few rare structural elements put text on a new line with indentation, which becomes whitespace in the text content:
 
@@ -116,7 +89,7 @@ A few rare structural elements put text on a new line with indentation, which be
 
 Recommendation: either keep mixed content on one line or accept the extra whitespace intentionally. If `<br/>` is not wanted in the target schema, replace it with separate `<quote>`/`<cit>` elements.
 
-### 7. Duplicate headwords
+### 4. Duplicate headwords
 
 After normalization, 404 `<orth>` values are duplicated within the same part file (410 globally). Most are legitimate English homographs or abbreviations (`a`, `A`, `B`, `s`, `y`, …). The Persian duplicates should be reviewed:
 
@@ -132,18 +105,18 @@ After normalization, 404 `<orth>` values are duplicated within the same part fil
 
 The count rose from 392 to 404 within-file duplicates because punctuation/ZWNJ normalization made some headwords identical. Confirm whether these are intentional homographs or accidental duplicates.
 
-### 8. Empty punctuation/digit part
+### 5. Empty punctuation/digit part
 
 `aryanpour.parts/01-puncs-digits.xml` is 0 bytes but is still counted as one of the 61 files by `combine_tei.py` (“combined 61 files”). Options:
 
 - remove it from the set and from `all_filenames()`, or
 - keep it with a placeholder/comment explaining that no entries currently sort there.
 
-### 9. Working file is out of sync
+### 6. Working file is out of sync
 
 `aryanpour.tei` is git-ignored and still has the pre-sort entry order. Running `combine_tei.py` now produces the sorted part order, so its output will not be byte-identical to the current working `aryanpour.tei` (all entries/header/footer are preserved, only order differs). Regenerate it deliberately if needed.
 
-### 10. Metadata date consistency
+### 7. Metadata date consistency
 
 `00-header.xml` currently has:
 
@@ -164,10 +137,7 @@ The publication date may be intentional (original source date), but it is worth 
 
 ## Recommended order of work
 
-1. Replace ASCII `;` with `؛` in Persian text (80 occurrences).
-2. Remove the four `، ،` duplicates.
-3. Decide and apply one dash convention for domain labels.
-4. Manually spot-check the ZWNJ-before-hyphen/parenthesis conversions.
-5. Review the Persian duplicate headwords.
-6. Clean up the rare `<br/>`/`<xr>` whitespace cases.
-7. Add XML validation to the split/combine workflow.
+1. Manually spot-check the ZWNJ-before-hyphen/parenthesis conversions.
+2. Review the Persian duplicate headwords.
+3. Clean up the rare `<br/>`/`<xr>` whitespace cases.
+4. Add XML validation to the split/combine workflow.
