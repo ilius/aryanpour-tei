@@ -14,6 +14,17 @@ Combine the parts into a single TEI file:
 python3 combine_tei.py --output aryanpour.tei
 ```
 
+## Create a release
+
+Build `aryanpour.tei.gz` and publish it as a GitHub release, only when the
+repository has changed since the previous release:
+
+```bash
+./release.py
+```
+
+Use `./release.py --dry-run` to build without publishing.
+
 ## Convert for use in dictionary applications
 
 Use [PyGlossary](https://github.com/ilius/pyglossary) to convert the generated
