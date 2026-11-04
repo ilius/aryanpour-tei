@@ -6,14 +6,14 @@
 	<teiHeader xml:lang="en">
 		<fileDesc>
 			<titleStmt>
-				<title>Aryanpour [2025-03]</title>
+				<title>Aryanpour [2026-11]</title>
 				<respStmt>
 					<resp>Maintainer</resp>
 					<name xml:id="ilius">Saeed Rasooli</name>
 				</respStmt>
 			</titleStmt>
 			<editionStmt>
-				<edition>2025.03.02</edition>
+				<edition>2026.11.04</edition>
 			</editionStmt>
 			<extent>181144 headwords</extent>
 			<publicationStmt>
@@ -21,7 +21,7 @@
 				<availability status="free">
 					<p>Licensed under the <ref target="https://creativecommons.org/licenses/by-sa/3.0/legalcode">Creative Commons Attribution-ShareAlike 3.0 Unported</ref> license</p>
 				</availability>
-				<date>2023-01-14</date>
+				<date>2026-11-04</date>
 			</publicationStmt>
 			<sourceDesc>
 				<p/>

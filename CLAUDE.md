@@ -4,6 +4,7 @@
 
 - `aryanpour.parts/NN-*.xml` are the editable source files.
 - `aryanpour.tei` in the project root is a manual build artifact for conversion and testing. Agents must always ignore it: never read, modify, compare against, or regenerate it unless explicitly asked.
+- After any change to `aryanpour.parts/`, automatically update the dates in `00-header.xml` to the current date: `<title>Aryanpour [YYYY-MM]</title>`, `<edition>YYYY.MM.DD</edition>`, and `<publicationStmt><date>YYYY-MM-DD</date></publicationStmt>`.
 - Record applied work in `changelog/YYYY-MM-DD.md`.
 - Keep `review.md` for remaining issues only; remove items once fixed.
 - Do not renumber remaining issues in `review.md` after removing fixed issues; keep their original numbers.
