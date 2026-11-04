@@ -66,50 +66,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>J particle</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>psi particle</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>J-curve</orth>
-		<pron>jā´ku_rv´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(اقتصاد) منحنی ((جی)) (این روند: تنزل جزئی و سپس رشد سریع)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>j'accuse</orth>
-		<pron>zhå küz´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(فرانسه: من متهم می‌کنم) اعتراض شدید، اتهام، تقصیر گذاری</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>J/A</orth>
 	</form>
 	<form>
@@ -416,6 +372,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>j'accuse</orth>
+		<pron>zhå küz´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(فرانسه: من متهم می‌کنم) اعتراض شدید، اتهام، تقصیر گذاری</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>jacinth</orth>
 		<pron>jā´sinth</pron>
 		<pron>jas´inth</pron>
@@ -654,91 +626,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>jack bean</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(گیاه‌شناسی) باقلای هندی (Canavalia ensiformis گیاه حاره‌ای از خانوادهٔ pea که درجنوب ایالات متحده برای خوراک دام و غیره کشت می‌شود)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jack cheese</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>Monterey Jack</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Jack Frost</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>هوای سرد، یخبندان، سرما ریزه، بشم، بشمه</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Jack Ketch</orth>
-		<pron>kech´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(انگلیس) جلاد، میر غضب</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jack mackerel</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(جانور‌شناسی) جک ماهی (Trachurus symmetricus از خانوادهٔ jack که در کرانه‌های غربی آمریکای شمالی در دستجات انبوه حرکت می‌کنند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jack pine</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(گیاه‌شناسی) کاج بانکسی یانا (Pinus banksiana که برگ‌های سوزنی کوتاه دارد و بومی کانادا و شمال ایالات متحده است)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jack rabbit</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(جانور‌شناسی) خرگوش آمریکایی (خرگوش درشت و بزرگ گوش نواحی غربی آمریکای شمالی از جنس Lepus)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>jack-</orth>
 		<pron>jak</pron>
 	</form>
@@ -759,95 +646,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>پسر، پسرک، شخص [jack-in-the-box]</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jack-in-the-box</orth>
-		<pron>jak´in thə bäks´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(اسباب‌بازی: جعبه‌ای که تا در آن را بردارند آدمکی از آن بیرون می‌پرد) علی ورجه (jack-in-a-box هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jack-in-the-pulpit</orth>
-		<pron>-pool´pit</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(گیاه‌شناسی) گل شیپوری آمریکایی (Arisaema triphyllum از خانوادهٔ arum)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jack-o'-lantern</orth>
-		<pron>jak´ə lant´ərn</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(کدو تنبل که داخل آن را خالی می‌کنند و در آن شمع می‌گذارند – به ویژه در جشن‌ها) فانوس‌کدویی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jack-of-all-trades</orth>
-		<pron>jak´əv ôl´trādz´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>آدم همه فن حریف، همه کاره (و هیچکاره)، همه مرده حلاج</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>نوکر، کارگر چند کاره</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jack-tar</orth>
-		<pron>-tär´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ملوان، ناوی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -934,6 +732,18 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>jack bean</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(گیاه‌شناسی) باقلای هندی (Canavalia ensiformis گیاه حاره‌ای از خانوادهٔ pea که درجنوب ایالات متحده برای خوراک دام و غیره کشت می‌شود)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>jackboot</orth>
 		<pron>-bōōt´</pron>
 	</form>
@@ -944,6 +754,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>چکمهٔ نظامی (سنگین و پر دوام که تا بالای زانو می‌رسد)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jack cheese</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>Monterey Jack</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1074,6 +896,18 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>Jack Frost</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>هوای سرد، یخبندان، سرما ریزه، بشم، بشمه</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>jackfruit</orth>
 		<pron>-frōōt´</pron>
 	</form>
@@ -1115,6 +949,53 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>چکش بادی، متهٔ چکشی، چکش برقی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jack-in-the-box</orth>
+		<pron>jak´in thə bäks´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(اسباب‌بازی: جعبه‌ای که تا در آن را بردارند آدمکی از آن بیرون می‌پرد) علی ورجه (jack-in-a-box هم می‌گویند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jack-in-the-pulpit</orth>
+		<pron>-pool´pit</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(گیاه‌شناسی) گل شیپوری آمریکایی (Arisaema triphyllum از خانوادهٔ arum)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Jack Ketch</orth>
+		<pron>kech´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(انگلیس) جلاد، میر غضب</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1207,6 +1088,69 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>jack mackerel</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(جانور‌شناسی) جک ماهی (Trachurus symmetricus از خانوادهٔ jack که در کرانه‌های غربی آمریکای شمالی در دستجات انبوه حرکت می‌کنند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jack-of-all-trades</orth>
+		<pron>jak´əv ôl´trādz´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>آدم همه فن حریف، همه کاره (و هیچکاره)، همه مرده حلاج</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>نوکر، کارگر چند کاره</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jack-o'-lantern</orth>
+		<pron>jak´ə lant´ərn</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(کدو تنبل که داخل آن را خالی می‌کنند و در آن شمع می‌گذارند – به ویژه در جشن‌ها) فانوس‌کدویی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jack pine</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(گیاه‌شناسی) کاج بانکسی یانا (Pinus banksiana که برگ‌های سوزنی کوتاه دارد و بومی کانادا و شمال ایالات متحده است)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>jackpot</orth>
 		<pron>jak´pät´</pron>
 	</form>
@@ -1228,6 +1172,18 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>1- (همهٔ پول‌های انباشته شده را) بردن 2- بسیار موفق شدن، بالاترین جایزه (و غیره) را به دست آوردن</quote>
 				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jack rabbit</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(جانور‌شناسی) خرگوش آمریکایی (خرگوش درشت و بزرگ گوش نواحی غربی آمریکای شمالی از جنس Lepus)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1434,6 +1390,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>jack-tar</orth>
+		<pron>-tär´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ملوان، ناوی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Jacob</orth>
 		<pron>jā´kəb</pron>
 	</form>
@@ -1446,45 +1418,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(انجیل) یعقوب</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Jacob's ladder</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(انجیل) نردبانی که از زمین به عرش می‌رسید و حضرت یعقوب آن را در خواب دید</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>نردبان طنابی (کشتی و غیره)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(گیاه‌شناسی) گل یعقوب (جنس Polemonium از خانوادهٔ phlox)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>carrion flower</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Jacob's rod</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>asphodel</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1577,6 +1510,45 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>هوا خواه جیمز دوم پادشاه مستعفی انگلیس و بازماندگان او</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Jacob's ladder</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(انجیل) نردبانی که از زمین به عرش می‌رسید و حضرت یعقوب آن را در خواب دید</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>نردبان طنابی (کشتی و غیره)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(گیاه‌شناسی) گل یعقوب (جنس Polemonium از خانوادهٔ phlox)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>carrion flower</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Jacob's rod</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>asphodel</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1785,18 +1757,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>jade plant</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(گیاه‌شناسی) ابرون (Crassula argentea از خانوادهٔ orpine)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>jaded</orth>
 		<pron>jād´id</pron>
 	</form>
@@ -1834,6 +1794,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(گوهر‌شناسی) یشم اعلی (که در میانمار یا برمه یافت می‌شود: Na(Al,Fe)Si2O6 از دستهٔ پیروکسین‌ها)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jade plant</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(گیاه‌شناسی) ابرون (Crassula argentea از خانوادهٔ orpine)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -2185,23 +2157,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>jail delivery</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(سابقا در انگلیس) خالی کردن زندان از راه محاکمهٔ سریع زندانیان</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>آزاد کردن زندانیان از راه توسل به زور</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>jailbait</orth>
 		<pron>-bāt´</pron>
 	</form>
@@ -2259,6 +2214,23 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>فرار از زندان، زندان گریزی، زندان شکنی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jail delivery</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(سابقا در انگلیس) خالی کردن زندان از راه محاکمهٔ سریع زندانیان</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>آزاد کردن زندانیان از راه توسل به زور</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -2728,18 +2700,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>jam session</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(گردهمایی خودمانی نوازندگان جاز و نواختن فی‌البداهه و دسته جمعی) گردهمایی و جاز نواختن</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Jamaica</orth>
 		<pron>jə mā´kə</pron>
 	</form>
@@ -2996,6 +2956,18 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>jam session</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(گردهمایی خودمانی نوازندگان جاز و نواختن فی‌البداهه و دسته جمعی) گردهمایی و جاز نواختن</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Jamshedpur</orth>
 		<pron>jum´shed poor´</pron>
 	</form>
@@ -3034,19 +3006,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>ژانویه</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Jan Mayen</orth>
-		<pron>yän mī´ən</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>جزیرهٔ یان ماین (میان گرینلند و نروژ - متعلق به نروژ)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3265,6 +3224,19 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>Jan Mayen</orth>
+		<pron>yän mī´ən</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>جزیرهٔ یان ماین (میان گرینلند و نروژ - متعلق به نروژ)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Jansen</orth>
 		<pron>yän´sən</pron>
 	</form>
@@ -3468,18 +3440,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Japan wax</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>موم ژاپنی (مادهٔ روغنی و سفید رنگی که از میوهٔ چند نوع سماق آسیایی گرفته می‌شود و در جلا کاری و غیره کاربرد دارد)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Japanese</orth>
 		<pron>jap´ə nēz´</pron>
 		<pron>-nēs´</pron>
@@ -3675,6 +3635,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>به سبک ژاپنی، ژاپنی وار</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Japan wax</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>موم ژاپنی (مادهٔ روغنی و سفید رنگی که از میوهٔ چند نوع سماق آسیایی گرفته می‌شود و در جلا کاری و غیره کاربرد دارد)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -4528,30 +4500,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Java Sea</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>دریای جاوه (شاخه‌ای از اقیانوس ساکن میان جاوه و برنئو)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Java sparrow</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(جانور‌شناسی) سهرهٔ جاوه (Padda oryzivora از تیرهٔ Estrildidae که به رنگ‌های سرخ و خاکستری و سفید است و در قفس نیز نگهداری می‌شود)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Javanese</orth>
 		<pron>jav´ə nēz´</pron>
 		<pron>-nēs´</pron>
@@ -4575,6 +4523,30 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>گویش جاوه (از زبان‌های اندونزی)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Java Sea</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>دریای جاوه (شاخه‌ای از اقیانوس ساکن میان جاوه و برنئو)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Java sparrow</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(جانور‌شناسی) سهرهٔ جاوه (Padda oryzivora از تیرهٔ Estrildidae که به رنگ‌های سرخ و خاکستری و سفید است و در قفس نیز نگهداری می‌شود)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -4737,18 +4709,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>jaw harp</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>jaw's harp) jew's-harp</ref> هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Jawa</orth>
 		<pron>jä´və</pron>
 	</form>
@@ -4817,6 +4777,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(واژه‌ای که تلفظ آن مشکل است) مغلق، فک‌شکن، واژهٔ دهان پیچ</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jaw harp</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>jaw's harp) jew's-harp</ref> هم می‌گویند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -5087,22 +5059,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>jazz-rock</orth>
-		<pron>-räk´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(موسیقی‌- آمیزهٔ آهنگ‌های راک با بداهه نوازی جاز) جاز- راک</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>jazzman</orth>
 		<pron>jaz´man´</pron>
 	</form>
@@ -5114,6 +5070,22 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>نوازندهٔ جاز</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jazz-rock</orth>
+		<pron>-räk´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(موسیقی‌- آمیزهٔ آهنگ‌های راک با بداهه نوازی جاز) جاز- راک</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -5229,6 +5201,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>J-curve</orth>
+		<pron>jā´ku_rv´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(اقتصاد) منحنی ((جی)) (این روند: تنزل جزئی و سپس رشد سریع)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>JD</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -5268,19 +5256,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(ماه) ژوئن</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>je ne sais quoi</orth>
-		<pron>zhən sā kwå´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(فرانسه: نمی‌دانم چه) هر چیزی که بیان آن دشوار باشد</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -6179,6 +6154,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>شهر یانا (در آلمان‌- محل پیروزی ناپلئون بر نیروهای پروس: 1806)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>je ne sais quoi</orth>
+		<pron>zhən sā kwå´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(فرانسه: نمی‌دانم چه) هر چیزی که بیان آن دشوار باشد</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -7409,65 +7397,16 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>jet engine</orth>
+		<orth>jetbead</orth>
+		<pron>-bēd´</pron>
 	</form>
 	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>موتور جت</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jet lag</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>جت زدگی (بی‌خوابی و ناراحتی ناشی از مسافرت طولانی با هواپیما)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jet propulsion</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(هواپیما و قایق و غیره: رانده شده توسط موتور جت) جت رانش، رانش فورانی، نیروی جت</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jet set</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(پولدارانی که مرتب برای کار یا تفریح با هواپیما سفر می‌کنند) دایم در سفر و خوشی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jet stream</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(جغرافی و هواشناسی: بادهای تندی که از غرب به شرق کره زمین در ارتفاع 12 تا 16 کیلومتری می‌وزند) وزانهٔ جت جت استریم</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(هواپیما و موشک و غیره: گاز خروجی جت) جت وزش، جت استریم</quote>
+				<quote>(گیاه‌شناسی) سیاه سر (Rhodotypos tetrapetala از خانوادهٔ rose - بومی ژاپن)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -7490,38 +7429,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>jet-propelled</orth>
-		<pron>-prō peld´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(هواپیما و موشک و غیره: رانده شونده توسط موتور جت) جت راند، مجهز به موتور جت، دارای موتور جت</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jetbead</orth>
-		<pron>-bēd´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(گیاه‌شناسی) سیاه سر (Rhodotypos tetrapetala از خانوادهٔ rose - بومی ژاپن)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>jeté</orth>
 		<pron>zhə tā´</pron>
 	</form>
@@ -7532,6 +7439,30 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(رقص باله) پریدن از یک پا به پای دیگر (با یک حرکت توام با لگد)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jet engine</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>موتور جت</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jet lag</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>جت زدگی (بی‌خوابی و ناراحتی ناشی از مسافرت طولانی با هواپیما)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -7586,6 +7517,34 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>jet-propelled</orth>
+		<pron>-prō peld´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(هواپیما و موشک و غیره: رانده شونده توسط موتور جت) جت راند، مجهز به موتور جت، دارای موتور جت</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jet propulsion</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(هواپیما و قایق و غیره: رانده شده توسط موتور جت) جت رانش، رانش فورانی، نیروی جت</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>jetsam</orth>
 		<pron>jet´səm</pron>
 	</form>
@@ -7601,6 +7560,35 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>آشغال دریا، هر چیز دور انداخته شده</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jet set</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(پولدارانی که مرتب برای کار یا تفریح با هواپیما سفر می‌کنند) دایم در سفر و خوشی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jet stream</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(جغرافی و هواشناسی: بادهای تندی که از غرب به شرق کره زمین در ارتفاع 12 تا 16 کیلومتری می‌وزند) وزانهٔ جت جت استریم</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(هواپیما و موشک و غیره: گاز خروجی جت) جت وزش، جت استریم</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -7717,6 +7705,19 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>jeu de mots</orth>
+		<pron>zhöd mō´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(فرانسه) بازی با واژه‌ها، چیستان</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>jeu d'esprit</orth>
 		<pron>zhö des prē´</pron>
 	</form>
@@ -7727,19 +7728,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(فرانسه) شیرینی کلام، خوش سخنی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jeu de mots</orth>
-		<pron>zhöd mō´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(فرانسه) بازی با واژه‌ها، چیستان</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -7817,25 +7805,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>جهود، یهودی، کلیمی، موسوی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jew's-harp</orth>
-		<pron>jōōz´härp´</pron>
-	</form>
-	<form>
-		<orth>jews'-harp</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آلت موسیقی که با دندان نگاه می‌دارند و با انگشت می‌زنند) چنگ دهانگیر، زنبورک</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -8124,6 +8093,25 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(مهجور) رجوع شود به: <ref>Judea</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jew's-harp</orth>
+		<pron>jōōz´härp´</pron>
+	</form>
+	<form>
+		<orth>jews'-harp</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آلت موسیقی که با دندان نگاه می‌دارند و با انگشت می‌زنند) چنگ دهانگیر، زنبورک</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -9578,19 +9566,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Joan of Arc</orth>
-		<pron>ärk</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ژاندارک (1412-31 میلادی)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Joanna</orth>
 		<pron>jō an´ə</pron>
 	</form>
@@ -9611,6 +9586,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>اسم خاص مونث</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Joan of Arc</orth>
+		<pron>ärk</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ژاندارک (1412-31 میلادی)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -9956,77 +9944,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Job Corps</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا) برنامهٔ دولتی آموزش حرفه‌ای (ویژهٔ طبقات محروم)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>job lot</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>یک دسته (یا محموله و غیره) کالا (که یک‌جا فروخته می‌شود)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(کالا و غیره) دسته، مجموعه (به‌ویژه از جنس نامرغوب)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>job printing</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>چاپ مقدار زیادی از یک چیز (مثلا کارت دعوت یا پاکت آدرس‌دار) (job work هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Job's comforter</orth>
-		<pron>jōbz´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>نمک پاش دل ریش، تسلی‌دهندهٔ ایوب (کسی که تسلی او رنج آدم را بیشتر می‌کند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Job's-tears</orth>
-		<pron>jōbz´tirz´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(گیاه‌شناسی) اشک ایوب، دمع ایوب (Coix lacryma-jobi - علف سالیانهٔ نواحی حاره که دانهٔ آن خوراکی است)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>jobber</orth>
 		<pron>jäb´ər</pron>
 	</form>
@@ -10063,6 +9980,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(انگلیس) زد و بند، سو استفاده (در امور عمومی)، اختلاس</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Job Corps</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا) برنامهٔ دولتی آموزش حرفه‌ای (ویژهٔ طبقات محروم)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -10129,6 +10058,65 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>job lot</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>یک دسته (یا محموله و غیره) کالا (که یک‌جا فروخته می‌شود)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(کالا و غیره) دسته، مجموعه (به‌ویژه از جنس نامرغوب)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>job printing</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>چاپ مقدار زیادی از یک چیز (مثلا کارت دعوت یا پاکت آدرس‌دار) (job work هم می‌گویند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Job's comforter</orth>
+		<pron>jōbz´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>نمک پاش دل ریش، تسلی‌دهندهٔ ایوب (کسی که تسلی او رنج آدم را بیشتر می‌کند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Job's-tears</orth>
+		<pron>jōbz´tirz´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(گیاه‌شناسی) اشک ایوب، دمع ایوب (Coix lacryma-jobi - علف سالیانهٔ نواحی حاره که دانهٔ آن خوراکی است)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Jocasta</orth>
 		<pron>jō kas´tə</pron>
 	</form>
@@ -10189,18 +10177,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(خودمانی) رجوع شود به: <ref>disc jockey</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jock itch</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(پزشکی) خارش کشال، خارش میان پاها (که اغلب ورزشکاران به آن مبتلا می‌شوند – نام پزشکی آن: tinea cruris)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -10314,6 +10290,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(مردانه و پسرانه) زیر شلواری (کوتاه و کش‌دار)، شورت</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jock itch</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(پزشکی) خارش کشال، خارش میان پاها (که اغلب ورزشکاران به آن مبتلا می‌شوند – نام پزشکی آن: tinea cruris)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -10599,19 +10587,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>joe-pye weed</orth>
-		<pron>jō´pī´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(گیاه‌شناسی) علف تب‌بر (انواع گیاهان چندسالهٔ آمریکایی از جنس Eupatorium از خانوادهٔ composite)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Joel</orth>
 		<pron>jō´əl</pron>
 		<pron>-el´</pron>
@@ -10630,6 +10605,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>کتاب موعظات یوئیل</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>joe-pye weed</orth>
+		<pron>jō´pī´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(گیاه‌شناسی) علف تب‌بر (انواع گیاهان چندسالهٔ آمریکایی از جنس Eupatorium از خانوادهٔ composite)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -10828,23 +10816,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>jog trot</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>یورتمهٔ یکنواخت و آهسته</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>انجام آهسته و ملالت‌آور کاری (به‌ویژه کاری که تازگی ندارد)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>jogging</orth>
 		<pron>jäg´iŋ</pron>
 	</form>
@@ -10929,6 +10900,23 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>رجوع شود به: <ref>Yogyakarta</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jog trot</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>یورتمهٔ یکنواخت و آهسته</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>انجام آهسته و ملالت‌آور کاری (به‌ویژه کاری که تازگی ندارد)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11057,6 +11045,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>johnboat</orth>
+		<pron>jän´bōt´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>قایق ته‌پهن (که در آب‌های ساکن برای ماهیگیری به‌کار می‌رود)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>John Bull</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -11133,83 +11137,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>John of Gaunt</orth>
-		<pron>gônt</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>جان آو گانت (پسر ادوارد سوم پادشاه انگلیس)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>John Paul I</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(پاپ اعظم) ژان‌پل اول</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>John Paul II</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(پاپ اعظم) ژان‌پل دوم</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>John Q Public</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا - عامیانه) شهروند عادی، آدم معمولی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>John the Baptist</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(انجیل) یحیی تعمیددهنده</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>johnboat</orth>
-		<pron>jän´bōt´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>قایق ته‌پهن (که در آب‌های ساکن برای ماهیگیری به‌کار می‌رود)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>johnny</orth>
 		<pron>jän´ē</pron>
 	</form>
@@ -11258,24 +11185,16 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Johnny on the spot</orth>
+		<orth>johnnycake</orth>
+		<pron>jän´ē kāk´</pron>
 	</form>
 	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(عامیانه) آدم آماده به خدمتگزاری، آدم در دسترس، خدمتکار، چاکر (Johnny-on-the-spot هم می‌نویسند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Johnny Reb</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(عامیانه‌- جنگ‌های داخلی آمریکا) سرباز جنوبی</quote>
+				<quote>نان ذرت</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11339,16 +11258,73 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>johnnycake</orth>
-		<pron>jän´ē kāk´</pron>
+		<orth>Johnny on the spot</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>نان ذرت</quote>
+				<quote>(عامیانه) آدم آماده به خدمتگزاری، آدم در دسترس، خدمتکار، چاکر (Johnny-on-the-spot هم می‌نویسند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Johnny Reb</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(عامیانه‌- جنگ‌های داخلی آمریکا) سرباز جنوبی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>John of Gaunt</orth>
+		<pron>gônt</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>جان آو گانت (پسر ادوارد سوم پادشاه انگلیس)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>John Paul I</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(پاپ اعظم) ژان‌پل اول</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>John Paul II</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(پاپ اعظم) ژان‌پل دوم</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>John Q Public</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا - عامیانه) شهروند عادی، آدم معمولی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11378,12 +11354,44 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>Johnsonese</orth>
+		<pron>jän´sən ēz´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>سبک نگارش ساموئل جانسون (جمله‌های بلند و ژرف و دارای واژه‌های لاتین)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Johnson grass</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(گیاه‌شناسی) جانسون گراس (سورگوم علوفه‌ای به نام Sorghum halepense که در جنوب ایالات متحده فراوان یافت می‌شود)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Johnsonian</orth>
+		<pron>jän sō´nē ən</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>وابسته به ساموئل جانسون و سبک او</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11402,32 +11410,12 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Johnsonese</orth>
-		<pron>jän´sən ēz´</pron>
+		<orth>John the Baptist</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>سبک نگارش ساموئل جانسون (جمله‌های بلند و ژرف و دارای واژه‌های لاتین)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Johnsonian</orth>
-		<pron>jän sō´nē ən</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>وابسته به ساموئل جانسون و سبک او</quote>
+				<quote>(انجیل) یحیی تعمیددهنده</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11945,55 +11933,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>joint resolution</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(در کشورها یا ایالاتی که دو مجلس دارند) تصمیم مشترک مجلسین</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>joint return</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا - پرداخت مالیات بر درآمد) اظهاریهٔ مشترک (زن و شوهر)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>joint stock</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(بازرگانی و سهامداری) سهام مشترک، سرمایهٔ مشترک، (شرکت) سهامی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>joint-stock company</orth>
-		<pron>joint´stäk´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(بازرگانی) شرکت سهامی تضامنی، شرکت سهامی با مسئولیت محدود، شرکت سهامی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>jointed</orth>
 		<pron>joint´id</pron>
 	</form>
@@ -12064,6 +12003,18 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>joint resolution</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(در کشورها یا ایالاتی که دو مجلس دارند) تصمیم مشترک مجلسین</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>jointress</orth>
 		<pron>join´tris</pron>
 	</form>
@@ -12074,6 +12025,43 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(حقوق) زنی که وارث بخشی از املاک شوهرش است</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>joint return</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا - پرداخت مالیات بر درآمد) اظهاریهٔ مشترک (زن و شوهر)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>joint stock</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(بازرگانی و سهامداری) سهام مشترک، سرمایهٔ مشترک، (شرکت) سهامی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>joint-stock company</orth>
+		<pron>joint´stäk´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(بازرگانی) شرکت سهامی تضامنی، شرکت سهامی با مسئولیت محدود، شرکت سهامی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -13019,6 +13007,25 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>Josephine</orth>
+		<pron>jō´zə fēn</pron>
+		<pron>-sə-</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>اسم خاص مونث (مخفف: Jo و Josie)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ژزفین (دو بوهارنه) زن ناپلئون بناپارت (1763-1814)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Joseph of Arimathea</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -13037,25 +13044,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(گیاه‌شناسی) حسن یوسف (نوعی تاج‌خروس به نام Amaranthus tricolor)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Josephine</orth>
-		<pron>jō´zə fēn</pron>
-		<pron>-sə-</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>اسم خاص مونث (مخفف: Jo و Josie)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ژزفین (دو بوهارنه) زن ناپلئون بناپارت (1763-1814)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -13988,34 +13976,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>joy ride</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(عامیانه) گردش با اتومبیل (به‌ویژه با اتومبیل سرقت شده)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>joy-pop</orth>
-		<pron>joi´päp´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="intransitive verb">فعل لازم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(خودمانی) مواد مخدر را به صورت آمپول تزریق کردن</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>joyance</orth>
 		<pron>-əns</pron>
 	</form>
@@ -14120,6 +14080,34 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>joy-pop</orth>
+		<pron>joi´päp´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="intransitive verb">فعل لازم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(خودمانی) مواد مخدر را به صورت آمپول تزریق کردن</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>joy ride</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(عامیانه) گردش با اتومبیل (به‌ویژه با اتومبیل سرقت شده)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>joystick</orth>
 		<pron>joi´stik´</pron>
 	</form>
@@ -14150,6 +14138,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(حقوق) امین صلح</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>J particle</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>psi particle</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15204,18 +15204,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Judgment Day</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>روز قیامت، روز رستاخیز</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>judgmental</orth>
 		<pron>juj ment´'l</pron>
 	</form>
@@ -15237,6 +15225,18 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>اینقدر دربارهٔ دیگران داوری نکن‌!</quote>
 				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Judgment Day</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>روز قیامت، روز رستاخیز</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15597,30 +15597,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>jug band</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(موسیقی جاز) دستهٔ کوچک، ارکستر کوچک</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jug wine</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>شراب ارزان، شراب کوزه</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>jugal</orth>
 		<pron>jōō´gəl</pron>
 	</form>
@@ -15648,6 +15624,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(زیست‌شناسی) جفتی، دوتایی، دوگانه</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jug band</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(موسیقی جاز) دستهٔ کوچک، ارکستر کوچک</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15873,6 +15861,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>جوگورتا (پادشاه نومیدیا Numidia)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jug wine</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>شراب ارزان، شراب کوزه</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -16261,6 +16261,19 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>Juliana</orth>
+		<pron>jōō´lē an´ə</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>اسم خاص مونث</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Julian Alps</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -16279,19 +16292,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(گاه‌شماری) تقویم جولیان</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Juliana</orth>
-		<pron>jōō´lē an´ə</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>اسم خاص مونث</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17112,30 +17112,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>jump seat</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(در برخی تاکسی‌ها و غیره) صندلی تاشو</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jump shot</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(بسکت‌بال: پرتاپ توپ به حلقهٔ در حال پرش و بودن دو پا در هوا) پرتاب جهشی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>jump-cut</orth>
 		<pron>jump´kut´</pron>
 	</form>
@@ -17152,44 +17128,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>برش پرشی کردن</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jump-rope</orth>
-		<pron>jump´rōp´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>طناب کوتاه (که کودکان با آن طناب‌بازی می‌کنند)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>طناب‌بازی، پرش یا لی‌لی از روی طناب چرخان (jump rope هم می‌نویسند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>jump-start</orth>
-		<pron>jump´stärt´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="transitive verb">فعل متعدی</pos>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(اتومبیل: روشن کردن اتومبیلی که باطری آن خراب است از راه وصل کردن باطری اتومبیل دیگر به آن) استارت زدن، پراندن موتور، (اتومبیل را) با هل دادن یا در سرازیری انداختن روشن کردن</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17338,6 +17276,68 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>آغازگاه، محل شروع، زمان شروع</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jump-rope</orth>
+		<pron>jump´rōp´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>طناب کوتاه (که کودکان با آن طناب‌بازی می‌کنند)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>طناب‌بازی، پرش یا لی‌لی از روی طناب چرخان (jump rope هم می‌نویسند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jump seat</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(در برخی تاکسی‌ها و غیره) صندلی تاشو</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jump shot</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(بسکت‌بال: پرتاپ توپ به حلقهٔ در حال پرش و بودن دو پا در هوا) پرتاب جهشی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jump-start</orth>
+		<pron>jump´stärt´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="transitive verb">فعل متعدی</pos>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(اتومبیل: روشن کردن اتومبیلی که باطری آن خراب است از راه وصل کردن باطری اتومبیل دیگر به آن) استارت زدن، پراندن موتور، (اتومبیل را) با هل دادن یا در سرازیری انداختن روشن کردن</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17586,28 +17586,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>June bug</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(حشره‌شناسی)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>سوسک جون (جنس Phyllophaga که در ماه‌های می و جون در شمال ایالات متحده پیدا می‌شود) (June beetle هم می‌گویند)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>figeater</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Juneau</orth>
 		<pron>jōō´nō´</pron>
 	</form>
@@ -17632,6 +17610,28 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(گیاه‌شناسی) زالزالک وحشی (گیاهان جنس Amelanchier از خانوادهٔ rose که گل‌های سفید می‌دهند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>June bug</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(حشره‌شناسی)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>سوسک جون (جنس Phyllophaga که در ماه‌های می و جون در شمال ایالات متحده پیدا می‌شود) (June beetle هم می‌گویند)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>figeater</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17957,6 +17957,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>juniority</orth>
+		<pron>jōōn yôr´ə tē</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>صغر، کهتری، کهینی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Junior League</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -18023,22 +18039,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(مشت‌زنی) میان‌وزن سبک (وزن بیشینه: 63/50 کیلوگرم)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>juniority</orth>
-		<pron>jōōn yôr´ə tē</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>صغر، کهتری، کهینی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -18177,42 +18177,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>junk food</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>غذای ناسالم، گنده خوراک، هله هوله</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>junk jewelry</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا– عامیانه) جواهرآلات بدلی و ارزان، زلم زیمبو</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>junk mail</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا) اقلام پستی ناخواسته (مانند آگهی‌ها و غیره که توسط پست به خانه‌ها می‌فرستند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>junker</orth>
 		<pron>juŋ´kər</pron>
 	</form>
@@ -18294,6 +18258,18 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>junk food</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>غذای ناسالم، گنده خوراک، هله هوله</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>junkie</orth>
 		<pron>juŋk´ē</pron>
 	</form>
@@ -18324,6 +18300,30 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>معتاد به تلویزیون</quote>
 				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>junk jewelry</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا– عامیانه) جواهرآلات بدلی و ارزان، زلم زیمبو</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>junk mail</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا) اقلام پستی ناخواسته (مانند آگهی‌ها و غیره که توسط پست به خانه‌ها می‌فرستند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -19016,19 +19016,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>jus soli</orth>
-		<pron>jus´ sō´lī´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(حق شهروندی در کشوری که شخص در آن زاده شده است) شهروندی زادی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>jussive</orth>
 		<pron>jus´iv</pron>
 	</form>
@@ -19050,6 +19037,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>واژهٔ فرمانی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>jus soli</orth>
+		<pron>jus´ sō´lī´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(حق شهروندی در کشوری که شخص در آن زاده شده است) شهروندی زادی</quote>
 			</cit>
 		</sense>
 	</sense>

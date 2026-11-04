@@ -41,6 +41,20 @@ PERSIAN = [
     ("\u06cc", "60-fa-ye"),
 ]
 PERSIAN_MAP = dict(PERSIAN)
+PERSIAN_RANK = {ch: i for i, (ch, _) in enumerate(PERSIAN)}
+ARABIC_VARIANTS = {
+    "\u0623": "\u0627",
+    "\u0625": "\u0627",
+    "\u0624": "\u0648",
+    "\u0626": "\u06cc",
+    "\u0629": "\u0647",
+    "\u064a": "\u06cc",
+    "\u0643": "\u06a9",
+}
+LATIN_VARIANTS = {
+    "\u00e6": "ae",
+    "\u0153": "oe",
+}
 ENGLISH_MAP = {chr(ord("a") + i): f"{i + 2:02d}-{chr(ord('a') + i)}" for i in range(26)}
 PUNC_FILE = "01-puncs-digits"
 HEADER_FILE = "00-header"
@@ -54,6 +68,21 @@ def fold_latin(ch):
         if c.isalpha():
             return c.lower()
     return None
+
+
+def sort_key(headword):
+    primary = []
+    for ch in headword:
+        ch = ARABIC_VARIANTS.get(ch, ch)
+        if ch in PERSIAN_RANK:
+            primary.append((1, PERSIAN_RANK[ch]))
+            continue
+        for c in LATIN_VARIANTS.get(ch, ch):
+            if not c.isalnum():
+                continue
+            folded = fold_latin(c)
+            primary.append((2, folded if folded else c.casefold()))
+    return tuple(primary), headword.casefold()
 
 
 def entry_file(headword):
@@ -121,7 +150,7 @@ def main():
         orth = re.search(r"<orth>(.*?)</orth>", entry, re.S)
         headword = orth.group(1) if orth else ""
         last_file = entry_file(headword)
-        outputs[last_file].append(dedent_entry(entry))
+        outputs[last_file].append((headword, dedent_entry(entry)))
 
     os.makedirs(args.outdir, exist_ok=True)
 
@@ -130,7 +159,8 @@ def main():
         if name == HEADER_FILE:
             content = header.rstrip() + "\n"
         else:
-            content = "\n".join(outputs[name])
+            entries = sorted(outputs[name], key=lambda item: sort_key(item[0]))
+            content = "\n".join(entry for _, entry in entries)
             if content:
                 content += "\n"
             if name == last_file:

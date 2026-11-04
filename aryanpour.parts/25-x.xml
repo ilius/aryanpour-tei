@@ -162,112 +162,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>X chromosome</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(زادشناسی - یکی از کروموزوم‌های جنسی) فامتن ایکس، کروموزوم ایکس</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>x div</orth>
-	</form>
-	<form>
-		<orth>XD</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(سهام و غیره) بی سود، بدون بهره</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>x-axis</orth>
-		<pron>eks´ak´sis</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(دستگاه مختصات کارتزین) محور طول‌ها</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>X-ray</orth>
-		<pron>eks´rā´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<pos norm="adjective">صفت</pos>
-			<pos norm="transitive verb">فعل متعدی</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>اشعهٔ مجهول، پرتو ایکس، اشعهٔ رونتگن، ایکس پرتو</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(با اشعهٔ ایکس) عکس</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>دستگاه عکس‌برداری (با اشعهٔ مجهول)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>وابسته به پرتو ایکس</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(با اشعهٔ ایکس) معاینه کردن، درمان کردن (x rya و x-ray و X ray هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>X-ray therapy</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>درمان با پرتو ایکس، ایکس پرتو درمانی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>X-ray tube</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>لامپ پرتو ایکس</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>xanthan</orth>
 		<pron>zan´thən</pron>
 	</form>
@@ -521,6 +415,50 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>گزاویهٔ مقدس (1506-52 میلادی)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>x-axis</orth>
+		<pron>eks´ak´sis</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(دستگاه مختصات کارتزین) محور طول‌ها</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>X chromosome</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(زادشناسی - یکی از کروموزوم‌های جنسی) فامتن ایکس، کروموزوم ایکس</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>x div</orth>
+	</form>
+	<form>
+		<orth>XD</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(سهام و غیره) بی سود، بدون بهره</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1046,19 +984,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Xi'an</orth>
-		<pron>shē´än´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>شهر شیان (پایتخت استان شانسی - چین)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Xiamen</orth>
 		<pron>shē´ä´mu_n´</pron>
 	</form>
@@ -1066,6 +991,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>بندر شیامن (در جنوب چین)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Xi'an</orth>
+		<pron>shē´än´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>شهر شیان (پایتخت استان شانسی - چین)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1210,6 +1148,68 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(عامیانه) کریسمس</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>X-ray</orth>
+		<pron>eks´rā´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<pos norm="adjective">صفت</pos>
+			<pos norm="transitive verb">فعل متعدی</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>اشعهٔ مجهول، پرتو ایکس، اشعهٔ رونتگن، ایکس پرتو</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(با اشعهٔ ایکس) عکس</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>دستگاه عکس‌برداری (با اشعهٔ مجهول)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>وابسته به پرتو ایکس</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(با اشعهٔ ایکس) معاینه کردن، درمان کردن (x rya و x-ray و X ray هم می‌گویند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>X-ray therapy</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>درمان با پرتو ایکس، ایکس پرتو درمانی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>X-ray tube</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>لامپ پرتو ایکس</quote>
 			</cit>
 		</sense>
 	</sense>

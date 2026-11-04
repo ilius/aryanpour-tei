@@ -113,23 +113,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>ثابت (رنگ و غیره‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>fast</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>fixed</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>ثابت در جا</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -160,6 +143,23 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>frozen</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>ثابت (رنگ و غیره‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>fast</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>fixed</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -608,6 +608,18 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>ثبات‌آور</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>stabilizer</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>ثبات رای</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -670,18 +682,6 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>persist</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>ثبات‌آور</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>stabilizer</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -992,30 +992,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>ثروت موروثی</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>patrimony</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>ثروت های طبیعی</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>wealth</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>ثروتمند</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -1058,18 +1034,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>ثروتمند کردن</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>enrich</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>ثروتمندانه</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -1082,11 +1046,47 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>ثروتمند کردن</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>enrich</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>ثروتمندی</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>wealthiness</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>ثروت موروثی</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>patrimony</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>ثروت های طبیعی</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>wealth</ref>
+			</quote>
 		</cit>
 	</sense>
 </entry>

@@ -1,39 +1,5 @@
 <entry>
 	<form xml:lang="fa">
-		<orth>ذائقه</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>palate</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>relish</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>taste</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>ذائقه (به شوخی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>inner man</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>ذات</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -61,13 +27,28 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>ذات (مجازی‌)</orth>
+		<orth>ذاتا</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
+			<quote>essentially</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>inherently</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>innately</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>intrinsically</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
 			<quote>
-				<ref>spirit</ref>
+				<ref>naturally</ref>
 			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>quintessentially</quote>
 		</cit>
 	</sense>
 </entry>
@@ -97,28 +78,13 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>ذاتا</orth>
+		<orth>ذات (مجازی‌)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
-			<quote>essentially</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>inherently</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>innately</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>intrinsically</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
 			<quote>
-				<ref>naturally</ref>
+				<ref>spirit</ref>
 			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>quintessentially</quote>
 		</cit>
 	</sense>
 </entry>
@@ -186,6 +152,18 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>ذاتی بودن</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>inhere</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>ذاتی (دستور زبان‌)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -198,12 +176,34 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>ذاتی بودن</orth>
+		<orth>ذائقه</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
-				<ref>inhere</ref>
+				<ref>palate</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>relish</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>taste</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>ذائقه (به شوخی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>inner man</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -732,23 +732,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>ذره (مجازی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>shred</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>spark</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>ذره آب</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -920,6 +903,23 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>ذره (مجازی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>shred</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>spark</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>ذره نور (فیزیک‌)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -1004,18 +1004,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>ذکاوت (عامیانه‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>gray matter</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>ذکاوت بیشتر به خرج دادن</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -1039,6 +1027,18 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>genius</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>ذکاوت (عامیانه‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>gray matter</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -1406,6 +1406,16 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>ذلیلانه</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>abjectly</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>ذلیل کردن</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -1413,16 +1423,6 @@
 			<quote>
 				<ref>prostrate</ref>
 			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>ذلیلانه</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>abjectly</quote>
 		</cit>
 	</sense>
 </entry>
@@ -1719,6 +1719,16 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>ذهنا</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>mentally</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>ذهن انگیزی</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -1787,6 +1797,16 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>ذهنگرا</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>subjectivist</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>ذهن گرایانه</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -1809,26 +1829,6 @@
 			<quote>
 				<ref>subjectivism</ref>
 			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>ذهنا</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>mentally</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>ذهنگرا</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>subjectivist</quote>
 		</cit>
 	</sense>
 </entry>
@@ -1871,6 +1871,21 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>ذهنیت</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>mentality</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>subjectivity</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>ذهنی سازی</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -1888,21 +1903,6 @@
 			<quote>
 				<ref>conceptualize</ref>
 			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>ذهنیت</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>mentality</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>subjectivity</quote>
 		</cit>
 	</sense>
 </entry>
@@ -2014,6 +2014,18 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>ذیعلاقه</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>concerned</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>ذی علاقه نبودن</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -2032,47 +2044,6 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>valuable</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>ذی نفوذ</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>important</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>influential</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>ذی نفوذ (خودمانی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>top dog</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>ذیعلاقه</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>concerned</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -2129,6 +2100,35 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>beneficiary</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>ذی نفوذ</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>important</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>influential</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>ذی نفوذ (خودمانی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>top dog</ref>
 			</quote>
 		</cit>
 	</sense>

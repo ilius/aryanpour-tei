@@ -102,23 +102,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>z-axis</orth>
-		<pron>zē´ak´sis</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(هندسه) محور z، محور، آسه</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Zaanstad</orth>
 		<pron>zän´stät´</pron>
 	</form>
@@ -720,6 +703,23 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(نوعی شادمایش موزیکال اسپانیایی) زارزوئلا</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>z-axis</orth>
+		<pron>zē´ak´sis</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(هندسه) محور z، محور، آسه</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1536,6 +1536,38 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>zero-base</orth>
+		<pron>-bās´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(وابسته به نوعی بودجه بندی که کلیهٔ اقلام آن باید توجیه شود - در برابر: incremental budgeting که در آن هر تغییری نسبت به اقلام بودجه قبلی باید توجیه شود) برمبنای صفر، وابسته به بودجه بندی بر مبنای صفر، بودجه بندی آغازی (zero-based هم می‌گویند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>zero-coupon</orth>
+		<pron>-kōō´pän</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(وابسته به اوراق قرضه که سود آن در انقضای مدت یکجا پرداخت می‌شود نه به اقساط) پایان پرداز</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>zero gravity</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -1574,38 +1606,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>رشد جمعیت به میزان صفر (یعنی داشتن دو فرزند به طور متوسط برای ثابت نگهداشتن جمعیت)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>zero-base</orth>
-		<pron>-bās´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(وابسته به نوعی بودجه بندی که کلیهٔ اقلام آن باید توجیه شود - در برابر: incremental budgeting که در آن هر تغییری نسبت به اقلام بودجه قبلی باید توجیه شود) برمبنای صفر، وابسته به بودجه بندی بر مبنای صفر، بودجه بندی آغازی (zero-based هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>zero-coupon</orth>
-		<pron>-kōō´pän</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(وابسته به اوراق قرضه که سود آن در انقضای مدت یکجا پرداخت می‌شود نه به اقساط) پایان پرداز</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -2068,12 +2068,60 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>zincate</orth>
+		<pron>-āt´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(شیمی) زینکات</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>zinc blende</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>رجوع شود به: <ref>sphalerite</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>zincite</orth>
+		<pron>ziŋk´īt´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(شیمی‌- اکسید روی: ZnO) زینکیت</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>zincography</orth>
+		<pron>ziŋ käg´rə fē</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>حکاکی روی فلز روی (برای گراورسازی و چاپ)، روی‌نگاری</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -2110,54 +2158,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(شیمی) سولفید روی (ZnS)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>zincate</orth>
-		<pron>-āt´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(شیمی) زینکات</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>zincite</orth>
-		<pron>ziŋk´īt´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(شیمی‌- اکسید روی: ZnO) زینکیت</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>zincography</orth>
-		<pron>ziŋ käg´rə fē</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>حکاکی روی فلز روی (برای گراورسازی و چاپ)، روی‌نگاری</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -2354,18 +2354,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Zion National Park</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>پارک زیون (در ایالت یوتا - 533 کیلومتر مربع)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Zionism</orth>
 		<pron>-iz´əm</pron>
 	</form>
@@ -2376,6 +2364,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>صهیونیسم، صهیون‌گرائی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Zion National Park</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>پارک زیون (در ایالت یوتا - 533 کیلومتر مربع)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -2451,6 +2451,19 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>Ziploc</orth>
+		<pron>zip´läk´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(نام بازرگانی) کیسهٔ پلاستیکی زیپ‌دار</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>zip-lock</orth>
 		<pron>zip´läk´</pron>
 	</form>
@@ -2461,19 +2474,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>وابسته به کیسهٔ (پلاستیکی) زیپ‌دار</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Ziploc</orth>
-		<pron>zip´läk´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(نام بازرگانی) کیسهٔ پلاستیکی زیپ‌دار</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -2729,22 +2729,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>zoa</orth>
-		<pron>zō´ə</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>جمع واژهٔ: zoon</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>-zoa</orth>
 		<pron>zō´ə</pron>
 	</form>
@@ -2758,6 +2742,22 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>جانور، جانور‌شناسی، - زیان</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>zoa</orth>
+		<pron>zō´ə</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>جمع واژهٔ: zoon</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3592,18 +3592,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>zoom lens</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(دوربین عکس‌برداری و غیره) عدسی زوم</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>zoometry</orth>
 		<pron>zō äm´ə trē</pron>
 	</form>
@@ -3614,6 +3602,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(سنجش اندازهٔ اندام‌های جانوران) جانور سنجی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>zoom lens</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(دوربین عکس‌برداری و غیره) عدسی زوم</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3663,23 +3663,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>zoon</orth>
-		<pron>zō´än´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>zooid</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>-zoon</orth>
 		<pron>zō´än´</pron>
 	</form>
@@ -3693,6 +3676,23 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>زیا، جانور، حیوان، جاندار</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>zoon</orth>
+		<pron>zō´än´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>zooid</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3882,19 +3882,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>zoot suit</orth>
-		<pron>zōōt</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(مردانه - سابقا) شلوار گشاد و پاچه باریک و کت گشاد</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>zootomy</orth>
 		<pron>zō ät´ə mē</pron>
 	</form>
@@ -3905,6 +3892,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>زیا کالبد شکافی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>zoot suit</orth>
+		<pron>zōōt</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(مردانه - سابقا) شلوار گشاد و پاچه باریک و کت گشاد</quote>
 			</cit>
 		</sense>
 	</sense>

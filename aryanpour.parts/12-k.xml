@@ -153,18 +153,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>K ration</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا - جنگ دوم جهانی) جیرهٔ پیش آماد (خوراک از پیش پخته که در جبهه به سربازان می‌دادند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>ka</orth>
 		<pron>kä</pron>
 	</form>
@@ -1837,53 +1825,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Kara Kum</orth>
-		<pron>kä rä´kōōm´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>بیابان قره‌قوم (در جمهوری ترکمنستان)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Kara Sea</orth>
-		<pron>kä´rə</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>دریای کارا (شاخه‌ای از اقیانوس شمالگان یا منجمد شمالی که میان جزیرهٔ نووایا زملیا و سیبری قرار دارد)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Kara-Kalpak</orth>
-		<pron>kä rä´ käl päk´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>قره‌قالپاک (طایفه‌ای از مردم ترک زبان که در جمهوری ازبکستان زیست می‌کنند)، عضو این طایفه</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>زبان آنها</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Karachi</orth>
 		<pron>kə rä´chē</pron>
 	</form>
@@ -1907,6 +1848,27 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>کاریته (نام فرقهٔ یهودی که در سدهٔ هشتم میلادی در خاورمیانه به وجود آمد و تلمود را مردود شمرد و فقط انجیل را قبول داشت)، عضو این فرقه</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Kara-Kalpak</orth>
+		<pron>kä rä´ käl päk´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>قره‌قالپاک (طایفه‌ای از مردم ترک زبان که در جمهوری ازبکستان زیست می‌کنند)، عضو این طایفه</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>زبان آنها</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1945,6 +1907,32 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(caracul هم می‌نویسند) پوست قره‌کل</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Kara Kum</orth>
+		<pron>kä rä´kōōm´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>بیابان قره‌قوم (در جمهوری ترکمنستان)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Kara Sea</orth>
+		<pron>kä´rə</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>دریای کارا (شاخه‌ای از اقیانوس شمالگان یا منجمد شمالی که میان جزیرهٔ نووایا زملیا و سیبری قرار دارد)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -6461,6 +6449,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>kettledrum</orth>
+		<pron>-drum´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(موسیقی: ساز کوبه‌ای مرکب از یک نیمکرهٔ مسی یا برنجی که روی آن پوست کشیده‌اند) تیمپانو، دهل، کوس، گورگه</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>kettle of fish</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -6472,22 +6476,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>موضوع عاجل</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>kettledrum</orth>
-		<pron>-drum´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(موسیقی: ساز کوبه‌ای مرکب از یک نیمکرهٔ مسی یا برنجی که روی آن پوست کشیده‌اند) تیمپانو، دهل، کوس، گورگه</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -6822,102 +6810,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>key club</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(باشگاه یا رستوران و غیره که خصوصی بوده و هریک از اعضا کلید آن را دارد) باشگاه پژنگی، رستوران پژنگی (و غیره)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>key fruit</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(گیاه‌شناسی – میوه یا تخم خشک و بالدار که در باد حرکت می‌کند مانند تخم افرا) تخم بالدار، میوهٔ بالدار (samara هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Key lime pie</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(شیرینی‌پزی) کیک لیمو (با K کوچک هم می‌شود)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>key money</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>سرقفلی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>key punch</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(دستگاهی که با صفحه کلید کنترل می‌شود و کارت‌ها را برای رده‌بندی و غیره به طرح‌های مختلف سوراخ سوراخ می‌کند) منگنهٔ کلیدی، پژنگ نگار</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>key ring</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(حلقه‌ای که در آن کلید می‌آویزند) حلقهٔ دسته کلید، جاکلیدی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>key signature</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(موسیقی) نشانه‌هایی که برای نشان دادن مایه یا نوع کلید پس از نت یا بالای آن نوشته می‌شود</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Key West</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>آبخست کی‌وست (غربی‌ترین جزیرهٔ آبخست گروه فلوریداکیز)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>keyboard</orth>
 		<pron>kē´bôrd´</pron>
 	</form>
@@ -6974,6 +6866,18 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>key club</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(باشگاه یا رستوران و غیره که خصوصی بوده و هریک از اعضا کلید آن را دارد) باشگاه پژنگی، رستوران پژنگی (و غیره)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>keyed</orth>
 		<pron>kēd</pron>
 	</form>
@@ -7012,6 +6916,18 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>key fruit</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(گیاه‌شناسی – میوه یا تخم خشک و بالدار که در باد حرکت می‌کند مانند تخم افرا) تخم بالدار، میوهٔ بالدار (samara هم می‌گویند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>keyhole</orth>
 		<pron>kē´hōl´</pron>
 	</form>
@@ -7039,6 +6955,30 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>رجوع شود به: <ref>compass saw</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Key lime pie</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(شیرینی‌پزی) کیک لیمو (با K کوچک هم می‌شود)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>key money</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>سرقفلی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -7160,6 +7100,42 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>key punch</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(دستگاهی که با صفحه کلید کنترل می‌شود و کارت‌ها را برای رده‌بندی و غیره به طرح‌های مختلف سوراخ سوراخ می‌کند) منگنهٔ کلیدی، پژنگ نگار</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>key ring</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(حلقه‌ای که در آن کلید می‌آویزند) حلقهٔ دسته کلید، جاکلیدی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>key signature</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(موسیقی) نشانه‌هایی که برای نشان دادن مایه یا نوع کلید پس از نت یا بالای آن نوشته می‌شود</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>keystone</orth>
 		<pron>kē´stōn´</pron>
 	</form>
@@ -7252,6 +7228,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(مکانیک) جای خار، شیار خار، شکاف خار</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Key West</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>آبخست کی‌وست (غربی‌ترین جزیرهٔ آبخست گروه فلوریداکیز)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -8321,18 +8309,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>kick pleat</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(دامن زنانه و غیره) چین دوسویه</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Kickapoo</orth>
 		<pron>kik´ə pōō´</pron>
 	</form>
@@ -8433,6 +8409,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(به ویژه در مورد مبارزهٔ انتخاباتی) آغاز</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>kick pleat</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(دامن زنانه و غیره) چین دوسویه</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -8632,24 +8620,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>kid gloves</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>دستکش چرمی (از چرم بزغاله یا هر چرم نرم و ظریف)، دستکش جیر</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">* handle with kid gloves</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>(عامیانه) با نرمش و احتیاط رفتار کردن (با)</quote>
-				</cit>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Kidderminster</orth>
 		<pron>kid´ər min´stər</pron>
 	</form>
@@ -8696,6 +8666,24 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(مذهب یهود) کیدوش (دعای نان یا شراب)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>kid gloves</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>دستکش چرمی (از چرم بزغاله یا هر چرم نرم و ظریف)، دستکش جیر</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">* handle with kid gloves</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>(عامیانه) با نرمش و احتیاط رفتار کردن (با)</quote>
+				</cit>
 			</cit>
 		</sense>
 	</sense>
@@ -8858,18 +8846,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Kiel Canal</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>آبراه کیل (که دریای شمال را به دریای بالتیک وصل می‌کند – در شمال آلمان)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>kielbasa</orth>
 		<pron>kēl bä´sə</pron>
 		<pron>kil-</pron>
@@ -8882,6 +8858,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(لهستانی) کالباس</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Kiel Canal</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>آبراه کیل (که دریای شمال را به دریای بالتیک وصل می‌کند – در شمال آلمان)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -9423,18 +9411,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>kill fee</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(پولی که به نویسنده‌ای می‌دهند که برای نگارش چیزی اجیر شده ولی اثرش را به دلایلی چاپ نمی‌کنند) مزد تسلی‌بخش</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>killdeer</orth>
 		<pron>kil´dir´</pron>
 	</form>
@@ -9531,6 +9507,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(جانورشناسی) وال کشنده (دلفین درشت به رنگ سیاه یا خاکستری که خوراکش ماهی و نهنگ و غیره است: Orcinus orca)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>kill fee</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(پولی که به نویسنده‌ای می‌دهند که برای نگارش چیزی اجیر شده ولی اثرش را به دلایلی چاپ نمی‌کنند) مزد تسلی‌بخش</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -10148,6 +10136,25 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>-kin</orth>
+		<pron>kin</pron>
+	</form>
+	<form>
+		<orth>kin</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="suffix">پسوند</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>پسوند (اسم‌ساز): کوچک، مصغر [lambkin]</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>kin</orth>
 		<pron>kin</pron>
 	</form>
@@ -10227,25 +10234,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(انجیل) کتاب پادشاهان</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>-kin</orth>
-		<pron>kin</pron>
-	</form>
-	<form>
-		<orth>kin</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="suffix">پسوند</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>پسوند (اسم‌ساز): کوچک، مصغر [lambkin]</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11001,18 +10989,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>kinetic theory</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(فیزیک) تئوری جنبش، دیدمان (یا نظریهٔ) جنبش</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>kinetics</orth>
 		<pron>-iks</pron>
 	</form>
@@ -11024,6 +11000,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>رجوع شود به: <ref>dynamics</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>kinetic theory</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(فیزیک) تئوری جنبش، دیدمان (یا نظریهٔ) جنبش</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11224,6 +11212,38 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>kingbird</orth>
+		<pron>kiŋ´bu_rd´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(جانورشناسی) مرغ بهشتی (انواع مرغ‌های مگس‌خوار از جنس Tyrannus به ویژه T. tyrannus)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>kingbolt</orth>
+		<pron>-bōlt´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(مکانیک) شاه‌پیچ</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>King Charles's head</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -11264,242 +11284,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>رجوع شود به: <ref>horseshoe crab</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>King James Version</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>Authorized Version</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>King Lear</orth>
-		<pron>lir</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>شاه‌لیر (نام نمایش تراژدی شکسپیر)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>نام شخصیت اول این نمایش</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>king of beasts</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>شیر، اسد (سلطان وحوش)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>king post</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(نجاری – در تاق‌های شیروانی) شاه‌تیر، تیر عمود، پایه تیر</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>king salmon</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>chinook salmon</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>king-of-arms</orth>
-		<pron>-əv ärmz´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(انگلیس: هریک از صاحب منصبان متصدی تعیین و تایید درخت خانوادگی اشرافی) تبار نویس، تبار گواه</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>king-size</orth>
-		<pron>-sīz´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(بیشتر در مورد تختخواب و سیگار) بزرگتر از معمول، بزرگ (king-sized هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>King's Bench</orth>
-	</form>
-	<form>
-		<orth>Queen's Bench</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(انگلیس – حقوق)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>هریک از سه شعبهٔ دادگاه عالی قضایی</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(در اصل) دادگاه عالی حقوق عرف</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>king's blue</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>cobalt blue</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>King's Counsel</orth>
-	</form>
-	<form>
-		<orth>Queen's Counsel</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(انگلیس – حقوق) قاضی دادگاه سلطنتی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>king's English</orth>
-	</form>
-	<form>
-		<orth>queen's English</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(انگلیس - با: the – زبان) انگلیسی استانده (انگلیسی اشخاص تحصیل کرده و فاقد لهجهٔ شهرستانی)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>king's evidence</orth>
-	</form>
-	<form>
-		<orth>queen's evidence</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(انگلیس) رجوع شود به: <ref>state's evidence</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>king's evil</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(مهجور) رجوع شود به: <ref>scrofula</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>king's yellow</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>orpiment</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>kingbird</orth>
-		<pron>kiŋ´bu_rd´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(جانورشناسی) مرغ بهشتی (انواع مرغ‌های مگس‌خوار از جنس Tyrannus به ویژه T. tyrannus)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>kingbolt</orth>
-		<pron>-bōlt´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(مکانیک) شاه‌پیچ</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11642,6 +11426,36 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>King James Version</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>Authorized Version</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>King Lear</orth>
+		<pron>lir</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>شاه‌لیر (نام نمایش تراژدی شکسپیر)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>نام شخصیت اول این نمایش</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>kinglet</orth>
 		<pron>kiŋ´lit</pron>
 	</form>
@@ -11728,6 +11542,34 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>king-of-arms</orth>
+		<pron>-əv ärmz´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(انگلیس: هریک از صاحب منصبان متصدی تعیین و تایید درخت خانوادگی اشرافی) تبار نویس، تبار گواه</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>king of beasts</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>شیر، اسد (سلطان وحوش)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>kingpin</orth>
 		<pron>-pin´</pron>
 	</form>
@@ -11766,6 +11608,18 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>king post</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(نجاری – در تاق‌های شیروانی) شاه‌تیر، تیر عمود، پایه تیر</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Kings</orth>
 		<pron>kiŋz</pron>
 	</form>
@@ -11779,12 +11633,118 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>king salmon</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>chinook salmon</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>King's Bench</orth>
+	</form>
+	<form>
+		<orth>Queen's Bench</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(انگلیس – حقوق)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>هریک از سه شعبهٔ دادگاه عالی قضایی</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(در اصل) دادگاه عالی حقوق عرف</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>king's blue</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>cobalt blue</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Kings Canyon National Park</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(آمریکا) پارک ملی کینگز کنیون (در کالیفرنیا – 1837 کیلومتر مربع)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>King's Counsel</orth>
+	</form>
+	<form>
+		<orth>Queen's Counsel</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(انگلیس – حقوق) قاضی دادگاه سلطنتی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>king's English</orth>
+	</form>
+	<form>
+		<orth>queen's English</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(انگلیس - با: the – زبان) انگلیسی استانده (انگلیسی اشخاص تحصیل کرده و فاقد لهجهٔ شهرستانی)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>king's evidence</orth>
+	</form>
+	<form>
+		<orth>queen's evidence</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(انگلیس) رجوع شود به: <ref>state's evidence</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>king's evil</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(مهجور) رجوع شود به: <ref>scrofula</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11829,6 +11789,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>king-size</orth>
+		<pron>-sīz´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(بیشتر در مورد تختخواب و سیگار) بزرگتر از معمول، بزرگ (king-sized هم می‌گویند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>kingsnake</orth>
 		<pron>-snāk´</pron>
 	</form>
@@ -11853,6 +11829,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>شهر کینگستن (پایتخت کشور جامائیکا)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>king's yellow</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>orpiment</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -12661,74 +12649,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>kiss of death</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(عمل خیرخواهانه که منجر به آسیب یا زیان برای شخص دیگری شود) دوستی خاله خرسه، بوسهٔ مرگ، ضربهٔ مهلک</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>kiss of life</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(انگلیس)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>تنفس مصنوعی دهان به دهان</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(مجازی) جان تازه</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>kiss of peace</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(به ویژه در مراسم عشای ربانی) دست دادن یا در آغوش‌گیری (و گاهی بوسه) به نشان آشتی و محبت</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>kiss-off</orth>
-		<pron>-ôf´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(خودمانی) مرخص کردن (با تحقیر)، ((گمشو)) گویی</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">they better kiss off!</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>باید گورشان را گم کنند!</quote>
-				</cit>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>kisser</orth>
 		<pron>-ər</pron>
 	</form>
@@ -12783,6 +12703,74 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>مشابه همدیگر، همانند، همسان، یک‌جور</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>kiss of death</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(عمل خیرخواهانه که منجر به آسیب یا زیان برای شخص دیگری شود) دوستی خاله خرسه، بوسهٔ مرگ، ضربهٔ مهلک</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>kiss-off</orth>
+		<pron>-ôf´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(خودمانی) مرخص کردن (با تحقیر)، ((گمشو)) گویی</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">they better kiss off!</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>باید گورشان را گم کنند!</quote>
+				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>kiss of life</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(انگلیس)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>تنفس مصنوعی دهان به دهان</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(مجازی) جان تازه</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>kiss of peace</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(به ویژه در مراسم عشای ربانی) دست دادن یا در آغوش‌گیری (و گاهی بوسه) به نشان آشتی و محبت</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -13031,12 +13019,44 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>kitchenetteor kitchenet</orth>
+		<pron>kich´ən et´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(در آپارتمان‌های کوچک) آشپزخانهٔ کوچک، پختگاهچه، مطبخچه</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>kitchen garden</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>باغچهٔ سبزی‌کاری خانگی (که محصول آن در خود منزل مصرف می‌شود)، باغ خانگی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>kitchenmaid</orth>
+		<pron>kich´ən mād´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>کلفت آشپزخانه، کمک‌آشپز</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -13066,38 +13086,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>کار در آشپزخانه (مخفف آن: KP)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>kitchenetteor kitchenet</orth>
-		<pron>kich´ən et´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(در آپارتمان‌های کوچک) آشپزخانهٔ کوچک، پختگاهچه، مطبخچه</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>kitchenmaid</orth>
-		<pron>kich´ən mād´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>کلفت آشپزخانه، کمک‌آشپز</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -13415,18 +13403,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Kitty Litter</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(نام بازرگانی) مستراح گربه (جعبه‌ای که برای این کار ساخته شده است)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>kitty-cornered</orth>
 		<pron>kit´ē kôr´nərd</pron>
 	</form>
@@ -13438,6 +13414,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>رجوع شود به: <ref>cater-cornered</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Kitty Litter</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(نام بازرگانی) مستراح گربه (جعبه‌ای که برای این کار ساخته شده است)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -13782,19 +13770,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Kline test</orth>
-		<pron>klīn</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(پزشکی) آزمون کلاین (برای تشخیص سفلیس)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Klinefelter's syndrome</orth>
 		<pron>klīn´fel´tərz</pron>
 	</form>
@@ -13802,6 +13777,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(پزشکی) نشانگان کلاین فلتر</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Kline test</orth>
+		<pron>klīn</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(پزشکی) آزمون کلاین (برای تشخیص سفلیس)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14316,12 +14304,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>knee jerk</orth>
+		<orth>kneecap</orth>
+		<pron>-kap´</pron>
 	</form>
 	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<pos norm="transitive verb">فعل متعدی</pos>
+		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>رجوع شود به: <ref>patellar reflex</ref></quote>
+				<quote>(کالبدشناسی) کاسهٔ زانو، کشکک، کندهٔ زانو (patella و kneepad هم می‌گویند)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(عملیات تروریستی یا شکنجه) تیر به کاسهٔ زانو زدن، کنده شکنی کردن</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14388,6 +14386,34 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>kneehole</orth>
+		<pron>-hōl´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(مثلا در پشت میز تحریر) جا زانویی، جای زانوها</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>knee jerk</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>patellar reflex</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>knee-jerk</orth>
 		<pron>-ju_rk´</pron>
 	</form>
@@ -14409,44 +14435,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(مجازی) ناخودآگاه، بدون تعمق و تفکر</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>kneecap</orth>
-		<pron>-kap´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<pos norm="transitive verb">فعل متعدی</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(کالبدشناسی) کاسهٔ زانو، کشکک، کندهٔ زانو (patella و kneepad هم می‌گویند)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(عملیات تروریستی یا شکنجه) تیر به کاسهٔ زانو زدن، کنده شکنی کردن</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>kneehole</orth>
-		<pron>-hōl´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(مثلا در پشت میز تحریر) جا زانویی، جای زانوها</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14810,30 +14798,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>knife pleat</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(خیاطی – چین یا پلیسهٔ دامن زنانه) چین تیز، چین چاقویی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>knife switch</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(برق) کلید چاقویی، کلید تیغه‌ای</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>knife-edge</orth>
 		<pron>-ej´</pron>
 	</form>
@@ -14859,6 +14823,30 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>وضع حساس</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>knife pleat</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(خیاطی – چین یا پلیسهٔ دامن زنانه) چین تیز، چین چاقویی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>knife switch</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(برق) کلید چاقویی، کلید تیغه‌ای</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14911,26 +14899,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(انگلیس) عضو قدیمی‌ترین و پایین‌ترین رستهٔ ((نایت))ها: شهسوار جوان</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Knight Templar</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(در جنگ‌های صلیبی – حدود 1118 میلادی) عضو انجمن نظامی و مذهبی، سلحشور معبدی</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>عضو برخی از شعبه‌های فراماسون</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15062,6 +15030,26 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>رجوع شود به: <ref>hospitaler</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Knight Templar</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(در جنگ‌های صلیبی – حدود 1118 میلادی) عضو انجمن نظامی و مذهبی، سلحشور معبدی</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>عضو برخی از شعبه‌های فراماسون</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15579,32 +15567,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>knock-knee</orth>
-		<pron>-nē´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(پزشکی) کجی زانو (که موجب به هم خوردن آنها هنگام راه رفتن می‌شود)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(جمع) زانوهای کج، زانوی کوژ</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>وخش، اوفه</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>knockabout</orth>
 		<pron>-ə bout´</pron>
 	</form>
@@ -15703,6 +15665,32 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(خودمانی – زننده) پستان، ممه</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>knock-knee</orth>
+		<pron>-nē´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(پزشکی) کجی زانو (که موجب به هم خوردن آنها هنگام راه رفتن می‌شود)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(جمع) زانوهای کج، زانوی کوژ</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>وخش، اوفه</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -16684,49 +16672,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>know-it-all</orth>
-		<pron>-it ôl´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(عامیانه – کنایه‌آمیز) علامهٔ‌دهر، همه‌چیزدان (know-all هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>know-nothing</orth>
-		<pron>nō´nuth´iŋ</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آدم) نادان، بی‌اطلاع، جاهل، در جهل مرکب</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(نادر) لاادری، نمی‌دانم کیش</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>عضو حزب مخفی که در حدود سال 1850 در آمریکا فعالیت داشت</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>knowing</orth>
 		<pron>-iŋ</pron>
 	</form>
@@ -16754,6 +16699,23 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>عمدی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>know-it-all</orth>
+		<pron>-it ôl´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(عامیانه – کنایه‌آمیز) علامهٔ‌دهر، همه‌چیزدان (know-all هم می‌گویند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -16923,6 +16885,32 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>know-nothing</orth>
+		<pron>nō´nuth´iŋ</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آدم) نادان، بی‌اطلاع، جاهل، در جهل مرکب</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(نادر) لاادری، نمی‌دانم کیش</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>عضو حزب مخفی که در حدود سال 1850 در آمریکا فعالیت داشت</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>known quantity</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -17078,17 +17066,21 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>knuckle joint</orth>
+		<orth>knucklebone</orth>
+		<pron>-bōn´</pron>
 	</form>
 	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(کالبدشناسی) بند استخوان (به ویژه در انگشتان دست و پا)</quote>
+				<quote>استخوان بند انگشت (انسان)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>لولای مفصلی، لولای بنددار، اتصال زانویی، همبنده</quote>
+				<quote>(قصابی) استخوان قوزک، استخون سر گرد، استخوان قاپ</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17111,27 +17103,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>knucklebone</orth>
-		<pron>-bōn´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>استخوان بند انگشت (انسان)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(قصابی) استخوان قوزک، استخون سر گرد، استخوان قاپ</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>knucklehead</orth>
 		<pron>-hed´</pron>
 	</form>
@@ -17142,6 +17113,23 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(آمریکا - عامیانه) احمق، پخمه، خنگ</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>knuckle joint</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(کالبدشناسی) بند استخوان (به ویژه در انگشتان دست و پا)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>لولای مفصلی، لولای بنددار، اتصال زانویی، همبنده</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17820,18 +17808,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Korea Strait</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>تنگهٔ کره (میان کره و ژاپن)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Korean</orth>
 		<pron>-ən</pron>
 	</form>
@@ -17848,6 +17824,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>زبان کره‌ای</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Korea Strait</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>تنگهٔ کره (میان کره و ژاپن)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -18191,6 +18179,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(یونان باستان) بستوی دهانه گشاد و دارای دو دسته (که در آن آب و شراب را می‌آمیختند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>K ration</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا - جنگ دوم جهانی) جیرهٔ پیش آماد (خوراک از پیش پخته که در جبهه به سربازان می‌دادند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -18579,53 +18579,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Ku Klux</orth>
-		<pron>kōō´ kluks´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="abbreviation">مخفف</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>Ku Klux Klan</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Ku Klux Klan</orth>
-		<pron>kōō´ kluks´ klan´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>گروه کوکلاکس کلان (که پس از جنگ‌های داخلی در جنوب ایالات متحده به وجود آمد و هدفش حفظ برتری سفیدان بر سیاهان بود)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>سازمان پنهانی نژادپرستان سفیدپوست (که در سال 1915 در شهر آتلانتا تاسیس شد)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Ku Kluxer</orth>
-		<pron>kōō´ kluks´ər</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>عضو گروه کوکلاکس کلان</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Kuala Lumpur</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -18780,6 +18733,53 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>شهر کویبیشف (در کنار رود ولگا – روسیه)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Ku Klux</orth>
+		<pron>kōō´ kluks´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="abbreviation">مخفف</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>Ku Klux Klan</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Ku Kluxer</orth>
+		<pron>kōō´ kluks´ər</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>عضو گروه کوکلاکس کلان</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Ku Klux Klan</orth>
+		<pron>kōō´ kluks´ klan´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>گروه کوکلاکس کلان (که پس از جنگ‌های داخلی در جنوب ایالات متحده به وجود آمد و هدفش حفظ برتری سفیدان بر سیاهان بود)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>سازمان پنهانی نژادپرستان سفیدپوست (که در سال 1915 در شهر آتلانتا تاسیس شد)</quote>
 			</cit>
 		</sense>
 	</sense>

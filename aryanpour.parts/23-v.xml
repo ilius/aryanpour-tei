@@ -76,48 +76,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>v imp</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="abbreviation">مخفف</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>impersonal verb</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>V Rev</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="abbreviation">مخفف</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>Very Reverent</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>V sign</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>علامت پیروزی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>V-6</orth>
 		<pron>vē´siks´</pron>
 	</form>
@@ -151,95 +109,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(موتور درونسوز اتومبیل) موتور هشت سیلندر و V شکل</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>V-Day</orth>
-		<pron>vē´dā´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(مخفف: victory day) روز پیروزی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>V-E Day</orth>
-		<pron>vē´ē´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(مخفف: victory in Europe) روز پیروزی در اروپا (8 مه 1945)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>V-J Day</orth>
-		<pron>vē´jā´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>روز بزرگداشت پیروزی متفقین بر ژاپن</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>V-mail</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا - جنگ جهانی دوم) سرویس نامه‌رسانی ارتش</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>V-neck</orth>
-		<pron>vē´nek´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(دوزندگی) یقه به شکل V، یقه هفت</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>V/STOL</orth>
-		<pron>vē´stôl´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(مخفف: هواپیمایی که می‌تواند به طور عمودی در باند فرودگاه کوچک بنشیند یا بلند شود) ویستول</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -961,6 +830,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>vacuum-packed</orth>
+		<pron>-pakt´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(قوطی خوراک و غیره) مکیده، کیپ و بی‌هوا، تهیک شده، خالی از هوا</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>vacuum pump</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -991,22 +876,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(انگلیس) رجوع شود به: <ref>vacuum tube</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>vacuum-packed</orth>
-		<pron>-pakt´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(قوطی خوراک و غیره) مکیده، کیپ و بی‌هوا، تهیک شده، خالی از هوا</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3273,18 +3142,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>value judgment</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>داوری ارزشی، ارزش داوری، قضاوت برمبنای ارزش‌های شخصی، ارزشگذاری شخصی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>value-added tax</orth>
 		<pron>-ad´əd</pron>
 	</form>
@@ -3292,28 +3149,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>مالیات بر ارزش افزوده</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>value-free</orth>
-		<pron>val´yōō frē´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>مستقل از ارزش‌های اخلاقی یا اجتماعی یا دینی</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">value-free research</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>پژوهش مستقل از معیارهای اخلاقی</quote>
-				</cit>
 			</cit>
 		</sense>
 	</sense>
@@ -3347,6 +3182,40 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>یک دوست ارزشمند</quote>
 				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>value-free</orth>
+		<pron>val´yōō frē´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>مستقل از ارزش‌های اخلاقی یا اجتماعی یا دینی</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">value-free research</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>پژوهش مستقل از معیارهای اخلاقی</quote>
+				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>value judgment</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>داوری ارزشی، ارزش داوری، قضاوت برمبنای ارزش‌های شخصی، ارزشگذاری شخصی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3469,24 +3338,24 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>valve trombone</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>trombone</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>valve-in-head engine</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>موتوری که سوپاپ‌های آن در سرسیلندر است، موتور سرسیلندری</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>valve trombone</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>trombone</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3784,135 +3653,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Van Allen radiation belt</orth>
-		<pron>van al´ən</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(لایهٔ متشکل از الکترون‌ها و پروتون‌های پرانرژی که دور کرهٔ زمین را به ارتفاع میان 400 و 64370 کیلومتر فرا گرفته است) کمربند تابشی ون الن</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Van Buren</orth>
-		<pron>van byoor´ən</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>مارتین ون‌بورن (هشتمین رییس جمهور آمریکا)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Van de Graaff generator</orth>
-		<pron>van´ di gräf´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(برق) نیروزای وندگراف</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>van der Waals</orth>
-		<pron>vän dər vålz´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>وندر والز (فیزیکدان هلندی)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>van der Waals' forces</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(فیزیک) نیروهای وندروالز</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Van Diemen's Land</orth>
-		<pron>van dē´mənz</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>نام سابق: Tasmania</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Van Doren</orth>
-		<pron>van dôr´ən</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>کارل وندورن (نویسندهٔ آمریکایی)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Van Dyck</orth>
-		<pron>van dīk´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>وندایک (نقاش هلندی)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>van Eyck</orth>
-		<pron>van īk</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ون آیک (نقاش هلندی)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>van Gogh</orth>
-		<pron>van gō´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ونگوگ (نقاش هلندی)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>vanadate</orth>
 		<pron>van´ə dāt´</pron>
 	</form>
@@ -4013,6 +3753,32 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>وابسته به ترکیبات دارای وانادیم دو ظرفیتی و سه ظرفیتی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Van Allen radiation belt</orth>
+		<pron>van al´ən</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(لایهٔ متشکل از الکترون‌ها و پروتون‌های پرانرژی که دور کرهٔ زمین را به ارتفاع میان 400 و 64370 کیلومتر فرا گرفته است) کمربند تابشی ون الن</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Van Buren</orth>
+		<pron>van byoor´ən</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>مارتین ون‌بورن (هشتمین رییس جمهور آمریکا)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -4123,6 +3889,19 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>Van de Graaff generator</orth>
+		<pron>van´ di gräf´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(برق) نیروزای وندگراف</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Vanderbilt</orth>
 		<pron>van´dər bilt</pron>
 	</form>
@@ -4130,6 +3909,70 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>کرنیلیوس وندربیلت (سرمایه‌دار آمریکایی)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>van der Waals</orth>
+		<pron>vän dər vålz´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>وندر والز (فیزیکدان هلندی)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>van der Waals' forces</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(فیزیک) نیروهای وندروالز</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Van Diemen's Land</orth>
+		<pron>van dē´mənz</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>نام سابق: Tasmania</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Van Doren</orth>
+		<pron>van dôr´ən</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>کارل وندورن (نویسندهٔ آمریکایی)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Van Dyck</orth>
+		<pron>van dīk´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>وندایک (نقاش هلندی)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -4284,6 +4127,19 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>van Eyck</orth>
+		<pron>van īk</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ون آیک (نقاش هلندی)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>vang</orth>
 		<pron>vaŋ</pron>
 	</form>
@@ -4294,6 +4150,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(کشتیرانی) طناب دیرک</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>van Gogh</orth>
+		<pron>van gō´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ونگوگ (نقاش هلندی)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -4796,42 +4665,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>vapor lock</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(موتورهای درونسوز) گازبند</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>vapor pressure</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(فیزیک) فشار تبخیر، فشار بخار (vapor tension هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>vapor trail</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>contrail</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>vaporific</orth>
 		<pron>vā´pər if´ik</pron>
 	</form>
@@ -4945,6 +4778,18 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>vapor lock</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(موتورهای درونسوز) گازبند</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>vaporous</orth>
 		<pron>vā´pər əs</pron>
 	</form>
@@ -4970,6 +4815,30 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>وهم‌آمیز، پراوهام، پرتخیل</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vapor pressure</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(فیزیک) فشار تبخیر، فشار بخار (vapor tension هم می‌گویند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vapor trail</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>contrail</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -6781,22 +6650,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>vas deferens</orth>
-		<pron>vas def´ə renz´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(کالبدشناسی) لولهٔ برنده منی، منی‌راه، رگ وابران، مجرای وابران</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Vasari</orth>
 		<pron>vä zä´rē</pron>
 	</form>
@@ -6915,6 +6768,22 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(جعبهٔ فلزی و استوانه‌ای‌شکل که گیاه‌شناسان نمونه‌های گیاهی را در آن حمل می‌کنند) واسکول، قوطی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vas deferens</orth>
+		<pron>vas def´ə renz´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(کالبدشناسی) لولهٔ برنده منی، منی‌راه، رگ وابران، مجرای وابران</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -7934,6 +7803,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>V-Day</orth>
+		<pron>vē´dā´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(مخفف: victory day) روز پیروزی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Veadar</orth>
 		<pron>vā´ä där´</pron>
 	</form>
@@ -7971,19 +7856,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>veal piccata</orth>
-		<pron>pik kä´tə</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(گوشت گوسالهٔ سرخ کرده در آب‌لیمو و شراب سفید و کره) ویلپکاتا</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>vealer</orth>
 		<pron>-ər</pron>
 	</form>
@@ -7994,6 +7866,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>گوسالهٔ پرواری، گوساله‌ای گوشتی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>veal piccata</orth>
+		<pron>pik kä´tə</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(گوشت گوسالهٔ سرخ کرده در آب‌لیمو و شراب سفید و کره) ویلپکاتا</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -8133,6 +8018,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(فلسفهٔ عرفانی بر پایهٔ ودا) ودانتا</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>V-E Day</orth>
+		<pron>vē´ē´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(مخفف: victory in Europe) روز پیروزی در اروپا (8 مه 1945)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -10844,19 +10742,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>veni, vidi, vici</orth>
-		<pron>wā´nē wē´dē wē´kē</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(عبارت منتسب به ژول سزار امپراطور روم) آمدم - دیدم - فتح کردم</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>venial</orth>
 		<pron>vēn´yəl</pron>
 		<pron>vē´nē əl</pron>
@@ -11027,6 +10912,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(در آغاز نیایش بامداد - مسیحیت) بیا!، قدم بگذار!</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>veni, vidi, vici</orth>
+		<pron>wā´nē wē´dē wē´kē</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(عبارت منتسب به ژول سزار امپراطور روم) آمدم - دیدم - فتح کردم</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11993,6 +11891,19 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>Venusberg</orth>
+		<pron>vē´nəs bu_rg´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(افسانهٔ قرون وسطایی در اروپا) کوه ونوس (در آلمان - ونوس در غار آن زندگی می‌کرد)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Venus' flytrap</orth>
 		<pron>flī´trap´</pron>
 	</form>
@@ -12016,19 +11927,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(گیاه‌شناسی) پر سیاوشیان، گیس ونوس (Adiantum capillus-veneris - بومی آمریکای حاره)، سرخس پرسیاوش</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Venusberg</orth>
-		<pron>vē´nəs bu_rg´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(افسانهٔ قرون وسطایی در اروپا) کوه ونوس (در آلمان - ونوس در غار آن زندگی می‌کرد)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -12396,18 +12294,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>verbal noun</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(دستور زبان) اسم فعل (در انگلیسی مصدر فعل و فعل با ing - اسم فعل می‌شوند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>verbalism</orth>
 		<pron>-iz´əm</pron>
 	</form>
@@ -12487,6 +12373,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(اسم و غیره را) تبدیل به فعل کردن، کارواژ کردن</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>verbal noun</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(دستور زبان) اسم فعل (در انگلیسی مصدر فعل و فعل با ing - اسم فعل می‌شوند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -12650,29 +12548,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>verd antique</orth>
-		<pron>vu_rd</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(در تزیینات داخلی) مرمر سبز (و رگه‌دار)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>سنگ سبز</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>verdigris</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>verdant</orth>
 		<pron>vu_rd´'nt</pron>
 	</form>
@@ -12699,6 +12574,29 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>جوان بی‌تجربه</quote>
 				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>verd antique</orth>
+		<pron>vu_rd</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(در تزیینات داخلی) مرمر سبز (و رگه‌دار)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>سنگ سبز</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>verdigris</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14084,32 +13982,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>vers de société</orth>
-		<pron>ver´ də sōô syā tā´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(فرانسه) شعر شاد و نغز، شعر سبک و مزاح‌آمیز، شعر بزمی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>vers libre</orth>
-		<pron>ver lē´br'</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(فرانسه) شعر آزاد (free verse هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Versailles</orth>
 		<pron>vər sī´</pron>
 	</form>
@@ -14223,6 +14095,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(گیاه‌شناسی - جانورشناسی) گردنده به هرسو، هرسوگرد، آزادگرد</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vers de société</orth>
+		<pron>ver´ də sōô syā tā´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(فرانسه) شعر شاد و نغز، شعر سبک و مزاح‌آمیز، شعر بزمی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14560,6 +14445,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(پزشکی) کجی رحم، کج‌زهدانی، (برای تسهیل زایمان) زهدان چرخانی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vers libre</orth>
+		<pron>ver lē´br'</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(فرانسه) شعر آزاد (free verse هم می‌گویند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15427,18 +15325,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>vesper sparrow</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(جانورشناسی) پرستوی آمریکایی (Pooecetes gramineus)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>vesperal</orth>
 		<pron>-əl</pron>
 	</form>
@@ -15465,6 +15351,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>روکش، رومیزی محراب</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vesper sparrow</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(جانورشناسی) پرستوی آمریکایی (Pooecetes gramineus)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15719,39 +15617,6 @@
 				<quote xml:lang="en">after his death the ownership will vest in his son</quote>
 				<cit type="trans" xml:lang="fa">
 					<quote>پس از فوت او مالکیت به پسرش خواهد رسید.</quote>
-				</cit>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>vest-pocket</orth>
-		<pron>vest´päk´it</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(وابسته به) جیب جلیقه</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>به اندازهٔ جیب جلیقه، کوچک، (کوچکتر از جیبی) جیبچه‌ای، نیمه‌جیبی</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">a vest-pocket park</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>یک پارک کوچولو</quote>
-				</cit>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">a vest-pocket dictionary</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>فرهنگ نیمه‌جیبی</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -16030,6 +15895,39 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(به ویژه جامهٔ رسمی کشیش یا روحانی) جامه، کسوت، پوشاک، ردا</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vest-pocket</orth>
+		<pron>vest´päk´it</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(وابسته به) جیب جلیقه</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>به اندازهٔ جیب جلیقه، کوچک، (کوچکتر از جیبی) جیبچه‌ای، نیمه‌جیبی</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">a vest-pocket park</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>یک پارک کوچولو</quote>
+				</cit>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">a vest-pocket dictionary</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>فرهنگ نیمه‌جیبی</quote>
+				</cit>
 			</cit>
 		</sense>
 	</sense>
@@ -16847,19 +16745,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>via media</orth>
-		<pron>vī´ə mē´dēə</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(لاتین) راه وسط، میانه‌روی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>viable</orth>
 		<pron>vī´ə bəl</pron>
 	</form>
@@ -16948,6 +16833,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>در شیشهٔ کوچک ریختن (یا نگهداری کردن)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>via media</orth>
+		<pron>vī´ə mē´dēə</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(لاتین) راه وسط، میانه‌روی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17457,6 +17355,32 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>vicarage</orth>
+		<pron>-ij</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>خانهٔ کشیش محل یا نایب مطران</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>حقوق ماهیانهٔ کشیش محل یا نایب مطران</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>مقام کشیش محل یا نایب مطران</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>vicar apostolic</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -17507,32 +17431,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>عنوان تاماس کرامول (Cromwell)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>vicarage</orth>
-		<pron>-ij</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>خانهٔ کشیش محل یا نایب مطران</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>حقوق ماهیانهٔ کشیش محل یا نایب مطران</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>مقام کشیش محل یا نایب مطران</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17687,50 +17585,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>vice admiral</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(نیروی دریایی) دریابان</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>vice squad</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(شهربانی) بخش مبارزه با منکرات (ویژهٔ قمار و فحشا)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>vice versa</orth>
-		<pron>vī´sə vu_r´sə</pron>
-		<pron>vīs´ vu_r´-</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>برعکس، بالعکس، باژگونه، وارون‌وار</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">France requires visas from Iranians and vice versa</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>فرانسه از ایرانی‌ها ویزا می‌خواهد و بالعکس.</quote>
-				</cit>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>vice-</orth>
 		<pron>vīs</pron>
 	</form>
@@ -17741,6 +17595,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>معاون، نایب، یاور، قائم‌مقام، دستیار، فریار [viceregal]</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vice admiral</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(نیروی دریایی) دریابان</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17795,32 +17661,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>معاون قنسول، نایب کنسول، یار کارگزار</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>vice-president</orth>
-		<pron>vīs´prez´ə dənt</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>معاون رییس جمهور، مردم‌سالاریار</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(V و P بزرگ) معاون رییس جمهور آمریکا</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(در شرکت‌ها و موسسات و غیره) معاون رئیس، فرنشین‌یار، فریار</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17909,6 +17749,32 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>شهر ویچنزا (در شمال ایتالیا)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vice-president</orth>
+		<pron>vīs´prez´ə dənt</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>معاون رییس جمهور، مردم‌سالاریار</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(V و P بزرگ) معاون رییس جمهور آمریکا</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(در شرکت‌ها و موسسات و غیره) معاون رئیس، فرنشین‌یار، فریار</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -18006,6 +17872,38 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>vice squad</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(شهربانی) بخش مبارزه با منکرات (ویژهٔ قمار و فحشا)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vice versa</orth>
+		<pron>vī´sə vu_r´sə</pron>
+		<pron>vīs´ vu_r´-</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>برعکس، بالعکس، باژگونه، وارون‌وار</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">France requires visas from Iranians and vice versa</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>فرانسه از ایرانی‌ها ویزا می‌خواهد و بالعکس.</quote>
+				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Vichy</orth>
 		<pron>vish´ē</pron>
 	</form>
@@ -18013,21 +17911,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>شهر ویشی (در مرکز فرانسه)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Vichy water</orth>
-	</form>
-	<form>
-		<orth>Vichy</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آب معدنی گازدار) آب ویشی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -18044,6 +17927,21 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>سوپ ویشی (دارای سیب زمینی و تره و خامه که سرد خورده می‌شود)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Vichy water</orth>
+	</form>
+	<form>
+		<orth>Vichy</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آب معدنی گازدار) آب ویشی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -18525,18 +18423,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Victoria Nile</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(بخش علیای رود نیل که از دریاچهٔ ویکتوریا به دریاچهٔ آلبرت می‌ریزد) نیل ویکتوریا</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Victorian</orth>
 		<pron>-ən</pron>
 	</form>
@@ -18579,6 +18465,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(مبل و ظروف و معماری و غیره) وابسته به دوران ملکه ویکتوریا، ویکتوریایی، اشیای ویکتوریایی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Victoria Nile</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(بخش علیای رود نیل که از دریاچهٔ ویکتوریا به دریاچهٔ آلبرت می‌ریزد) نیل ویکتوریا</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -18765,19 +18663,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>vide supra</orth>
-		<pron>sōō´prə</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(لاتین - کتاب) بازگشت به صفحات پیشین</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>videlicet</orth>
 		<pron>vi del´ə sit</pron>
 	</form>
@@ -18846,18 +18731,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>video game</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>بازی ویدیو</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>videocassette</orth>
 		<pron>vid´ē ō´kə set´</pron>
 	</form>
@@ -18884,6 +18757,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>دیسک ویدیو، صفحهٔ ویدیو (video disc هم می‌نویسند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>video game</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>بازی ویدیو</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -18935,6 +18820,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>متن ویدیویی (videotext هم می‌نویسند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vide supra</orth>
+		<pron>sōō´prə</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(لاتین - کتاب) بازگشت به صفحات پیشین</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -19025,24 +18923,24 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Vienna sausage</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>سوسیس وین</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Vienna, Congress of</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>کنفرانس وین (در پایان جنگ‌های ناپلئونی - 1814-15)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Vienna sausage</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>سوسیس وین</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -19394,18 +19292,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>view halloo</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(فریاد شکارچی وقتی که روباه را می‌بیند) روباه‌! (view hallo یا view halloa هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>viewdata</orth>
 		<pron>-dāt´ə</pron>
 	</form>
@@ -19474,6 +19360,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(دوربین عکاسی و تلسکوپ و غیره) نمایاب، منظره یاب</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>view halloo</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(فریاد شکارچی وقتی که روباه را می‌بیند) روباه‌! (view hallo یا view halloa هم می‌گویند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -19646,18 +19544,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>vigil light</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(مراسم شب زنده‌داری مذهبی) شمع، شمع نذری</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>vigilance</orth>
 		<pron>vij´ə ləns</pron>
 	</form>
@@ -19740,6 +19626,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>گرایش به اجرای خودسرانهٔ عدالت (بدون طی مراحل قانونی یا مراجعه به پلیس)، اجرای خودسرانهٔ قانون</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vigil light</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(مراسم شب زنده‌داری مذهبی) شمع، شمع نذری</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -20689,6 +20587,21 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>v imp</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="abbreviation">مخفف</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>impersonal verb</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Vimy</orth>
 		<pron>vē mē´</pron>
 	</form>
@@ -20718,32 +20631,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>vin ordinaire</orth>
-		<pron>van ōôr dē ner´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(فرانسه) شراب ارزان، شراب معمولی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>vin rosé</orth>
-		<pron>van rōô zā´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(فرانسه) شراب سرخ، شراب رزه (rose هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>vina</orth>
 		<pron>vē´nä´</pron>
 	</form>
@@ -20754,19 +20641,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(ساز زهی هند باستان) وینا</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Viña del Mar</orth>
-		<pron>vē´nyä del mär</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>شهر وینادلمار (در کشور شیلی)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -20793,6 +20667,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>انگوری</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Viña del Mar</orth>
+		<pron>vē´nyä del mär</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>شهر وینادلمار (در کشور شیلی)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -20875,18 +20762,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Vinci, Leonardo da</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>da Vinci, Leonardo</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>vincible</orth>
 		<pron>vin´sə bl</pron>
 	</form>
@@ -20897,6 +20772,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>شکست‌پذیر، مغلوب‌کردنی یا شدنی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Vinci, Leonardo da</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>da Vinci, Leonardo</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -21470,6 +21357,19 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>vin ordinaire</orth>
+		<pron>van ōôr dē ner´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(فرانسه) شراب ارزان، شراب معمولی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>vinous</orth>
 		<pron>vī´nəs</pron>
 	</form>
@@ -21490,6 +21390,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>ناشی از میخواری</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vin rosé</orth>
+		<pron>van rōô zā´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(فرانسه) شراب سرخ، شراب رزه (rose هم می‌گویند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -21697,30 +21610,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>vinyl plastic</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>پلاستیک وینیل</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>vinyl resin</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>انگم وینیل (در ساختن پلاستیک‌های وینیلی کاربرد دارد)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>vinylidene</orth>
 		<pron>vī nil´ə dēn´</pron>
 	</form>
@@ -21743,6 +21632,30 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>انگم وینیلیدین (CR2:H2C)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vinyl plastic</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>پلاستیک وینیل</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vinyl resin</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>انگم وینیل (در ساختن پلاستیک‌های وینیلی کاربرد دارد)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -21805,25 +21718,49 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>viola clef</orth>
+		<orth>violable</orth>
+		<pron>vī´ə lə bəl</pron>
 	</form>
 	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>رجوع شود به: <ref>alto clef</ref></quote>
+				<quote>تجاوز کردنی، تجاوزپذیر</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>نقض کردنی، زیر پاگذاشتنی، قابل تخطی</quote>
 			</cit>
 		</sense>
 	</sense>
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>viola d'amore</orth>
-		<pron>dä mô´rā</pron>
+		<orth>violaceous</orth>
+		<pron>vī´ə lā´shəs</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>بنفشه فام، بنفشه رنگ، بنفشه‌ای</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>viola clef</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(ساز زهی قدیمی از نوع ویول) ویولا دامور</quote>
+				<quote>رجوع شود به: <ref>alto clef</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -21856,37 +21793,13 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>violable</orth>
-		<pron>vī´ə lə bəl</pron>
+		<orth>viola d'amore</orth>
+		<pron>dä mô´rā</pron>
 	</form>
 	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>تجاوز کردنی، تجاوزپذیر</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>نقض کردنی، زیر پاگذاشتنی، قابل تخطی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>violaceous</orth>
-		<pron>vī´ə lā´shəs</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>بنفشه فام، بنفشه رنگ، بنفشه‌ای</quote>
+				<quote>(ساز زهی قدیمی از نوع ویول) ویولا دامور</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -22464,18 +22377,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>viper's bugloss</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>blueweed</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>viperine</orth>
 		<pron>-in</pron>
 	</form>
@@ -22502,6 +22403,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>افعی‌مانند، افعی صفت، بدجنس، بدسگال، کینه‌توز (viperish هم می‌گویند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>viper's bugloss</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>blueweed</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -22821,99 +22734,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>virgin birth</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(الهیات مسیحی) اعتقاد به تولد عیسی از مریم باکره</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>parthenogenesis</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Virgin Islands</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>جزایر ویرجین (در دریای کارائیب – نیمی از این جزایر متعلق به آمریکا و نیم کوچکتر متعلق به انگلیس است)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Virgin Islands National Park</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>پارک ملی جزایر ویرجین (20 کیلومترمربع)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Virgin Mary</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>حضرت مریم، مریم باکره</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Virgin Queen</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>یکی از لقب‌های ملکه الیزابت اول (رجوع شود به: <ref>Elizabeth</ref>)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>virgin wool</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>پشم نو (که قبلا به کار نرفته است)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>virgin's-bower</orth>
-		<pron>vu_r´jənz bou´ər</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(گیاه‌شناسی) تاک سلیمانی (Clematis virginiana)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>virginal</orth>
 		<pron>-jə nəl</pron>
 	</form>
@@ -22949,6 +22769,23 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(ساز موسیقی قرن 16) ورجینال</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>virgin birth</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(الهیات مسیحی) اعتقاد به تولد عیسی از مریم باکره</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>parthenogenesis</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -23056,6 +22893,30 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>Virgin Islands</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>جزایر ویرجین (در دریای کارائیب – نیمی از این جزایر متعلق به آمریکا و نیم کوچکتر متعلق به انگلیس است)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Virgin Islands National Park</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>پارک ملی جزایر ویرجین (20 کیلومترمربع)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>virginity</orth>
 		<pron>vər jin´ə tē</pron>
 	</form>
@@ -23086,6 +22947,58 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>رجوع شود به: <ref>celibacy</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Virgin Mary</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>حضرت مریم، مریم باکره</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Virgin Queen</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>یکی از لقب‌های ملکه الیزابت اول (رجوع شود به: <ref>Elizabeth</ref>)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>virgin's-bower</orth>
+		<pron>vu_r´jənz bou´ər</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(گیاه‌شناسی) تاک سلیمانی (Clematis virginiana)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>virgin wool</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>پشم نو (که قبلا به کار نرفته است)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -23858,66 +23771,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>vis major</orth>
-		<pron>vis mā´jər</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>کار خدا، مشیت الهی (act of God هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>vis-à-vis</orth>
-		<pron>vē´zə vē´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-			<pos norm="adverb">قید</pos>
-			<pos norm="preposition">حرف اضافه</pos>
-			<pos norm="noun">اسم</pos>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>در برابر، رو در رو، رویارو</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">our reaction vis-à-vis terrorism</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>واکنش ما در برابر تروریسم</quote>
-				</cit>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(اشخاص) هم‌پایه، همتا، هم مقام</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">my vis-à-vis in the opposing team was a huge German</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>همتای من در تیم مقابل یک مرد آلمانی بسیار تنومند بود.</quote>
-				</cit>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>tete-a-tete</ref></quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(سده‌های 19-18) کالسکهٔ روباز (که صندلی‌های آن روبروی هم بودند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>visa</orth>
 		<pron>vē´zə</pron>
 		<pron>-sə</pron>
@@ -24023,6 +23876,53 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>شهر ویزالیا (در جنوب کالیفرنیا – آمریکا)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vis-à-vis</orth>
+		<pron>vē´zə vē´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+			<pos norm="adverb">قید</pos>
+			<pos norm="preposition">حرف اضافه</pos>
+			<pos norm="noun">اسم</pos>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>در برابر، رو در رو، رویارو</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">our reaction vis-à-vis terrorism</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>واکنش ما در برابر تروریسم</quote>
+				</cit>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(اشخاص) هم‌پایه، همتا، هم مقام</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">my vis-à-vis in the opposing team was a huge German</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>همتای من در تیم مقابل یک مرد آلمانی بسیار تنومند بود.</quote>
+				</cit>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>tete-a-tete</ref></quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(سده‌های 19-18) کالسکهٔ روباز (که صندلی‌های آن روبروی هم بودند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -25285,6 +25185,19 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>vis major</orth>
+		<pron>vis mā´jər</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>کار خدا، مشیت الهی (act of God هم می‌گویند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>visor</orth>
 		<pron>vī´zər</pron>
 	</form>
@@ -25470,30 +25383,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>visual binary</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(نجوم) ستارهٔ دوقلو قابل رویت با چشم یا تلسکوپ (visual double هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>visual purple</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>rhodopsin</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>visual-aural radio range</orth>
 	</form>
 	<form>
@@ -25503,6 +25392,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(برای هدایت خلبان) امواج رادیویی دید و شنودی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>visual binary</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(نجوم) ستارهٔ دوقلو قابل رویت با چشم یا تلسکوپ (visual double هم می‌گویند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -25548,6 +25449,18 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>کرمی که توسط نایژه‌بین نمایان شد.</quote>
 				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>visual purple</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>رجوع شود به: <ref>rhodopsin</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -25689,42 +25602,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>vital signs</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>آثار حیات (به ویژه نبض و تنفس و حرارت بدن)، زیست‌نماها</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>vital staining</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(زیست‌شناسی) رنگ‌آمیزی زیستی، رنگ‌آمیزی حیاتی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>vital statistics</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>آمار حیاتی (مانند آمار تولد و ازدواج و مرگ)، آمار مهند</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>vitalism</orth>
 		<pron>-iz´əm</pron>
 	</form>
@@ -25802,6 +25679,42 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(نام بازرگانی آلیاژ کبالت و کرومیم و مولیبدنیم که زنگ نمی‌زند و در دندان‌سازی و جراحی استخوان و غیره کاربرد دارد) ویتالیم</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vital signs</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>آثار حیات (به ویژه نبض و تنفس و حرارت بدن)، زیست‌نماها</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vital staining</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(زیست‌شناسی) رنگ‌آمیزی زیستی، رنگ‌آمیزی حیاتی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vital statistics</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>آمار حیاتی (مانند آمار تولد و ازدواج و مرگ)، آمار مهند</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -26499,19 +26412,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>viva voce</orth>
-		<pron>vī´və vō´sē</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>شفاهی، گفتاری، زبانی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>vivace</orth>
 		<pron>vē vä´chā</pron>
 	</form>
@@ -26588,6 +26488,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>زیواکده، قفس شیشه‌ای</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>viva voce</orth>
+		<pron>vī´və vō´sē</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>شفاهی، گفتاری، زبانی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -26923,6 +26836,19 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>V-J Day</orth>
+		<pron>vē´jā´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>روز بزرگداشت پیروزی متفقین بر ژاپن</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>Vladimir</orth>
 		<pron>vlä dē´mir</pron>
 	</form>
@@ -26997,6 +26923,21 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>V-mail</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا - جنگ جهانی دوم) سرویس نامه‌رسانی ارتش</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>VMD</orth>
 	</form>
 	<form>
@@ -27009,6 +26950,22 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>دکتر دامپزشکی، دامپزشک</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>V-neck</orth>
+		<pron>vē´nek´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(دوزندگی) یقه به شکل V، یقه هفت</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -27815,58 +27772,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>voice mail</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(کامپیوتر) پست گفتاری، پست صوتی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>voice recognition</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(دستگاه الکترونیکی) صداشناس</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>voice synthesizer</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(کامپیوتر و غیره) صداساز، سخن آما</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>voice-over</orth>
-		<pron>-ō´vər</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(تلویزیون و غیره) صدای خارج از تصویر، سخنان افزوده (بر تصویر)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>voiced</orth>
 		<pron>voist</pron>
 	</form>
@@ -27958,6 +27863,34 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>voice mail</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(کامپیوتر) پست گفتاری، پست صوتی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>voice-over</orth>
+		<pron>-ō´vər</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(تلویزیون و غیره) صدای خارج از تصویر، سخنان افزوده (بر تصویر)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>voiceprint</orth>
 		<pron>-print´</pron>
 	</form>
@@ -27968,6 +27901,30 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>سخن‌نگاری (مانند انگشت‌نگاری برای شناسایی به کار می‌رود)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>voice recognition</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(دستگاه الکترونیکی) صداشناس</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>voice synthesizer</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(کامپیوتر و غیره) صداساز، سخن آما</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -28247,22 +28204,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>vol-au-vent</orth>
-		<pron>vōô lō vän´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>نان پر شده از گوشت مرغ و غیره</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Volans</orth>
 		<pron>vō´lanz</pron>
 	</form>
@@ -28440,6 +28381,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>vol-au-vent</orth>
+		<pron>vōô lō vän´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>نان پر شده از گوشت مرغ و غیره</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>volcanic</orth>
 		<pron>väl kan´ik</pron>
 	</form>
@@ -28473,18 +28430,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>volcanic rock</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>سنگ آتشفشانی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>volcanicity</orth>
 		<pron>väl´kə nis´ə tē</pron>
 	</form>
@@ -28495,6 +28440,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>حالت آتشفشانی، فعالیت آتشفشانی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>volcanic rock</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>سنگ آتشفشانی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -28993,22 +28950,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>volt-ampere</orth>
-		<pron>-am´pir´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(فیزیک) ولت‌آمپر</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Volta</orth>
 		<pron>väl´tə</pron>
 		<pron>vôl´-</pron>
@@ -29190,6 +29131,22 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(فیزیک) ولت‌آمپرسنج، ولت متر و آمپرمتر</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>volt-ampere</orth>
+		<pron>-am´pir´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(فیزیک) ولت‌آمپر</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -29405,18 +29362,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>volume unit</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>دسی‌بل‌سنج، قدرت‌سنج صدا، واحد سنجش فرکانس امواج صوتی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>volumeter</orth>
 		<pron>vō lōōm´ət ər</pron>
 	</form>
@@ -29455,6 +29400,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(شیمی) فراکافت گنجی، تجزیه و تحلیل حجمی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>volume unit</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>دسی‌بل‌سنج، قدرت‌سنج صدا، واحد سنجش فرکانس امواج صوتی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -30787,18 +30744,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>vowel point</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(عبری و عربی و غیره) زیر و زبر، اعراب</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>vowelize</orth>
 		<pron>vou´əl īz´</pron>
 	</form>
@@ -30809,6 +30754,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>واکه‌دار کردن، حروف مصوت افزودن (به متن)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>vowel point</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(عبری و عربی و غیره) زیر و زبر، اعراب</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -30937,6 +30894,21 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>V Rev</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="abbreviation">مخفف</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>Very Reverent</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>vroom</orth>
 		<pron>vrōōm</pron>
 	</form>
@@ -31001,6 +30973,34 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>جراح دامپزشکی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>V sign</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>علامت پیروزی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>V/STOL</orth>
+		<pron>vē´stôl´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(مخفف: هواپیمایی که می‌تواند به طور عمودی در باند فرودگاه کوچک بنشیند یا بلند شود) ویستول</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -31268,18 +31268,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Vulgar Latin</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(گویش لاتین که در میان عوام ایتالیا رواج داشت) لاتین عامیانه</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>vulgarian</orth>
 		<pron>vul ger´ē ən</pron>
 	</form>
@@ -31379,6 +31367,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>بی‌نزاکت کردن، زشت و زننده کردن</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Vulgar Latin</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(گویش لاتین که در میان عوام ایتالیا رواج داشت) لاتین عامیانه</quote>
 			</cit>
 		</sense>
 	</sense>

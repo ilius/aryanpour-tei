@@ -1,5 +1,95 @@
 <entry>
 	<form xml:lang="en">
+		<orth>-y</orth>
+		<pron>ē</pron>
+		<pron>i</pron>
+	</form>
+	<form>
+		<orth>y</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="suffix">پسوند</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>پسوند (اسم‌ساز):کوچک، صغیر، - چه، - ک [Billy]</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>-y</orth>
+		<pron>ē</pron>
+		<pron>i</pron>
+	</form>
+	<form>
+		<orth>y</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="suffix">پسوند</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>پسوند (صفت‌ساز):</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>پر، دارای [healthy یا dirty]</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>نسبتا، کمی، تا اندازه‌ای [yellowy یا chilly]</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>-y</orth>
+		<pron>ē</pron>
+		<pron>i</pron>
+	</form>
+	<form>
+		<orth>y</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="suffix">پسوند</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>پسوند (اسم‌ساز):</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>خاصیت، ویژگی، حالت [jealousy]</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>کارگاه، دکان [coopery]</quote>
+			</cit>
+		</sense>
+	</sense>
+	<sense n="2" xml:lang="fa">
+		<gramGrp>
+			<pos norm="suffix">پسوند</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>پسوند (اسم‌ساز): عمل، انجام [inquiry]</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>y</orth>
 		<pron>wī</pron>
 	</form>
@@ -58,26 +148,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>-y</orth>
-		<pron>ē</pron>
-		<pron>i</pron>
-	</form>
-	<form>
-		<orth>y</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="suffix">پسوند</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>پسوند (اسم‌ساز):کوچک، صغیر، - چه، - ک [Billy]</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>y</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -98,82 +168,12 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>-y</orth>
-		<pron>ē</pron>
-		<pron>i</pron>
-	</form>
-	<form>
-		<orth>y</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="suffix">پسوند</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>پسوند (صفت‌ساز):</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>پر، دارای [healthy یا dirty]</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>نسبتا، کمی، تا اندازه‌ای [yellowy یا chilly]</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Y</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(شیمی) نشان ایتریم</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>-y</orth>
-		<pron>ē</pron>
-		<pron>i</pron>
-	</form>
-	<form>
-		<orth>y</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="suffix">پسوند</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>پسوند (اسم‌ساز):</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>خاصیت، ویژگی، حالت [jealousy]</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>کارگاه، دکان [coopery]</quote>
-			</cit>
-		</sense>
-	</sense>
-	<sense n="2" xml:lang="fa">
-		<gramGrp>
-			<pos norm="suffix">پسوند</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>پسوند (اسم‌ساز): عمل، انجام [inquiry]</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -209,35 +209,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>هر چیز به این شکل:Y</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Y chromosome</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>کروموزوم Y (رجوع شود به: <ref>sex chromosome</ref>)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>y-axis</orth>
-		<pron>wī´ak´sis</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(ریاضی - هندسه) محور عرض‌ها، محورy</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -841,19 +812,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>Yankee Doodle</orth>
-		<pron>dōōd´'l</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>سرود یانکی دودل (که از دوران انقلاب تا کنون در آمریکا محبوب بوده است)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Yankeedom</orth>
 		<pron>-dəm</pron>
 	</form>
@@ -869,6 +827,19 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>ایالت‌های شمال خاوری ایالات متحده</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Yankee Doodle</orth>
+		<pron>dōōd´'l</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>سرود یانکی دودل (که از دوران انقلاب تا کنون در آمریکا محبوب بوده است)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1152,30 +1123,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>yard goods</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>پارچه (که معمولا برحسب یارد فروخته می‌شود)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>yard sale</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>حراج اثاثیهٔ مستعمل یا ناخواسته</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>yardage</orth>
 		<pron>yärd´ij</pron>
 	</form>
@@ -1249,6 +1196,18 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>yard goods</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>پارچه (که معمولا برحسب یارد فروخته می‌شود)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>yardland</orth>
 		<pron>-land´</pron>
 	</form>
@@ -1292,6 +1251,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>سرپرست تعمیرگاه راه آهن</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>yard sale</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>حراج اثاثیهٔ مستعمل یا ناخواسته</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1827,6 +1798,23 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>y-axis</orth>
+		<pron>wī´ak´sis</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(ریاضی - هندسه) محور عرض‌ها، محورy</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>yay</orth>
 		<pron>yā</pron>
 	</form>
@@ -1890,6 +1878,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>Yearbook</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>Y chromosome</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>کروموزوم Y (رجوع شود به: <ref>sex chromosome</ref>)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -2184,6 +2184,27 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>yearbook</orth>
+		<pron>-book´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>سالکتاب، سالنامه، سال‌نما (کتابی که هرسال چاپ می‌شود و حاوی آمار و غیرهٔ مربوط به سال پیش است)</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا - دبیرستان و دانشگاه) کتاب حاوی نام و عکس فارغ‌التحصیلان، سالکتاب آموزشی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>year-end</orth>
 		<pron>-end´</pron>
 	</form>
@@ -2206,56 +2227,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>پایان سال، سال‌پایان (yearend هم می‌نویسند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>year-round</orth>
-		<pron>yir´round´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-			<pos norm="adverb">قید</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>در تمام مدت سال، همهٔ سال</quote>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">they travel year-round</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>آنها همهٔ سال سفر می‌کنند.</quote>
-				</cit>
-			</cit>
-			<cit type="example">
-				<quote xml:lang="en">a year-round resort</quote>
-				<cit type="trans" xml:lang="fa">
-					<quote>تفریحگاه که در تمام سال باز است.</quote>
-				</cit>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>yearbook</orth>
-		<pron>-book´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>سالکتاب، سالنامه، سال‌نما (کتابی که هرسال چاپ می‌شود و حاوی آمار و غیرهٔ مربوط به سال پیش است)</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا - دبیرستان و دانشگاه) کتاب حاوی نام و عکس فارغ‌التحصیلان، سالکتاب آموزشی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -2392,6 +2363,35 @@
 				<quote xml:lang="en">a deep yearning for freedom</quote>
 				<cit type="trans" xml:lang="fa">
 					<quote>آرزوی ژرف برای آزادی</quote>
+				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>year-round</orth>
+		<pron>yir´round´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+			<pos norm="adverb">قید</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>در تمام مدت سال، همهٔ سال</quote>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">they travel year-round</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>آنها همهٔ سال سفر می‌کنند.</quote>
+				</cit>
+			</cit>
+			<cit type="example">
+				<quote xml:lang="en">a year-round resort</quote>
+				<cit type="trans" xml:lang="fa">
+					<quote>تفریحگاه که در تمام سال باز است.</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -2695,12 +2695,87 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>yellow-bellied sapsucker</orth>
+		<pron>yel´ō bel´ēd</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(جانورشناسی) مرغ شکم زرد (Sphyrapicus varius)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>yellow-belly</orth>
+		<pron>-bel´ē</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا - خودمانی) آدم ترسو، بزدل، بی‌جرات</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>yellowbird</orth>
+		<pron>-bu_rd´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>انواع پرندگان زردفام</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>yellowcake</orth>
+		<pron>-kāk´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>اورانیم متمرکز (به ویژه NH4)2U2O7) یا yellow cake - Na2U2O7 هم می‌نویسند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>yellow daisy</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>رجوع شود به: <ref>black-eyed Susan</ref></quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>yellow-dog contract</orth>
+		<pron>-dôg´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا - سابقا) قرارداد استخدام که امضا کنندهٔ آن حق عضو شدن در اتحادیه‌ها را از خود سلب می‌کرد</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -2725,6 +2800,51 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(پزشکی) تب زرد</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>yellow-green algae</orth>
+		<pron>-grēn´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(گیاه‌شناسی) جلبک زرد و سبز (ردهٔ Xanthophyceae)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>yellowhammer</orth>
+		<pron>-ham´ər</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(جانورشناسی) سهرهٔ اروپایی (Emberiza citrinella)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>yellowish</orth>
+		<pron>yel´ō ish</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>زردفام، کمی زرد، متمایل به زرد، زرد کم‌رنگ</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -2783,6 +2903,23 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(استفاده از روش‌های ناروا مانند اغراق‌گویی و پرآب و تاب سازی گزارش‌ها و غیره برای جلب خواننده) روزنامه‌نگاری زرد</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>yellowlegs</orth>
+		<pron>yel´ō legz´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(جانورشناسی) زردپا (هریک از این دو نوع یلوه: Tringa melanoleuca و Tringa flavipes - بومی آمریکا)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -2878,98 +3015,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>yellow spot</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>رجوع شود به: <ref>macula lutea</ref></quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>yellow streak</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>ترسویی، بزدلی، ترس، نداشتن دل و جرات</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>yellow warbler</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(جانورشناسی) چکاوک زرد (چکاوک ریزه - اندام بومی آمریکا: Dendroica petechia)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>yellow-bellied sapsucker</orth>
-		<pron>yel´ō bel´ēd</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(جانورشناسی) مرغ شکم زرد (Sphyrapicus varius)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>yellow-belly</orth>
-		<pron>-bel´ē</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا - خودمانی) آدم ترسو، بزدل، بی‌جرات</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>yellow-dog contract</orth>
-		<pron>-dôg´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا - سابقا) قرارداد استخدام که امضا کنندهٔ آن حق عضو شدن در اتحادیه‌ها را از خود سلب می‌کرد</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>yellow-green algae</orth>
-		<pron>-grēn´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(گیاه‌شناسی) جلبک زرد و سبز (ردهٔ Xanthophyceae)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>yellow-shafted flicker</orth>
 	</form>
 	<form>
@@ -2988,94 +3033,12 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>yellow-throated warbler</orth>
-		<pron>-thrōt´id</pron>
+		<orth>yellow spot</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(جانورشناسی) زرد گردن نغمه سرا (چکاوک بومی آمریکا: Dendroica dominica)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>yellowbird</orth>
-		<pron>-bu_rd´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>انواع پرندگان زردفام</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>yellowcake</orth>
-		<pron>-kāk´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>اورانیم متمرکز (به ویژه NH4)2U2O7) یا yellow cake - Na2U2O7 هم می‌نویسند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>yellowhammer</orth>
-		<pron>-ham´ər</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(جانورشناسی) سهرهٔ اروپایی (Emberiza citrinella)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>yellowish</orth>
-		<pron>yel´ō ish</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>زردفام، کمی زرد، متمایل به زرد، زرد کم‌رنگ</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>yellowlegs</orth>
-		<pron>yel´ō legz´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(جانورشناسی) زردپا (هریک از این دو نوع یلوه: Tringa melanoleuca و Tringa flavipes - بومی آمریکا)</quote>
+				<quote>رجوع شود به: <ref>macula lutea</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3088,6 +3051,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>پارک ملی یلوستون (8956 کیلومتر مربع - در شمال باختری ایالت وایومینگ - آمریکا)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>yellow streak</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>ترسویی، بزدلی، ترس، نداشتن دل و جرات</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3121,6 +3096,31 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(جانورشناسی) زرد گردن (چکاوک بومی آمریکا از جنس Geothlypis)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>yellow-throated warbler</orth>
+		<pron>-thrōt´id</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(جانورشناسی) زرد گردن نغمه سرا (چکاوک بومی آمریکا: Dendroica dominica)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>yellow warbler</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(جانورشناسی) چکاوک زرد (چکاوک ریزه - اندام بومی آمریکا: Dendroica petechia)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3362,33 +3362,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>yeoman of the royal guard</orth>
-	</form>
-	<form>
-		<orth>yeoman of the guard</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(عضو گارد سلطنتی بریتانیا) پاسدار سلطنتی، نگهبان کاخ شاهی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>yeoman service</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>خدمت خوب، کار سخت و صادقانه، جانفشانی (yeoman's service هم می‌گویند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>yeomanly</orth>
 		<pron>-lē</pron>
 	</form>
@@ -3421,6 +3394,21 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>yeoman of the royal guard</orth>
+	</form>
+	<form>
+		<orth>yeoman of the guard</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(عضو گارد سلطنتی بریتانیا) پاسدار سلطنتی، نگهبان کاخ شاهی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>yeomanry</orth>
 		<pron>-rē</pron>
 	</form>
@@ -3436,6 +3424,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(انگلیس) گارد پدافند ملی</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>yeoman service</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>خدمت خوب، کار سخت و صادقانه، جانفشانی (yeoman's service هم می‌گویند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3570,18 +3570,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>yes man</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(خودمانی) بله قربان گو، چاکر، نوکرماب، چاپلوس</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>yeshiva</orth>
 		<pron>yə shē´və</pron>
 	</form>
@@ -3593,6 +3581,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>مدرسهٔ یهودیان، مدرسهٔ علوم دینی یهودیان</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>yes man</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(خودمانی) بله قربان گو، چاکر، نوکرماب، چاپلوس</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -4535,61 +4535,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>yo-heave-ho</orth>
-		<pron>yō´hēv´hō´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="interjection">حرف ندا</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(ندا - آوازی که سابقا ملوانان هنگام کار دسته جمعی می‌خواندند) هی‌هی‌!، یا هی‌هو!</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>yo-yo</orth>
-		<pron>yō´yō´</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="adjective">صفت</pos>
-			<pos norm="intransitive verb">فعل لازم</pos>
-			<pos norm="noun">اسم</pos>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(اسباب‌بازی) یویو</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>یویو بازی کردن</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا - خودمانی) آدم بی‌مصرف، پخمه، بی‌عرضه</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(آمریکا - خودمانی) آدم غیرطبیعی، خل</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(عامیانه) در نوسان، ناثابت، نوانشگر، بالا و پایین رونده، ورجه</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>yob</orth>
 		<pron>yäb</pron>
 	</form>
@@ -4756,6 +4701,22 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>شهر یوگیا کارتا (در جزیرهٔ جاوه - اندونزی)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>yo-heave-ho</orth>
+		<pron>yō´hēv´hō´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="interjection">حرف ندا</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(ندا - آوازی که سابقا ملوانان هنگام کار دسته جمعی می‌خواندند) هی‌هی‌!، یا هی‌هو!</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -5227,18 +5188,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>York rite</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>مراسم انجمن فراماسیون‌ها</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>Yorkist</orth>
 		<pron>york´ist</pron>
 	</form>
@@ -5250,6 +5199,18 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>(انگلیس - سابقا) هوادار خاندان سلطنتی یورک</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>York rite</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>مراسم انجمن فراماسیون‌ها</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -5450,38 +5411,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>you shall</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>you're</orth>
-		<pron>yoor</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="abbreviation">مخفف</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>you are</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>you've</orth>
-		<pron>yōōv</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="abbreviation">مخفف</pos>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>you have</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -5742,6 +5671,23 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>youngberry</orth>
+		<pron>yuŋ´ber´ē</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="noun">اسم</pos>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>نوعی توت سیاه</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>young blood</orth>
 	</form>
 	<sense n="1" xml:lang="fa">
@@ -5753,23 +5699,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>نیروی تازه، شوق جوانی</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>Young Turk</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(در اصل) عضو گروه جوانان انقلابی ترکیه در اوایل قرن بیستم</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>جوان (یا جوانان) تندرو (به ویژه اگر در رقابت با بزرگسال‌ترها عرض اندام کنند) (با Y و T کوچک هم می‌نویسند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -5791,23 +5720,6 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>خوشبین، شاداب</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>youngberry</orth>
-		<pron>yuŋ´ber´ē</pron>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<gramGrp>
-			<pos norm="noun">اسم</pos>
-			<number norm="plural">جمع</number>
-		</gramGrp>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>نوعی توت سیاه</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -5906,6 +5818,23 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>Young Turk</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(در اصل) عضو گروه جوانان انقلابی ترکیه در اوایل قرن بیستم</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>جوان (یا جوانان) تندرو (به ویژه اگر در رقابت با بزرگسال‌ترها عرض اندام کنند) (با Y و T کوچک هم می‌نویسند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>younker</orth>
 		<pron>yuŋ´kər</pron>
 	</form>
@@ -5985,6 +5914,22 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>you're</orth>
+		<pron>yoor</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="abbreviation">مخفف</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>you are</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>yours</orth>
 		<pron>yoorz</pron>
 	</form>
@@ -6024,23 +5969,6 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>ارادتمند شما، ارادتمند</quote>
 				</cit>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
-		<orth>yours truly</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(در پایان‌نامه) ارادتمند شما</quote>
-			</cit>
-		</sense>
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(عامیانه) من، بنده، چاکر</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -6094,6 +6022,23 @@
 				<cit type="trans" xml:lang="fa">
 					<quote>بهتر است خودت (آن را) بنویسی.</quote>
 				</cit>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>yours truly</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(در پایان‌نامه) ارادتمند شما</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(عامیانه) من، بنده، چاکر</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -6191,18 +6136,6 @@
 </entry>
 <entry>
 	<form xml:lang="en">
-		<orth>youth hostel</orth>
-	</form>
-	<sense n="1" xml:lang="fa">
-		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>خوابگاه جوانان، هتل جوانان (ویژهٔ جوانانی که با دوچرخه یا اسب و غیره به سفر می‌روند)</quote>
-			</cit>
-		</sense>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="en">
 		<orth>youthful</orth>
 		<pron>-fəl</pron>
 	</form>
@@ -6277,6 +6210,34 @@
 </entry>
 <entry>
 	<form xml:lang="en">
+		<orth>youth hostel</orth>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>خوابگاه جوانان، هتل جوانان (ویژهٔ جوانانی که با دوچرخه یا اسب و غیره به سفر می‌روند)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>you've</orth>
+		<pron>yōōv</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="abbreviation">مخفف</pos>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>you have</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
 		<orth>yow</orth>
 		<pron>you</pron>
 	</form>
@@ -6309,6 +6270,45 @@
 		<sense xml:lang="fa">
 			<cit type="trans">
 				<quote>زوزه کشیدن، نعره کشیدن (رجوع شود به: <ref>howl</ref>)</quote>
+			</cit>
+		</sense>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="en">
+		<orth>yo-yo</orth>
+		<pron>yō´yō´</pron>
+	</form>
+	<sense n="1" xml:lang="fa">
+		<gramGrp>
+			<pos norm="adjective">صفت</pos>
+			<pos norm="intransitive verb">فعل لازم</pos>
+			<pos norm="noun">اسم</pos>
+			<number norm="plural">جمع</number>
+		</gramGrp>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(اسباب‌بازی) یویو</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>یویو بازی کردن</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا - خودمانی) آدم بی‌مصرف، پخمه، بی‌عرضه</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(آمریکا - خودمانی) آدم غیرطبیعی، خل</quote>
+			</cit>
+		</sense>
+		<sense xml:lang="fa">
+			<cit type="trans">
+				<quote>(عامیانه) در نوسان، ناثابت، نوانشگر، بالا و پایین رونده، ورجه</quote>
 			</cit>
 		</sense>
 	</sense>

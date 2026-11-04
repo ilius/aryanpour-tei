@@ -124,16 +124,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صاحب (زن‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>proprietress</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صاحب اختراع ثبت شده</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -211,6 +201,18 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صاحبان شرکت</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>interest</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صاحب بار</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -268,6 +270,69 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>monopolist</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صاحبخانه</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>host</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>householder</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>landlord</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صاحبخانه بی مروت (خودمانی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>slumlord</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صاحبخانه (زن‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>hostess</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>landlady</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صاحبخانه فقیر چزان (خودمانی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>slumlord</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -334,6 +399,16 @@
 			<quote>
 				<ref>landowner</ref>
 			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صاحب (زن‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>proprietress</quote>
 		</cit>
 	</sense>
 </entry>
@@ -607,18 +682,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صاحب منصب دولت</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>officeholder</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صاحب منصبان</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -630,6 +693,18 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>officialdom</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صاحب منصب دولت</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>officeholder</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -672,75 +747,22 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صاحبان شرکت</orth>
+		<orth>صادرات</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>interest</ref>
-			</quote>
+			<quote>exports</quote>
 		</cit>
 	</sense>
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صاحبخانه</orth>
+		<orth>صادرسازی</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
-				<ref>host</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>householder</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>landlord</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صاحبخانه (زن‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>hostess</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>landlady</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صاحبخانه بی مروت (خودمانی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>slumlord</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صاحبخانه فقیر چزان (خودمانی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>slumlord</ref>
+				<ref>exportation</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -812,6 +834,26 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صادرکردنی</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>exportable</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صادرکننده</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>exporter</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صادر کننده چک</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -831,48 +873,6 @@
 			<quote>
 				<ref>drawer</ref>
 			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صادرات</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>exports</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صادرسازی</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>exportation</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صادرکردنی</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>exportable</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صادرکننده</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>exporter</quote>
 		</cit>
 	</sense>
 </entry>
@@ -939,18 +939,6 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>valid</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صادق بودن (قانون یا اصل‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>hold</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -1036,6 +1024,18 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>veracious</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صادق بودن (قانون یا اصل‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>hold</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -1191,30 +1191,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صاف (زمین‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>level</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صاف (شی ء)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>marble</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صاف بودن</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -1251,12 +1227,65 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صاف (زمین‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>level</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صاف شدن</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>straighten</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صاف (شی ء)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>marble</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صافکاری کردن</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>face</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>smooth</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صافکاری نشده</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>roughcast</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -1460,6 +1489,18 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>slant</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صاف وار</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>flattish</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -1711,47 +1752,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صاف وار</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>flattish</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صافکاری کردن</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>face</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>smooth</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صافکاری نشده</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>roughcast</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صافی</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -1935,54 +1935,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صبح بخیر! (خودمانی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>hi</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صبح به خیر</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>good morning</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صبح زود</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>cockcrow</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صبح ها</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>mornings</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صبحانه</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -1994,18 +1946,6 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>muesli</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صبحانه - نهار</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>brunch</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -2054,6 +1994,66 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>continental breakfast</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صبحانه - نهار</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>brunch</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صبح بخیر! (خودمانی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>hi</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صبح به خیر</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>good morning</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صبح زود</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>cockcrow</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صبح ها</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>mornings</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -2118,6 +2118,16 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صبورانه</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>patiently</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صبور برای مدت طولانی</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -2125,16 +2135,6 @@
 			<quote>
 				<ref>long-suffering</ref>
 			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صبورانه</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>patiently</quote>
 		</cit>
 	</sense>
 </entry>
@@ -2388,24 +2388,24 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صحبت کردن (عامیانه‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>visit</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صحبت کردن بدون نوشته (عامیانه‌)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>ad-lib</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صحبت کردن (عامیانه‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>visit</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -2634,18 +2634,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صحن (معماری‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>apron</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صحن اتاق ها</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -2676,6 +2664,18 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>parquet</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صحن (معماری‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>apron</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -2752,6 +2752,35 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>scenery</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صحنه‌آرایی</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>window dressing</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صحنه‌آرایی (تئاتر)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>décor</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>mise en scène</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -3049,35 +3078,6 @@
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>ice rink</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صحنه‌آرایی</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>window dressing</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صحنه‌آرایی (تئاتر)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>décor</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>mise en scène</ref>
-			</quote>
 		</cit>
 	</sense>
 </entry>
@@ -3524,107 +3524,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صد تا</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>hundred</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صد در صد</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>out</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>quite</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صد در صد (عامیانه‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>spanking</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صد سال</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>century</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صد ساله</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>centennial</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صد و پنجاهم</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>sesquicentennial</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صد و پنجاهمین سالگرد</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>sesquicentennial</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صد هزار روپیه</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>lakh</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صدا</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -3684,6 +3583,18 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صدابر</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>microphone</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صدا تولید کن</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -3708,234 +3619,24 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صدا دادن</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>play</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدا زدن</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>call</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>calling</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>hail</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>page</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>flag</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدا ساز</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>sounder</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدا عوض کردن</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>disguise</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدا کردن</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>ring</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>sound</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>swish</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدا کردن (دهل و غیره‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>beat</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدا کردن آهسته و حزن انگیز زنگ کلیسا</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>knell</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدا کردن با سوت</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>toot</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدا کردن زنبور</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>sing</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدا کردن سماور</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>sing</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدا کردن گوش (پزشکی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>tinnitus</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدا کردن مثل فیل</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>bellow</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدا کش</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>muffler</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدا کم کن (سازهای موسیقی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>mute</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدا کم کن به کار بردن (سازهای موسیقی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>mute</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدابر</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>microphone</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صداخفه کن</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>silencer</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدا دادن</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>play</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -3988,12 +3689,68 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صدا زدن</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>call</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>calling</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>hail</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>page</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>flag</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدا ساز</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>sounder</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صداع (پزشکی‌)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>migraine</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدا عوض کردن</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>disguise</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -4072,6 +3829,148 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صدا کردن</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>ring</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>sound</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>swish</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدا کردن آهسته و حزن انگیز زنگ کلیسا</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>knell</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدا کردن با سوت</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>toot</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدا کردن (دهل و غیره‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>beat</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدا کردن زنبور</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>sing</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدا کردن سماور</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>sing</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدا کردن گوش (پزشکی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>tinnitus</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدا کردن مثل فیل</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>bellow</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدا کش</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>muffler</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدا کم کن به کار بردن (سازهای موسیقی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>mute</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدا کم کن (سازهای موسیقی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>mute</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صداگیر</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -4124,18 +4023,6 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>tape recorder</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدای " ه‌"</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>aspirate</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -5238,6 +5125,18 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صدای زیرلبی</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>mumble</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صدای زیر و گوشخراش</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -5256,18 +5155,6 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>shriek</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدای زیرلبی</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>mumble</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -5743,24 +5630,24 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صدای مچ مچ کردن برای راندن چهار پایان</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>chirrup</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صدای مچاله کردن</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>scrunch</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدای مچ مچ کردن برای راندن چهار پایان</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>chirrup</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -5875,24 +5762,24 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صدای ناقوس (یک دسته‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>peal</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صدای ناقوس عزا</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>knell</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدای ناقوس (یک دسته‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>peal</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -6012,6 +5899,18 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صدای " ه‌"</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>aspirate</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صدای هق هق</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -6084,30 +5983,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صدای یکنواخت و تلاوت مانند</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>chant</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدای یکنواخت و خسته کننده</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>monotone</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صدایی</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -6159,12 +6034,48 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صدای یکنواخت و تلاوت مانند</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>chant</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدای یکنواخت و خسته کننده</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>monotone</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صدبرابر</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>hundredfold</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صد تا</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>hundred</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -6189,6 +6100,23 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>hundredfold</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صد در صد</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>out</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>quite</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -6221,6 +6149,18 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>thoroughgoing</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صد در صد (عامیانه‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>spanking</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -6290,6 +6230,30 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صد سال</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>century</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صد ساله</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>centennial</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صدف</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -6311,18 +6275,6 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>shuck</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صدف (جانورشناسی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>clam</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -6359,6 +6311,18 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>periwinkle</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدف (جانورشناسی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>clam</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -6505,24 +6469,24 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صدق چیزی را اثبات کردن</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>confirm</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صدقاتی</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>eleemosynary</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدق چیزی را اثبات کردن</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>confirm</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -6654,6 +6618,18 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>suffering</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صدمه‌آور</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>maleficent</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -6831,18 +6807,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صدمه‌آور</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>maleficent</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صدمی</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -6884,6 +6848,30 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صد و پنجاهم</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>sesquicentennial</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صد و پنجاهمین سالگرد</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>sesquicentennial</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صدور</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -6912,6 +6900,18 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>patchwork</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صد هزار روپیه</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>lakh</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -7021,6 +7021,24 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صراحتا</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>explicitly</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>frankly</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>unequivocally</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صراحت و احتراز از پرده پوشی</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -7038,24 +7056,6 @@
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>incisiveness</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صراحتا</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>explicitly</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>frankly</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>unequivocally</quote>
 		</cit>
 	</sense>
 </entry>
@@ -7305,6 +7305,43 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صرفا</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>directly</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>exclusively</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>purely</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>simply</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صرف بنزین برحسب مایل</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>mileage</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صرف (دستور زبان‌)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -7328,18 +7365,6 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>morphology</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صرف بنزین برحسب مایل</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>mileage</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -7489,6 +7514,18 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صرفنظر از</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>aside</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صرف نظر کردن</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -7501,83 +7538,12 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صرف نظر کردن از سر تعارف</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>forgo</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صرف نظر کردنی</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>expendable</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صرف نظر کننده</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>forgoer</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صرف نظرکردن</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>relinquish</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صرفا</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>directly</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>exclusively</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>purely</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>simply</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صرفنظر از</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>aside</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -7633,6 +7599,30 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صرف نظر کردن از سر تعارف</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>forgo</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صرف نظر کردنی</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>expendable</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صرفنظر کردنی</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -7640,6 +7630,16 @@
 			<quote>
 				<ref>inappreciable</ref>
 			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صرف نظر کننده</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>forgoer</quote>
 		</cit>
 	</sense>
 </entry>
@@ -7969,6 +7969,28 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صریحا</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>expressly</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>point-blank</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>roundly</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صریح (تخیل‌)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -7999,28 +8021,6 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>incisive</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صریحا</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>expressly</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>point-blank</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>roundly</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -8115,6 +8115,16 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صعودپذیر</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>climbable</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صعود کردن</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -8147,16 +8157,6 @@
 			<quote>
 				<ref>scale</ref>
 			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صعودپذیر</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>climbable</quote>
 		</cit>
 	</sense>
 </entry>
@@ -8302,192 +8302,12 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صف (ارتش‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>column</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صف آراسته (سربازان‌)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>array</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صف آرایی کردن</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>marshal</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صف بستن</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>queue</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صف پلیس</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>cordon</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صف تک نفری</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>single file</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صف جلو</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>forefront</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صف سربازان</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>rank</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صف سربازان را شکستن</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>break</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صف کامیون</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>rank</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صف کشیدن</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>line</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صف متهمین</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>lineup</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صف مردم در مراسم رسمی</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>procession</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صف مستمندان</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>bread line</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صف نان</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>bread line</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صف یک نفری</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>tandem</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -8512,6 +8332,18 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>deploy</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صف آرایی کردن</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>marshal</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -8558,6 +8390,16 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صفاآور</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>freshener</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صفا دادن سر و صورت</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -8570,11 +8412,13 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صفاآور</orth>
+		<orth>صف (ارتش‌)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
-			<quote>freshener</quote>
+			<quote>
+				<ref>column</ref>
+			</quote>
 		</cit>
 	</sense>
 </entry>
@@ -8586,6 +8430,30 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>peritoneum</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صف بستن</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>queue</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صف پلیس</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>cordon</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -8608,18 +8476,6 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>trait</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صفت (دستور زبان‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>adjective</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -8698,6 +8554,18 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صفت (دستور زبان‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>adjective</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صفت عالی (دستور زبان‌)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -8716,6 +8584,18 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>participle</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صف تک نفری</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>single file</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -8780,6 +8660,18 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صف جلو</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>forefront</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صفحه</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -8802,46 +8694,29 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صفحه (هندسه‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>plane</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صفحه 33 دور (قدیمی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>long-playing record</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صفحه 33 دور گرامافون</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>LP</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صفحه آرایی</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>typography</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صفحه‌آرایی</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>format</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>layout</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -9422,17 +9297,12 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صفحه‌آرایی</orth>
+		<orth>صفحه (هندسه‌)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
-				<ref>format</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>layout</ref>
+				<ref>plane</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -9468,6 +9338,28 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صفحه 33 دور (قدیمی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>long-playing record</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صفحه 33 دور گرامافون</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>LP</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صفر</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -9494,102 +9386,6 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>O</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صفر (حساب‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>nought</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صفر (ریاضی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>null</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صفر (عدد)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>cipher</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صفر بی چون</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>absolute zero</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صفر کردن (ریاضی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>cancel</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صفر مجموع (نظریه بازی ها)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>zero-sum</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صفر مطلق</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>absolute zero</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صفر(خودمانی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>zilch</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -9637,6 +9433,198 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صفر بی چون</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>absolute zero</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صفر (حساب‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>nought</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صفر(خودمانی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>zilch</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صفر (ریاضی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>null</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صفر (عدد)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>cipher</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صفر کردن (ریاضی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>cancel</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صفر مجموع (نظریه بازی ها)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>zero-sum</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صفر مطلق</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>absolute zero</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صف سربازان</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>rank</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صف سربازان را شکستن</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>break</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صف کامیون</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>rank</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صف کشیدن</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>line</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صف متهمین</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>lineup</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صف مردم در مراسم رسمی</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>procession</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صف مستمندان</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>bread line</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صف نان</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>bread line</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صفه</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -9678,18 +9666,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صفیر (صدای گذشتن گلوله از کنار گوش‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>zip</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صفیر بینی</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -9708,6 +9684,18 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>whistle</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صفیر (صدای گذشتن گلوله از کنار گوش‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>zip</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -9749,6 +9737,18 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>sibilant</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صف یک نفری</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>tandem</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -9885,28 +9885,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صلاح نبودن</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>inexpediency</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صلاح نبودن (پزشکی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>contraindicate</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صلاحدید</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -9940,6 +9918,28 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>talk</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صلاح نبودن</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>inexpediency</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صلاح نبودن (پزشکی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>contraindicate</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -10115,6 +10115,28 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صلح‌آور</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>peacemaker</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صلح‌آوری</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>peacemaking</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صلح جو</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -10166,28 +10188,6 @@
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>pacifist</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صلح‌آور</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>peacemaker</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صلح‌آوری</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>peacemaking</quote>
 		</cit>
 	</sense>
 </entry>
@@ -10604,47 +10604,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صمیمی (خودمانی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>palsy-walsy</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صمیمی (عامیانه‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>pally</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>thick</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صمیمی و متحد</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>close-knit</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صمیمیت</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -10689,6 +10648,47 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>truth</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صمیمی (خودمانی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>palsy-walsy</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صمیمی (عامیانه‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>pally</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>thick</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صمیمی و متحد</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>close-knit</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -10761,18 +10761,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صندل (گیاه شناسی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>sandalwood</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صندل پوش</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -10792,6 +10780,18 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>rosewood</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صندل (گیاه شناسی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>sandalwood</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -11490,6 +11490,30 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صندوقچه</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>casket</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صندوقچه آهنین</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>coffer</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صندوق حمل کالا</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -11543,6 +11567,50 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>cashier</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صندوقدار</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>bursar</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>paymaster</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>teller</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صندوقدار (زن‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>paymistress</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صندوقداری</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>bursary</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -11684,74 +11752,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صندوقچه</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>casket</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صندوقچه آهنین</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>coffer</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صندوقدار</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>bursar</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>paymaster</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>teller</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صندوقدار (زن‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>paymistress</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صندوقداری</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>bursary</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صندوقه</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -11768,18 +11768,6 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>casket</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صندوقه (معماری‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>crib</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -11804,6 +11792,18 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>crate</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صندوقه (معماری‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>crib</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -11882,30 +11882,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صنعت گرایی</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>industrialism</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صنعت گری</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>handicraft</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صنعتکار</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -11954,6 +11930,30 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>workman</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صنعت گرایی</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>industrialism</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صنعت گری</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>handicraft</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -12128,23 +12128,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صنوبر (گیاه شناسی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>poplar</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>fir</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صنوبر دوگلاس (گیاه شناسی‌)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -12175,6 +12158,23 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>hemlock</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صنوبر (گیاه شناسی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>poplar</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>fir</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -12401,64 +12401,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صورت (خودمانی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>kisser</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>mug</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صورت (دستور زبان – فعل‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>voice</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صورت (ریاضی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>expression</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>numerator</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صورت (عامیانه‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>tab</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صورت اسامی</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -12537,6 +12479,16 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صورتجلسه</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>transactions</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صورت جمع (دستور زبان‌)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -12561,177 +12513,6 @@
 			<quote>
 				<ref>invoice</ref>
 			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صورت زیبا</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>beauty</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صورت ظاهر</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>face value</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صورت غذا</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>menu</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صورت فلکی (نجوم‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>constellation</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صورت فلکی حمل</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>Aries</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صورت فلکی قنطورس</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>Centaurus</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صورت قیمت (بازرگانی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>quotation</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صورت کامل</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>integrity</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صورت گرایی (هنر)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>formalism</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صورت گرفتن</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>fare</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صورت محمولات کشتی</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>bill</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صورت مخارج</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>expense account</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صورت هزینه</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>bill</ref>
-			</quote>
-		</cit>
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>expense account</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صورتجلسه</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>transactions</quote>
 		</cit>
 	</sense>
 </entry>
@@ -12774,6 +12555,18 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
+		<orth>صورتحساب دادن</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>bill</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
 		<orth>صورتحساب (عامیانه‌)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -12791,12 +12584,154 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صورتحساب دادن</orth>
+		<orth>صورت (خودمانی‌)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
-				<ref>bill</ref>
+				<ref>kisser</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>mug</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صورت (دستور زبان – فعل‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>voice</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صورت (ریاضی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>expression</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>numerator</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صورت زیبا</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>beauty</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صورت ظاهر</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>face value</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صورت (عامیانه‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>tab</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صورت غذا</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>menu</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صورت فلکی حمل</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>Aries</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صورت فلکی قنطورس</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>Centaurus</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صورت فلکی (نجوم‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>constellation</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صورت قیمت (بازرگانی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>quotation</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صورت کامل</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>integrity</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -12814,6 +12749,30 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>portraitist</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صورت گرایی (هنر)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>formalism</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صورت گرفتن</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>fare</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -12838,6 +12797,47 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>paint</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صورت محمولات کشتی</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>bill</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صورت مخارج</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>expense account</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صورت هزینه</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>bill</ref>
+			</quote>
+		</cit>
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>expense account</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -12905,16 +12905,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صوفی وار</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>mystically</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صوفیانه</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -12922,6 +12912,16 @@
 			<quote>
 				<ref>mystical</ref>
 			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صوفی وار</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>mystically</quote>
 		</cit>
 	</sense>
 </entry>
@@ -13085,24 +13085,24 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صیاد (ماهی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>fisherman</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صیاد سیل</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>sealer</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صیاد (ماهی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>fisherman</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -13216,30 +13216,6 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صید ماهی</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>fishing</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
-		<orth>صید نهنگ</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>whaling</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صیدگر</orth>
 	</form>
 	<sense n="1" xml:lang="en">
@@ -13258,6 +13234,30 @@
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>predatory</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صید ماهی</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>fishing</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صید نهنگ</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>whaling</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -13298,24 +13298,24 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صیغه (دستور زبان – فعل‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>voice</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صیغه (دستور زبان‌)</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>form</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صیغه (دستور زبان – فعل‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>voice</ref>
 			</quote>
 		</cit>
 	</sense>
@@ -13593,24 +13593,24 @@
 </entry>
 <entry>
 	<form xml:lang="fa">
-		<orth>صیقلی کردن (سنگ تراشی‌)</orth>
-	</form>
-	<sense n="1" xml:lang="en">
-		<cit type="trans" xml:lang="en">
-			<quote>
-				<ref>face</ref>
-			</quote>
-		</cit>
-	</sense>
-</entry>
-<entry>
-	<form xml:lang="fa">
 		<orth>صیقلی کردن با رنده</orth>
 	</form>
 	<sense n="1" xml:lang="en">
 		<cit type="trans" xml:lang="en">
 			<quote>
 				<ref>dub</ref>
+			</quote>
+		</cit>
+	</sense>
+</entry>
+<entry>
+	<form xml:lang="fa">
+		<orth>صیقلی کردن (سنگ تراشی‌)</orth>
+	</form>
+	<sense n="1" xml:lang="en">
+		<cit type="trans" xml:lang="en">
+			<quote>
+				<ref>face</ref>
 			</quote>
 		</cit>
 	</sense>
