@@ -99,9 +99,7 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(ریاضی)</quote>
-			</cit>
+			<usg type="dom">ریاضی</usg>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
@@ -263,8 +261,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">شیمی</usg>
 			<cit type="trans">
-				<quote>(شیمی) اسید زانتیک (آبسانهٔ بی رنگ و چرب: C3H6OS2)</quote>
+				<quote>اسید زانتیک (آبسانهٔ بی رنگ و چرب: C3H6OS2)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -279,8 +278,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">شیمی</usg>
 			<cit type="trans">
-				<quote>(شیمی) زانتاین (C5H4N4O2)</quote>
+				<quote>زانتاین (C5H4N4O2)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -352,8 +352,9 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">پزشکی</usg>
 			<cit type="trans">
-				<quote>(پزشکی) غدهٔ زرد، زرد آمو</quote>
+				<quote>غدهٔ زرد، زرد آمو</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -469,8 +470,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">شیمی</usg>
 			<cit type="trans">
-				<quote>(شیمی) نشان زنون (xenon)، گزنون</quote>
+				<quote>نشان زنون (xenon)، گزنون</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -501,8 +503,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) بیگانه‌گرایی، بیگانه‌پذیری</quote>
+				<quote>بیگانه‌گرایی، بیگانه‌پذیری</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -557,9 +560,7 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(زیست‌شناسی)</quote>
-			</cit>
+			<usg type="dom">زیست‌شناسی</usg>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
@@ -610,8 +611,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">شیمی</usg>
 			<cit type="trans">
-				<quote>(شیمی) زنون، گزنون (عنصر گاز مانند و سنگین و بی‌رنگ که به مقدار بسیار کم در هوا وجود دارد – نشان: Xe، وزن اتمی: 131/30، شمارهٔ اتمی: 54، چگالی: 5/887 g/l، نقطهٔ گداز: -111/9 درجه سانتیگراد، نقطهٔ جوش: -107/1 درجه سانتیگراد)</quote>
+				<quote>زنون، گزنون (عنصر گاز مانند و سنگین و بی‌رنگ که به مقدار بسیار کم در هوا وجود دارد – نشان: Xe، وزن اتمی: 131/30، شمارهٔ اتمی: 54، چگالی: 5/887 g/l، نقطهٔ گداز: -111/9 درجه سانتیگراد، نقطهٔ جوش: -107/1 درجه سانتیگراد)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -814,8 +816,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه</usg>
 			<cit type="trans">
-				<quote>(گیاه) خشک رست، خشک روی</quote>
+				<quote>خشک رست، خشک روی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1110,8 +1113,9 @@
 			<pos norm="adjective">صفت</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانور‌شناسی) زیفوسور (راستهٔ Xiphosura از بند پایان)</quote>
+				<quote>زیفوسور (راستهٔ Xiphosura از بند پایان)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1146,8 +1150,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) کریسمس</quote>
+				<quote>کریسمس</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1347,8 +1352,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="plev">نادر</usg>
 			<cit type="trans">
-				<quote>(نادر) حکاکی روی چوب، چوب‌نگاشت، چوب‌کافت، منبت‌کاری</quote>
+				<quote>حکاکی روی چوب، چوب‌نگاشت، چوب‌کافت، منبت‌کاری</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1363,8 +1369,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="plev">نادر</usg>
 			<cit type="trans">
-				<quote>(نادر) هنر حکاکی روی چوب، منبت‌کاری، چوب‌کاوی، چوب‌نگاری</quote>
+				<quote>هنر حکاکی روی چوب، منبت‌کاری، چوب‌کاوی، چوب‌نگاری</quote>
 			</cit>
 		</sense>
 	</sense>

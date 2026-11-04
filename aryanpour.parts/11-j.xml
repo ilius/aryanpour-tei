@@ -12,8 +12,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">فیزیک</usg>
 			<cit type="trans">
-				<quote>(فیزیک) ژول (3 (joule – قاضی -4 ژوئیه -5 عدالت</quote>
+				<quote>ژول (3 (joule – قاضی -4 ژوئیه -5 عدالت</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -58,8 +59,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">فیزیک</usg>
 			<cit type="trans">
-				<quote>(فیزیک) شمارهٔ فرضی مثل عدد منفی زیر رادیکال</quote>
+				<quote>شمارهٔ فرضی مثل عدد منفی زیر رادیکال</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -264,8 +266,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانور‌شناسی) جابیرو (انواع لک لک‌های درشت اندام حاره‌ای به ویژه گونهٔ آمریکایی به نام Jabiru mycteria)</quote>
+				<quote>جابیرو (انواع لک لک‌های درشت اندام حاره‌ای به ویژه گونهٔ آمریکایی به نام Jabiru mycteria)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -280,8 +283,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) جابراندی (برگ‌های خشکاندهٔ گیاهان آمریکای جنوبی از جنس Pilocarpus و خانوادهٔ rue)</quote>
+				<quote>جابراندی (برگ‌های خشکاندهٔ گیاهان آمریکای جنوبی از جنس Pilocarpus و خانوادهٔ rue)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -329,8 +333,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانور‌شناسی) جکمار (خانوادهٔ Galbulidae که از پرنده‌های جنگلی نواحی حارهٔ آمریکای جنوبی و مرکزی هستند)</quote>
+				<quote>جکمار (خانوادهٔ Galbulidae که از پرنده‌های جنگلی نواحی حارهٔ آمریکای جنوبی و مرکزی هستند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -348,8 +353,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانور‌شناسی) ژاسنا (انواع پرندگان حاره‌ای و کرانه زی آمریکایی به ویژه گونهٔ Jacana spinosa – بومی مکزیک)</quote>
+				<quote>ژاسنا (انواع پرندگان حاره‌ای و کرانه زی آمریکایی به ویژه گونهٔ Jacana spinosa – بومی مکزیک)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -364,8 +370,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) درخت نورا، جاکراندا (انواع درختان حاره‌ای آمریکایی از خانوادهٔ bignonia که گل‌های خوشه‌ای و نیلی رنگ می‌دهند)</quote>
+				<quote>درخت نورا، جاکراندا (انواع درختان حاره‌ای آمریکایی از خانوادهٔ bignonia که گل‌های خوشه‌ای و نیلی رنگ می‌دهند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -421,13 +428,15 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="hint">در اصل</usg>
 			<cit type="trans">
-				<quote>(در اصل) شاگرد خانه، نوکر</quote>
+				<quote>شاگرد خانه، نوکر</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="hint">در اصل</usg>
 			<cit type="trans">
-				<quote>(در اصل) پسر، مرد، آدم (برای تاکید به کار می‌رود)</quote>
+				<quote>پسر، مرد، آدم (برای تاکید به کار می‌رود)</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">every man jack knows that</quote>
@@ -474,8 +483,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="plev">نادر</usg>
 			<cit type="trans">
-				<quote>(نادر) ملوان، ناوی</quote>
+				<quote>ملوان، ناوی</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -542,8 +552,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانور‌شناسی) نام کلی انواع ماهی‌های حاره‌ای و نقره‌ای رنگ و استخوانی که دم دو شاخهٔ آنها دراز و باریک است (از تیرهٔ Caranagidae)</quote>
+				<quote>نام کلی انواع ماهی‌های حاره‌ای و نقره‌ای رنگ و استخوانی که دم دو شاخهٔ آنها دراز و باریک است (از تیرهٔ Caranagidae)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -552,23 +563,28 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="time">قدیمی</usg>
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(قدیمی – خودمانی) پول، فلوس، اسکن</quote>
+				<quote>پول، فلوس، اسکن</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">برق</usg>
 			<cit type="trans">
-				<quote>(برق) پریز، ژاک</quote>
+				<quote>پریز، ژاک</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">شکار</usg>
 			<cit type="trans">
-				<quote>(شکار) مشعل یا نوری که برای جلب صید به کار می‌رود</quote>
+				<quote>مشعل یا نوری که برای جلب صید به کار می‌رود</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">کشتیرانی</usg>
 			<cit type="trans">
-				<quote>(کشتیرانی) پرچم سینهٔ کشتی</quote>
+				<quote>پرچم سینهٔ کشتی</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -577,8 +593,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="gram">معمولا با: up</usg>
 			<cit type="trans">
-				<quote>(معمولا با: up) جک زدن، (با جک) بلند کردن، بالا بردن</quote>
+				<quote>جک زدن، (با جک) بلند کردن، بالا بردن</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">to jack up an automobile</quote>
@@ -611,8 +628,9 @@
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* jack off</quote>
+				<usg type="reg">خودمانی – زننده</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(خودمانی – زننده) جلق زدن</quote>
+					<quote>جلق زدن</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -667,8 +685,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانور‌شناسی) شغال (انواع سگ‌های وحشی کوچکتر از گرگ که به صورت گروهی شکار می‌کنند و لاشخور هم هستند – بومی آسیا و شمال افریقا)، توره، تورک</quote>
+				<quote>شغال (انواع سگ‌های وحشی کوچکتر از گرگ که به صورت گروهی شکار می‌کنند و لاشخور هم هستند – بومی آسیا و شمال افریقا)، توره، تورک</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -693,8 +712,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="time">قدیمی</usg>
 			<cit type="trans">
-				<quote>(قدیمی) میمون</quote>
+				<quote>میمون</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -736,8 +756,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) باقلای هندی (Canavalia ensiformis گیاه حاره‌ای از خانوادهٔ pea که درجنوب ایالات متحده برای خوراک دام و غیره کشت می‌شود)</quote>
+				<quote>باقلای هندی (Canavalia ensiformis گیاه حاره‌ای از خانوادهٔ pea که درجنوب ایالات متحده برای خوراک دام و غیره کشت می‌شود)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -780,8 +801,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانورشناسی) زاغچه (Corvus monedula کلاغ کوچک بومی اروپا که پشت گردنش خاکستری است)، کلاغ گردن بور</quote>
+				<quote>زاغچه (Corvus monedula کلاغ کوچک بومی اروپا که پشت گردنش خاکستری است)، کلاغ گردن بور</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -916,9 +938,7 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(گیاه‌شناسی)</quote>
-			</cit>
+			<usg type="dom">گیاه‌شناسی</usg>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
@@ -981,8 +1001,9 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) گل شیپوری آمریکایی (Arisaema triphyllum از خانوادهٔ arum)</quote>
+				<quote>گل شیپوری آمریکایی (Arisaema triphyllum از خانوادهٔ arum)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1092,8 +1113,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانور‌شناسی) جک ماهی (Trachurus symmetricus از خانوادهٔ jack که در کرانه‌های غربی آمریکای شمالی در دستجات انبوه حرکت می‌کنند)</quote>
+				<quote>جک ماهی (Trachurus symmetricus از خانوادهٔ jack که در کرانه‌های غربی آمریکای شمالی در دستجات انبوه حرکت می‌کنند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1143,8 +1165,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) کاج بانکسی یانا (Pinus banksiana که برگ‌های سوزنی کوتاه دارد و بومی کانادا و شمال ایالات متحده است)</quote>
+				<quote>کاج بانکسی یانا (Pinus banksiana که برگ‌های سوزنی کوتاه دارد و بومی کانادا و شمال ایالات متحده است)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1182,8 +1205,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانور‌شناسی) خرگوش آمریکایی (خرگوش درشت و بزرگ گوش نواحی غربی آمریکای شمالی از جنس Lepus)</quote>
+				<quote>خرگوش آمریکایی (خرگوش درشت و بزرگ گوش نواحی غربی آمریکای شمالی از جنس Lepus)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1231,8 +1255,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">مکانیک</usg>
 			<cit type="trans">
-				<quote>(مکانیک) جک پیچی (ابزاری که با پیچاندن میلهٔ پیچ مانندی اشیای سنگین را به فاصلهٔ کمی بلند می‌کند)</quote>
+				<quote>جک پیچی (ابزاری که با پیچاندن میلهٔ پیچ مانندی اشیای سنگین را به فاصلهٔ کمی بلند می‌کند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1247,8 +1272,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانور‌شناسی) ماهی سیمین پهلو (Atherinopsis californiensis – بومی کرانه‌های غربی آمریکا)</quote>
+				<quote>ماهی سیمین پهلو (Atherinopsis californiensis – بومی کرانه‌های غربی آمریکا)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1264,9 +1290,7 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(جانور‌شناسی)</quote>
-			</cit>
+			<usg type="dom">جانورشناسی</usg>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
@@ -1377,8 +1401,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="time">مهجور</usg>
 			<cit type="trans">
-				<quote>(مهجور) آدم پوشالی</quote>
+				<quote>آدم پوشالی</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -1416,8 +1441,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یعقوب</quote>
+				<quote>یعقوب</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1459,8 +1485,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">ریاضی</usg>
 			<cit type="trans">
-				<quote>(ریاضی) ژاکوبی، ژاکوبین</quote>
+				<quote>ژاکوبی، ژاکوبین</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">Jacobian of transformation</quote>
@@ -1520,8 +1547,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) نردبانی که از زمین به عرش می‌رسید و حضرت یعقوب آن را در خواب دید</quote>
+				<quote>نردبانی که از زمین به عرش می‌رسید و حضرت یعقوب آن را در خواب دید</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -1530,8 +1558,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) گل یعقوب (جنس Polemonium از خانوادهٔ phlox)</quote>
+				<quote>گل یعقوب (جنس Polemonium از خانوادهٔ phlox)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -1651,13 +1680,15 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="plev">نادر</usg>
 			<cit type="trans">
-				<quote>(نادر) لافزنی</quote>
+				<quote>لافزنی</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">پزشکی</usg>
 			<cit type="trans">
-				<quote>(پزشکی) رجوع شود به: <ref>jactitation</ref></quote>
+				<quote>رجوع شود به: <ref>jactitation</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1682,8 +1713,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">پزشکی</usg>
 			<cit type="trans">
-				<quote>(پزشکی) التهاب، تب و تاب، بی‌قراری</quote>
+				<quote>التهاب، تب و تاب، بی‌قراری</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1744,8 +1776,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="plev">نادر</usg>
 			<cit type="trans">
-				<quote>(نادر) سلیطه، زن جوان و بی ادب</quote>
+				<quote>سلیطه، زن جوان و بی ادب</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -1804,8 +1837,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) ابرون (Crassula argentea از خانوادهٔ orpine)</quote>
+				<quote>ابرون (Crassula argentea از خانوادهٔ orpine)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1820,8 +1854,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانور‌شناسی) مرغ قاپو (جنس Stercorarius از تیرهٔ Stercorariidae – از پرندگان کرانه‌زی که کارشان قاپیدن طعمهٔ دیگر پرندگان است)</quote>
+				<quote>مرغ قاپو (جنس Stercorarius از تیرهٔ Stercorariidae – از پرندگان کرانه‌زی که کارشان قاپیدن طعمهٔ دیگر پرندگان است)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1833,8 +1868,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یاعیل</quote>
+				<quote>یاعیل</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -1897,8 +1933,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="time">قدیمی</usg>
 			<cit type="trans">
-				<quote>(قدیمی) بریدگی اره مانند (مثلا بریدگی گوشه دار پارچه)</quote>
+				<quote>بریدگی اره مانند (مثلا بریدگی گوشه دار پارچه)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -1923,8 +1960,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) مستی، کیفوری، نشئه</quote>
+				<quote>مستی، کیفوری، نشئه</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -2059,8 +2097,9 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانور‌شناسی) جگوار (Panthera onca – درشت اندام‌ترین درندهٔ اقلیم آمریکا و شبیه یوزپلنگ)</quote>
+				<quote>جگوار (Panthera onca – درشت اندام‌ترین درندهٔ اقلیم آمریکا و شبیه یوزپلنگ)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -2075,8 +2114,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانور‌شناسی) جاگاروندی (Herpailurus yagouaroundi – نوعی گربهٔ وحشی دم دراز و کشیده اندام بومی آمریکای مرکزی و جنوبی) (jaguarondi هم می‌نویسند)</quote>
+				<quote>جاگاروندی (Herpailurus yagouaroundi – نوعی گربهٔ وحشی دم دراز و کشیده اندام بومی آمریکای مرکزی و جنوبی) (jaguarondi هم می‌نویسند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -2181,9 +2221,7 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(عامیانه)</quote>
-			</cit>
+			<usg type="reg">عامیانه</usg>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
@@ -2265,9 +2303,7 @@
 			<pos norm="adjective">صفت</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(بیشتر در هند)</quote>
-			</cit>
+			<usg type="geo">بیشتر در هند</usg>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
@@ -2349,8 +2385,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="reg">محلی</usg>
 			<cit type="trans">
-				<quote>(محلی) مستراح بیرون از ساختمان</quote>
+				<quote>مستراح بیرون از ساختمان</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -2438,8 +2475,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">شیمی</usg>
 			<cit type="trans">
-				<quote>(شیمی) جالپین (گلیکوزید به فرمول C34H56O16 که از جالپ به دست می‌آید)</quote>
+				<quote>جالپین (گلیکوزید به فرمول C34H56O16 که از جالپ به دست می‌آید)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -2821,8 +2859,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یعقوب (برادر یوحنا و معروف به: Saint James the Greater)، یعقوب (پسر حلفی Alphaeus و معروف به Saint James the Less) (هر دو جزو دوازده حواری حضرت عیسی بودند)</quote>
+				<quote>یعقوب (برادر یوحنا و معروف به: Saint James the Greater)، یعقوب (پسر حلفی Alphaeus و معروف به Saint James the Less) (هر دو جزو دوازده حواری حضرت عیسی بودند)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -3184,8 +3223,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="plev">نادر</usg>
 			<cit type="trans">
-				<quote>(نادر) دربان</quote>
+				<quote>دربان</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3206,8 +3246,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="hint">در اصل</usg>
 			<cit type="trans">
-				<quote>(در اصل) سرباز پاسدار سلطان عثمانی</quote>
+				<quote>سرباز پاسدار سلطان عثمانی</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -3293,8 +3334,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">نجوم</usg>
 			<cit type="trans">
-				<quote>(نجوم) جانوس (ماهوارهٔ کوچک کیوان یا زحل)</quote>
+				<quote>جانوس (ماهوارهٔ کوچک کیوان یا زحل)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3420,8 +3462,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) شبدر ژاپنی (Lespedeza striata از خانوادهٔ pea که در جنوب غربی ایالات متحده به عنوان علوفه کشت می‌شود)</quote>
+				<quote>شبدر ژاپنی (Lespedeza striata از خانوادهٔ pea که در جنوب غربی ایالات متحده به عنوان علوفه کشت می‌شود)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3480,8 +3523,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) اکلیل ژاپنی (جنس Pieris japonica از خانوادهٔ heath)</quote>
+				<quote>اکلیل ژاپنی (جنس Pieris japonica از خانوادهٔ heath)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3492,8 +3536,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">حشره‌شناسی</usg>
 			<cit type="trans">
-				<quote>(حشره‌شناسی) سوسک ژاپنی (Popillia japonica – به رنگ سبز و قهوه‌ای و آفت گل و غله)</quote>
+				<quote>سوسک ژاپنی (Popillia japonica – به رنگ سبز و قهوه‌ای و آفت گل و غله)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3528,8 +3573,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) زنبق ژاپنی (Iris kaempferi)</quote>
+				<quote>زنبق ژاپنی (Iris kaempferi)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3576,8 +3622,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) خرمالو (Diospyros kaki)</quote>
+				<quote>خرمالو (Diospyros kaki)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -3593,8 +3640,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) آلوی ژاپنی (Prunus salicina که میوهٔ زرد یا سرخ می‌دهد)</quote>
+				<quote>آلوی ژاپنی (Prunus salicina که میوهٔ زرد یا سرخ می‌دهد)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3605,8 +3653,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) به ژاپنی (Chaenomeles lagenaria از خانوادهٔ rose)</quote>
+				<quote>به ژاپنی (Chaenomeles lagenaria از خانوادهٔ rose)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3617,8 +3666,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) فرفیون ژاپنی (Pachysandra terminalis که گیاهی خزنده است)</quote>
+				<quote>فرفیون ژاپنی (Pachysandra terminalis که گیاهی خزنده است)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3673,8 +3723,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="plev">نادر</usg>
 			<cit type="trans">
-				<quote>(نادر) مسخره کردن (کسی را)</quote>
+				<quote>مسخره کردن (کسی را)</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">the young men japed at him</quote>
@@ -3703,8 +3754,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یافث (سومین پسر حضرت نوح)</quote>
+				<quote>یافث (سومین پسر حضرت نوح)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3724,8 +3776,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="time">قدیمی</usg>
 			<cit type="trans">
-				<quote>(قدیمی) Indo-European</quote>
+				<quote>Indo-European</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -3935,8 +3988,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="time">قدیمی</usg>
 			<cit type="trans">
-				<quote>(قدیمی) چرخش، گردش</quote>
+				<quote>چرخش، گردش</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* on the jar</quote>
@@ -4125,8 +4179,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) حرف اول نام یعقوب (ژاکب)</quote>
+				<quote>حرف اول نام یعقوب (ژاکب)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -4150,8 +4205,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) یاسمن، یاس رازقی (انواع گیاهان جنس Jasminum از خانوادهٔ olive)، یاسمین</quote>
+				<quote>یاسمن، یاس رازقی (انواع گیاهان جنس Jasminum از خانوادهٔ olive)، یاسمین</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -4199,8 +4255,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) گوهر (احتمالا کوارتز سبز)</quote>
+				<quote>گوهر (احتمالا کوارتز سبز)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -4258,8 +4315,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">سنگ‌شناسی</usg>
 			<cit type="trans">
-				<quote>(سنگ‌شناسی) جسپیلیت (نوعی سنگ که لایه‌های سرخ و سیاه دارد)</quote>
+				<quote>جسپیلیت (نوعی سنگ که لایه‌های سرخ و سیاه دارد)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -4327,8 +4385,9 @@
 			<pos norm="transitive verb">فعل متعدی</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">پزشکی</usg>
 			<cit type="trans">
-				<quote>(پزشکی) یرقان، زردی</quote>
+				<quote>یرقان، زردی</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -4492,8 +4551,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">دیرین‌شناسی</usg>
 			<cit type="trans">
-				<quote>(دیرین‌شناسی) انسان جاوه (Homo erectus erectus که سنگوارهٔ آن در جاوه پیدا شد و از دوران پلیستوسین است)</quote>
+				<quote>انسان جاوه (Homo erectus erectus که سنگوارهٔ آن در جاوه پیدا شد و از دوران پلیستوسین است)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -4545,8 +4605,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانور‌شناسی) سهرهٔ جاوه (Padda oryzivora از تیرهٔ Estrildidae که به رنگ‌های سرخ و خاکستری و سفید است و در قفس نیز نگهداری می‌شود)</quote>
+				<quote>سهرهٔ جاوه (Padda oryzivora از تیرهٔ Estrildidae که به رنگ‌های سرخ و خاکستری و سفید است و در قفس نیز نگهداری می‌شود)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -4567,8 +4628,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">ورزش</usg>
 			<cit type="trans">
-				<quote>(ورزش) نیزه (به درازی هشت و نیم فوت)، نیزه پرانی (Javelin throw هم می‌گویند)</quote>
+				<quote>نیزه (به درازی هشت و نیم فوت)، نیزه پرانی (Javelin throw هم می‌گویند)</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">a champion javelin thrower</quote>
@@ -4666,8 +4728,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) حرف زدن (به ویژه به طور ملالت انگیز یا تعدی‌آمیز)، پرچانگی، وراجی</quote>
+				<quote>حرف زدن (به ویژه به طور ملالت انگیز یا تعدی‌آمیز)، پرچانگی، وراجی</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">don't listen to his jaw</quote>
@@ -4677,8 +4740,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="time">قدیمی</usg>
 			<cit type="trans">
-				<quote>(قدیمی) سرزنش کردن (به طور مکرر)، نکوهیدن</quote>
+				<quote>سرزنش کردن (به طور مکرر)، نکوهیدن</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">hold your jaw and be off!</quote>
@@ -4694,8 +4758,9 @@
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* one's jaw drops</quote>
+				<usg type="reg">خودمانی</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(خودمانی) آدم دچار تعجب می‌شود، انسان بهت زده می‌شود</quote>
+					<quote>آدم دچار تعجب می‌شود، انسان بهت زده می‌شود</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -4799,8 +4864,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانور‌شناسی) ماهی بی‌آرواره (ردهٔ Agnatha از ماهی‌های بی‌فک که بدن مار ماهی مانند و دهان گرد و مکنده دارند)</quote>
+				<quote>ماهی بی‌آرواره (ردهٔ Agnatha از ماهی‌های بی‌فک که بدن مار ماهی مانند و دهان گرد و مکنده دارند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -4853,13 +4919,15 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانور‌شناسی) جی جاغ، زاغ کبود (تیرهٔ Corvidae که معمولا رنگ‌های چشمگیر و به ویژه آبی دارند مخصوصا glandarius Garrulus)</quote>
+				<quote>جی جاغ، زاغ کبود (تیرهٔ Corvidae که معمولا رنگ‌های چشمگیر و به ویژه آبی دارند مخصوصا glandarius Garrulus)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) آدم احمق و پر حرف، یاوه‌گو، وراج، روده دراز</quote>
+				<quote>آدم احمق و پر حرف، یاوه‌گو، وراج، روده دراز</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -4868,8 +4936,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) سیگار ماری جوانا (ماریوانا)</quote>
+				<quote>سیگار ماری جوانا (ماریوانا)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -4940,8 +5009,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) ایالت کانزاس (jayhawk هم می‌گویند)</quote>
+				<quote>ایالت کانزاس (jayhawk هم می‌گویند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -4975,8 +5045,9 @@
 			<pos norm="transitive verb">فعل متعدی</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">موسیقی</usg>
 			<cit type="trans">
-				<quote>(موسیقی) جاز</quote>
+				<quote>جاز</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -5017,8 +5088,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="gram">معمولا با: up</usg>
 			<cit type="trans">
-				<quote>(معمولا با: up) جاز مانند کردن، (مثل جاز) تند و شادی انگیز کردن، سرزنده کردن، آذین کردن، شور و نشاط بخشیدن</quote>
+				<quote>جاز مانند کردن، (مثل جاز) تند و شادی انگیز کردن، سرزنده کردن، آذین کردن، شور و نشاط بخشیدن</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">to jazz up the room with some bright red curtains</quote>
@@ -5110,8 +5182,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) شاد و تند، سرحال، با شور و نشاط، طرب انگیز</quote>
+				<quote>شاد و تند، سرحال، با شور و نشاط، طرب انگیز</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -5125,8 +5198,9 @@
 			<pos norm="abbreviation">مخفف</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) ایوب</quote>
+				<quote>ایوب</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -5239,8 +5313,9 @@
 			<pos norm="abbreviation">مخفف</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یهودیه</quote>
+				<quote>یهودیه</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -5321,8 +5396,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="plev">نادر</usg>
 			<cit type="trans">
-				<quote>(نادر) اطاعت طلب، کرنش‌خواه، با غیرت</quote>
+				<quote>اطاعت طلب، کرنش‌خواه، با غیرت</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">the Lord is a jealous God</quote>
@@ -5661,8 +5737,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) کاج جفری (Pinus jeffreyi – بومی کالیفرنیا و ارگان در آمریکا)</quote>
+				<quote>کاج جفری (Pinus jeffreyi – بومی کالیفرنیا و ارگان در آمریکا)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -5691,8 +5768,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یهوشافات (پادشاه یهودیه در سدهٔ نهم پیش از میلاد)</quote>
+				<quote>یهوشافات (پادشاه یهودیه در سدهٔ نهم پیش از میلاد)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -5749,13 +5827,15 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) ییهو (رانندهٔ بی محابای ارابه)</quote>
+				<quote>ییهو (رانندهٔ بی محابای ارابه)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="plev">نادر</usg>
 			<cit type="trans">
-				<quote>(نادر) کالسکه‌چی، درشکه‌چی</quote>
+				<quote>کالسکه‌چی، درشکه‌چی</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -5826,8 +5906,9 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">جراحی</usg>
 			<cit type="trans">
-				<quote>(جراحی) تهی روده برداری، ژژونوم برداری</quote>
+				<quote>تهی روده برداری، ژژونوم برداری</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -5843,8 +5924,9 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">جراحی</usg>
 			<cit type="trans">
-				<quote>(جراحی) سوراخ کردن رودهٔ تهی، تهی روده‌بری، ایجاد فیستول در ژژونوم</quote>
+				<quote>سوراخ کردن رودهٔ تهی، تهی روده‌بری، ایجاد فیستول در ژژونوم</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -5861,8 +5943,9 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">کالبدشناسی</usg>
 			<cit type="trans">
-				<quote>(کالبد‌شناسی) تهی روده، رودهٔ تهی (رجوع شود به: <ref>intestine</ref>)</quote>
+				<quote>تهی روده، رودهٔ تهی (رجوع شود به: <ref>intestine</ref>)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -5898,13 +5981,15 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">محلی</usg>
 			<cit type="trans">
-				<quote>(محلی) رجوع شود به: <ref>jelly</ref></quote>
+				<quote>رجوع شود به: <ref>jelly</ref></quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) شکل دادن به، شکل گرفتن (gel هم می‌نویسند)</quote>
+				<quote>شکل دادن به، شکل گرفتن (gel هم می‌نویسند)</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">I did not understand the story at all because its parts did not properly jell</quote>
@@ -5988,8 +6073,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">نام بازرگانی</usg>
 			<cit type="trans">
-				<quote>(نام بازرگانی) ژله، لرزانک (خوراکی)</quote>
+				<quote>ژله، لرزانک (خوراکی)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -6078,8 +6164,9 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانور‌شناسی) چتر دریایی، مدوز (ردهٔ Scyphozoa از cnidarian ها که بدنشان از مادهٔ ژله مانندی درست شده و در آب شناور است)</quote>
+				<quote>چتر دریایی، مدوز (ردهٔ Scyphozoa از cnidarian ها که بدنشان از مادهٔ ژله مانندی درست شده و در آب شناور است)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -6293,8 +6380,9 @@
 			<pos norm="transitive verb">فعل متعدی</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="plev">نادر</usg>
 			<cit type="trans">
-				<quote>(نادر) رجوع شود به: <ref>jeopardize</ref></quote>
+				<quote>رجوع شود به: <ref>jeopardize</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -6355,8 +6443,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">حقوق</usg>
 			<cit type="trans">
-				<quote>(حقوق) در معرض محکومیت و مجازات بودن</quote>
+				<quote>در معرض محکومیت و مجازات بودن</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -6368,8 +6457,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یفتاح</quote>
+				<quote>یفتاح</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -6385,8 +6475,9 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) چشم خروس (Abrus precatorius از خانوادهٔ pea)</quote>
+				<quote>چشم خروس (Abrus precatorius از خانوادهٔ pea)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -6405,8 +6496,9 @@
 			<pos norm="abbreviation">مخفف</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یریمای</quote>
+				<quote>یریمای</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -6459,8 +6551,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) ارمیا، ارمیای نبی (سده‌های 6 و 7 پیش از میلاد)</quote>
+				<quote>ارمیا، ارمیای نبی (سده‌های 6 و 7 پیش از میلاد)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -6628,8 +6721,9 @@
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* jerk (oneself) off</quote>
+				<usg type="reg">خودمانی – زننده</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(خودمانی – زننده) جلق زدن، استمنا کردن</quote>
+					<quote>جلق زدن، استمنا کردن</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -6699,8 +6793,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) کوچک، بی‌اهمیت</quote>
+				<quote>کوچک، بی‌اهمیت</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">a jerkwater village</quote>
@@ -6739,8 +6834,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) پست، نابکار، ناکس، سالوس</quote>
+				<quote>پست، نابکار، ناکس، سالوس</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -6765,8 +6861,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یربعام</quote>
+				<quote>یربعام</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -6910,8 +7007,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) سیب زمینی ترشی، یرالماسی (Helianthus tuberosus از خانوادهٔ composite)</quote>
+				<quote>سیب زمینی ترشی، یرالماسی (Helianthus tuberosus از خانوادهٔ composite)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -6934,8 +7032,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) فلفلک، گیلاس مجلسی، گیلاس اورشلیم (هر یک از این دو گیاه: Solanum pseudocapsicum و S. capsicastrum از خانوادهٔ nightshade که میوهٔ گیلاس مانند می‌دهد)</quote>
+				<quote>فلفلک، گیلاس مجلسی، گیلاس اورشلیم (هر یک از این دو گیاه: Solanum pseudocapsicum و S. capsicastrum از خانوادهٔ nightshade که میوهٔ گیلاس مانند می‌دهد)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -6946,8 +7045,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">حشره‌شناسی</usg>
 			<cit type="trans">
-				<quote>(حشره‌شناسی) زنجرهٔ اورشلیم (تیرهٔ Stenopelmatidae – بی‌بال و شاخدار – بومی نواحی خشک غرب آمریکا)</quote>
+				<quote>زنجرهٔ اورشلیم (تیرهٔ Stenopelmatidae – بی‌بال و شاخدار – بومی نواحی خشک غرب آمریکا)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -6958,8 +7058,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) بلوط اورشلیم (Chenopodium botrys – گیاه خوش بو از نوع goosefoot – در آمریکا و کانادا به صورت علف هرزه می‌روید)</quote>
+				<quote>بلوط اورشلیم (Chenopodium botrys – گیاه خوش بو از نوع goosefoot – در آمریکا و کانادا به صورت علف هرزه می‌روید)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -6970,8 +7071,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) درمان عقرب، درخت بابل، خار اورشلیم (Parkinsonia aculeata – بومی نواحی حارهٔ آمریکا – به عنوان پرچین یا دیواره به کار می‌رود)</quote>
+				<quote>درمان عقرب، درخت بابل، خار اورشلیم (Parkinsonia aculeata – بومی نواحی حارهٔ آمریکا – به عنوان پرچین یا دیواره به کار می‌رود)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -7058,8 +7160,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یسی (پدر حضرت داود)</quote>
+				<quote>یسی (پدر حضرت داود)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -7140,8 +7243,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="time">مهجور</usg>
 			<cit type="trans">
-				<quote>(مهجور) کار قابل توجه، شیرین کاری، کار بزرگ</quote>
+				<quote>کار قابل توجه، شیرین کاری، کار بزرگ</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -7205,8 +7309,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="time">قدیمی</usg>
 			<cit type="trans">
-				<quote>(قدیمی) عیسی</quote>
+				<quote>عیسی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -7405,8 +7510,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) سیاه سر (Rhodotypos tetrapetala از خانوادهٔ rose – بومی ژاپن)</quote>
+				<quote>سیاه سر (Rhodotypos tetrapetala از خانوادهٔ rose – بومی ژاپن)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -7659,8 +7765,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">معماری</usg>
 			<cit type="trans">
-				<quote>(معماری) سایبان یا بخش بیرون زده و آویختهٔ ساختمان، پیش‌آمدگی</quote>
+				<quote>سایبان یا بخش بیرون زده و آویختهٔ ساختمان، پیش‌آمدگی</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -7781,8 +7888,9 @@
 			<pos norm="transitive verb">فعل متعدی</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی – زننده</usg>
 			<cit type="trans">
-				<quote>(خودمانی – زننده) کلاهبرداری کردن، دغل‌کاری کردن، گول زدن</quote>
+				<quote>کلاهبرداری کردن، دغل‌کاری کردن، گول زدن</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* jew someone down</quote>
@@ -7960,8 +8068,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) گل حنای زرد (جنس Impatiens از خانوادهٔ balsam)</quote>
+				<quote>گل حنای زرد (جنس Impatiens از خانوادهٔ balsam)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -7976,8 +8085,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="plev">نادر</usg>
 			<cit type="trans">
-				<quote>(نادر) زن یهودی، زن جهود</quote>
+				<quote>زن یهودی، زن جهود</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -8006,8 +8116,9 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانور‌شناسی) نام عامیانهٔ انواع ماهی‌های درشت آب‌های گرمسیر (به ویژه آب‌های ایالت فلوریدا – آمریکا)</quote>
+				<quote>نام عامیانهٔ انواع ماهی‌های درشت آب‌های گرمسیر (به ویژه آب‌های ایالت فلوریدا – آمریکا)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -8046,8 +8157,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) رجوع شود به: <ref>Yiddish</ref></quote>
+				<quote>رجوع شود به: <ref>Yiddish</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -8075,8 +8187,9 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="time">در سابق</usg>
 			<cit type="trans">
-				<quote>(در سابق) محلهٔ یهودیان (ghetto هم می‌گویند)</quote>
+				<quote>محلهٔ یهودیان (ghetto هم می‌گویند)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -8091,8 +8204,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="time">مهجور</usg>
 			<cit type="trans">
-				<quote>(مهجور) رجوع شود به: <ref>Judea</ref></quote>
+				<quote>رجوع شود به: <ref>Judea</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -8124,8 +8238,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) ایزابل (زن بدجنسی که با اخاب پادشاه اسرائیل ازدواج کرد)</quote>
+				<quote>ایزابل (زن بدجنسی که با اخاب پادشاه اسرائیل ازدواج کرد)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -8163,8 +8278,9 @@
 			<pos norm="abbreviation">مخفف</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) سفر داوران</quote>
+				<quote>سفر داوران</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -8288,8 +8404,9 @@
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* cut of one's jib</quote>
+				<usg type="reg">عامیانه</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(عامیانه) ظاهر شخص، طرز لباس پوشیدن</quote>
+					<quote>ظاهر شخص، طرز لباس پوشیدن</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -8367,8 +8484,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) با هم توافق داشتن، با هم خواندن</quote>
+				<quote>با هم توافق داشتن، با هم خواندن</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">these accounts don't jibe</quote>
@@ -8497,14 +8615,16 @@
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* in jig time</quote>
+				<usg type="reg">عامیانه</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(عامیانه) به سرعت، به تندی، در زمان کوتاه</quote>
+					<quote>به سرعت، به تندی، در زمان کوتاه</quote>
 				</cit>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* the jig is up</quote>
+				<usg type="reg">خودمانی</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(خودمانی) دیگر بس است، بیش از این اجازه نمی‌دهم، تا اینجا بس!، ممه را لولو برد!</quote>
+					<quote>دیگر بس است، بیش از این اجازه نمی‌دهم، تا اینجا بس!، ممه را لولو برد!</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -8565,13 +8685,15 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">کشتی</usg>
 			<cit type="trans">
-				<quote>(کشتی) دیرک و طناب (که با آن چیز بلند می‌کنند)، بار بردار</quote>
+				<quote>دیرک و طناب (که با آن چیز بلند می‌کنند)، بار بردار</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">کشتی</usg>
 			<cit type="trans">
-				<quote>(کشتی) بادبان عقب کشتی</quote>
+				<quote>بادبان عقب کشتی</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -8708,8 +8830,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="style">مجازی</usg>
 			<cit type="trans">
-				<quote>(مجازی) معما</quote>
+				<quote>معما</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -8774,8 +8897,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) عدد بسیار بزرگ، کرور، هزاران هزار</quote>
+				<quote>عدد بسیار بزرگ، کرور، هزاران هزار</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -8802,8 +8926,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="plev">نادر</usg>
 			<cit type="trans">
-				<quote>(نادر) زن جفا پیشه، زن عهد شکن</quote>
+				<quote>زن جفا پیشه، زن عهد شکن</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -8830,8 +8955,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) تبعیض نژادی، وابسته به پست شماری سیاهان</quote>
+				<quote>تبعیض نژادی، وابسته به پست شماری سیاهان</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -8942,8 +9068,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) قیاق (Datura stramonium از خانوادهٔ nightshade که زهرین است و برگ‌های بد بو و میوهٔ تیغ دار و گل‌های شیپوری دارد) (jimpson weed هم می‌گویند)</quote>
+				<quote>قیاق (Datura stramonium از خانوادهٔ nightshade که زهرین است و برگ‌های بد بو و میوهٔ تیغ دار و گل‌های شیپوری دارد) (jimpson weed هم می‌گویند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -9151,8 +9278,9 @@
 			<pos norm="transitive verb">فعل متعدی</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) شخص یا چیزی که موجب بدبیاری می‌شود، شوم</quote>
+				<quote>شخص یا چیزی که موجب بدبیاری می‌شود، شوم</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -9208,8 +9336,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) حپه حاپا (Carludovica palmata از تیرهٔ Cyclanthaceae از راستهٔ Cyclanthales – تک لپه‌ای – از برگ‌های آن کلاه سبدی و غیره می‌سازند)</quote>
+				<quote>حپه حاپا (Carludovica palmata از تیرهٔ Cyclanthaceae از راستهٔ Cyclanthales – تک لپه‌ای – از برگ‌های آن کلاه سبدی و غیره می‌سازند)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -9229,8 +9358,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی – زننده</usg>
 			<cit type="trans">
-				<quote>(خودمانی – زننده) منی</quote>
+				<quote>منی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -9272,8 +9402,9 @@
 			<pos norm="intransitive verb">فعل لازم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) عصبی بودن، دلهره داشتن، ترس و لرز داشتن، لرزیدن</quote>
+				<quote>عصبی بودن، دلهره داشتن، ترس و لرز داشتن، لرزیدن</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">he was jittering with fright</quote>
@@ -9283,8 +9414,9 @@
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* the jitters</quote>
+				<usg type="reg">عامیانه</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(عامیانه) دلهره، ترس و لرز، لرزه، دلشوره</quote>
+					<quote>دلهره، ترس و لرز، لرزه، دلشوره</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -9333,9 +9465,7 @@
 			<pos norm="adjective">صفت</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(عامیانه)</quote>
-			</cit>
+			<usg type="reg">عامیانه</usg>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
@@ -9460,8 +9590,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یوئیل</quote>
+				<quote>یوئیل</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -9475,8 +9606,9 @@
 			<pos norm="abbreviation">مخفف</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یوحنا</quote>
+				<quote>یوحنا</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -9490,8 +9622,9 @@
 			<pos norm="abbreviation">مخفف</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یوحنا</quote>
+				<quote>یوحنا</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -9522,9 +9655,7 @@
 			<pos norm="abbreviation">مخفف</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(انجیل)</quote>
-			</cit>
+			<usg type="dom">انجیل</usg>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
@@ -9545,8 +9676,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یوآب (فرمانده قشون داود)</quote>
+				<quote>یوآب (فرمانده قشون داود)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -9610,9 +9742,7 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(انجیل)</quote>
-			</cit>
+			<usg type="dom">انجیل</usg>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
@@ -9684,8 +9814,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) تبهکاری، سرقت، کار خلاف</quote>
+				<quote>تبهکاری، سرقت، کار خلاف</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">the gang that pulled the bank job</quote>
@@ -9695,8 +9826,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) قضیه، رویداد، موضوع، ماجرا، چیز</quote>
+				<quote>قضیه، رویداد، موضوع، ماجرا، چیز</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">I held the job and he hammered it</quote>
@@ -9912,8 +10044,9 @@
 			<pos norm="intransitive verb">فعل لازم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="reg">محلی</usg>
 			<cit type="trans">
-				<quote>(محلی) رجوع شود به: <ref>jab</ref></quote>
+				<quote>رجوع شود به: <ref>jab</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -10109,8 +10242,9 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) اشک ایوب، دمع ایوب (Coix lacryma-jobi – علف سالیانهٔ نواحی حاره که دانهٔ آن خوراکی است)</quote>
+				<quote>اشک ایوب، دمع ایوب (Coix lacryma-jobi – علف سالیانهٔ نواحی حاره که دانهٔ آن خوراکی است)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -10155,8 +10289,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) ورزشکار (مرد)</quote>
+				<quote>ورزشکار (مرد)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -10175,8 +10310,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) رجوع شود به: <ref>disc jockey</ref></quote>
+				<quote>رجوع شود به: <ref>disc jockey</ref></quote>
 			</cit>
 		</sense>
 	</sense>
@@ -10191,8 +10327,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) سوارکار (زن)</quote>
+				<quote>سوارکار (زن)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -10300,8 +10437,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">پزشکی</usg>
 			<cit type="trans">
-				<quote>(پزشکی) خارش کشال، خارش میان پاها (که اغلب ورزشکاران به آن مبتلا می‌شوند – نام پزشکی آن: tinea cruris)</quote>
+				<quote>خارش کشال، خارش میان پاها (که اغلب ورزشکاران به آن مبتلا می‌شوند – نام پزشکی آن: tinea cruris)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -10472,8 +10610,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="time">سابقا</usg>
 			<cit type="trans">
-				<quote>(سابقا) ایالت جادپور</quote>
+				<quote>ایالت جادپور</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -10520,9 +10659,7 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(خودمانی)</quote>
-			</cit>
+			<usg type="reg">خودمانی</usg>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
@@ -10545,8 +10682,9 @@
 			<pos norm="abbreviation">مخفف</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یوئیل</quote>
+				<quote>یوئیل</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -10557,9 +10695,7 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(خودمانی)</quote>
-			</cit>
+			<usg type="reg">خودمانی</usg>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
@@ -10598,8 +10734,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یوئیل</quote>
+				<quote>یوئیل</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -10616,8 +10753,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) علف تب‌بر (انواع گیاهان چندسالهٔ آمریکایی از جنس Eupatorium از خانوادهٔ composite)</quote>
+				<quote>علف تب‌بر (انواع گیاهان چندسالهٔ آمریکایی از جنس Eupatorium از خانوادهٔ composite)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -10824,8 +10962,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">ورزش</usg>
 			<cit type="trans">
-				<quote>(ورزش) دو (با قدم آهسته)، دویدن، یورتمه</quote>
+				<quote>دو (با قدم آهسته)، دویدن، یورتمه</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -10992,9 +11131,7 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(خودمانی)</quote>
-			</cit>
+			<usg type="reg">خودمانی</usg>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
@@ -11025,8 +11162,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یوحنا (یکی از حواریون عیسی)، یحیی</quote>
+				<quote>یوحنا (یکی از حواریون عیسی)، یحیی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11093,8 +11231,9 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانورشناسی) ماهی پشت‌طلایی (نام کلی چندین گونه ماهی خوراکی اروپایی از راستهٔ Zeiformes به ویژه Zeus faber و conchifera Zenopsis)</quote>
+				<quote>ماهی پشت‌طلایی (نام کلی چندین گونه ماهی خوراکی اروپایی از راستهٔ Zeiformes به ویژه Zeus faber و conchifera Zenopsis)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11110,8 +11249,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) امضا</quote>
+				<quote>امضا</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11122,8 +11262,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) امضا</quote>
+				<quote>امضا</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11177,8 +11318,10 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="geo">انگلیس</usg>
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(انگلیس – خودمانی) کاپوت</quote>
+				<quote>کاپوت</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11240,8 +11383,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) انواع گل بنفشه‌های آمریکایی</quote>
+				<quote>انواع گل بنفشه‌های آمریکایی</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -11262,8 +11406,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) آدم آماده به خدمتگزاری، آدم در دسترس، خدمتکار، چاکر (Johnny-on-the-spot هم می‌نویسند)</quote>
+				<quote>آدم آماده به خدمتگزاری، آدم در دسترس، خدمتکار، چاکر (Johnny-on-the-spot هم می‌نویسند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11374,8 +11519,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) جانسون گراس (سورگوم علوفه‌ای به نام Sorghum halepense که در جنوب ایالات متحده فراوان یافت می‌شود)</quote>
+				<quote>جانسون گراس (سورگوم علوفه‌ای به نام Sorghum halepense که در جنوب ایالات متحده فراوان یافت می‌شود)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11414,8 +11560,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یحیی تعمیددهنده</quote>
+				<quote>یحیی تعمیددهنده</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11526,8 +11673,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) رجوع شود به: <ref>adjoin</ref></quote>
+				<quote>رجوع شود به: <ref>adjoin</ref></quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -11616,8 +11764,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">حقوق</usg>
 			<cit type="trans">
-				<quote>(حقوق) ادعای مشترک، اتحاد شاکیان یا متهمان، تلفیق روش‌ها</quote>
+				<quote>ادعای مشترک، اتحاد شاکیان یا متهمان، تلفیق روش‌ها</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11642,8 +11791,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) ویژه‌گر ادغام شرکت‌ها و سازمان‌ها</quote>
+				<quote>ویژه‌گر ادغام شرکت‌ها و سازمان‌ها</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -11681,8 +11831,9 @@
 			<pos norm="transitive verb">فعل متعدی</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">کالبدشناسی</usg>
 			<cit type="trans">
-				<quote>(کالبدشناسی) مفصل، بند</quote>
+				<quote>مفصل، بند</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">the joints of the finger</quote>
@@ -11754,8 +11905,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) میخانهٔ ارزان و محقر</quote>
+				<quote>میخانهٔ ارزان و محقر</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">each night he visits a different joint</quote>
@@ -11765,8 +11917,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) خانه، ساختمان، مکان</quote>
+				<quote>خانه، ساختمان، مکان</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">come on over to my joint</quote>
@@ -11787,8 +11940,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">زمین‌شناسی</usg>
 			<cit type="trans">
-				<quote>(زمین‌شناسی) درزه</quote>
+				<quote>درزه</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -11973,8 +12127,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">بنایی</usg>
 			<cit type="trans">
-				<quote>(بنایی) مالهٔ بندکشی</quote>
+				<quote>مالهٔ بندکشی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -12023,8 +12178,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">حقوق</usg>
 			<cit type="trans">
-				<quote>(حقوق) زنی که وارث بخشی از املاک شوهرش است</quote>
+				<quote>زنی که وارث بخشی از املاک شوهرش است</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -12076,13 +12232,15 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="plev">نادر</usg>
 			<cit type="trans">
-				<quote>(نادر) متصل‌سازی، همبندسازی، همبست‌گری، همبندگری</quote>
+				<quote>متصل‌سازی، همبندسازی، همبست‌گری، همبندگری</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="time">مهجور</usg>
 			<cit type="trans">
-				<quote>(مهجور) مالکیت مشترک ملک</quote>
+				<quote>مالکیت مشترک ملک</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -12102,8 +12260,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) شیشه‌شور مردابی، دم قاطری، علف گره‌دار (Polygonella articulata از خانوادهٔ buckwheat)</quote>
+				<quote>شیشه‌شور مردابی، دم قاطری، علف گره‌دار (Polygonella articulata از خانوادهٔ buckwheat)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -12118,8 +12277,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانورشناسی) کرم گندم (جنس Harmolita تیرهٔ Eurytomidae)</quote>
+				<quote>کرم گندم (جنس Harmolita تیرهٔ Eurytomidae)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -12151,8 +12311,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) جوجوبا، هوهوبه (Simmondsia californica از خانوادهٔ box که صحرا زی و همیشه سبز و بومی مکزیک و جنوب شرقی ایالات متحده است و از دانهٔ آن یا jojoba bean نوعی موم به نام jojoba oil می‌گیرند که در ساختن مواد آرایشی و صنعتی کاربرد دارد)</quote>
+				<quote>جوجوبا، هوهوبه (Simmondsia californica از خانوادهٔ box که صحرا زی و همیشه سبز و بومی مکزیک و جنوب شرقی ایالات متحده است و از دانهٔ آن یا jojoba bean نوعی موم به نام jojoba oil می‌گیرند که در ساختن مواد آرایشی و صنعتی کاربرد دارد)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -12267,8 +12428,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="plev">نادر</usg>
 			<cit type="trans">
-				<quote>(نادر) دست انداختن، مضحکه کردن، مچل کردن، مسخره کردن، مورد تمسخر قرار دادن</quote>
+				<quote>دست انداختن، مضحکه کردن، مچل کردن، مسخره کردن، مورد تمسخر قرار دادن</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -12332,8 +12494,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) آدم، کس، شخص (به‌ویژه اگر درخور تحقیر یا تمسخر باشد)، دلقک</quote>
+				<quote>آدم، کس، شخص (به‌ویژه اگر درخور تحقیر یا تمسخر باشد)، دلقک</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">who is the joker who has left behind his wallet?</quote>
@@ -12419,8 +12582,9 @@
 			<pos norm="intransitive verb">فعل لازم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) شاد بودن یا کردن، شوخ‌دل کردن یا بودن، شنگول کردن یا شدن</quote>
+				<quote>شاد بودن یا کردن، شوخ‌دل کردن یا بودن، شنگول کردن یا شدن</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">a little music to jollify the party</quote>
@@ -12486,8 +12650,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) خوشایند، لذت‌بخش، دلچسب، دلپذیر، مطبوع، طرب‌انگیز، نشاط آور</quote>
+				<quote>خوشایند، لذت‌بخش، دلچسب، دلپذیر، مطبوع، طرب‌انگیز، نشاط آور</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">we had a jolly time!</quote>
@@ -12497,8 +12662,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) خیلی، بسیار، کاملا</quote>
+				<quote>خیلی، بسیار، کاملا</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">jolly good!</quote>
@@ -12530,8 +12696,9 @@
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* get one's jollies</quote>
+				<usg type="reg">خودمانی</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(خودمانی) خوش بودن، لذت بردن</quote>
+					<quote>خوش بودن، لذت بردن</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -12702,8 +12869,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) مقدار کم ولی موثری از برخی چیزها: کمی مشروب، هوای تازه، عطر (و غیره)</quote>
+				<quote>مقدار کم ولی موثری از برخی چیزها: کمی مشروب، هوای تازه، عطر (و غیره)</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">he poured me a jolt of brandy</quote>
@@ -12732,8 +12900,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یونس، کتاب یونس (مخفف آن: Jon)</quote>
+				<quote>یونس، کتاب یونس (مخفف آن: Jon)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -12749,8 +12918,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانورشناسی) خرچنگ یونس (Cancer borealis – خرچنگ درشت و خوراکی سواحل شمال شرق آمریکای شمالی)</quote>
+				<quote>خرچنگ یونس (Cancer borealis – خرچنگ درشت و خوراکی سواحل شمال شرق آمریکای شمالی)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -12770,8 +12940,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یوناتان</quote>
+				<quote>یوناتان</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -12796,9 +12967,7 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(خودمانی)</quote>
-			</cit>
+			<usg type="reg">خودمانی</usg>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
@@ -12839,9 +13008,7 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(گیاه‌شناسی)</quote>
-			</cit>
+			<usg type="dom">گیاه‌شناسی</usg>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
@@ -12854,8 +13021,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) نرگس</quote>
+				<quote>نرگس</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -12952,9 +13120,7 @@
 			<pos norm="abbreviation">مخفف</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(انجیل)</quote>
-			</cit>
+			<usg type="dom">انجیل</usg>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
@@ -12989,13 +13155,15 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یوسف (یازدهمین پسر حضرت یعقوب)</quote>
+				<quote>یوسف (یازدهمین پسر حضرت یعقوب)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یوسف نجار (شوهر حضرت مریم)</quote>
+				<quote>یوسف نجار (شوهر حضرت مریم)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -13030,8 +13198,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یوسف اراماته (پیرو ثروتمند عیسی که هزینهٔ قبر او را داد)</quote>
+				<quote>یوسف اراماته (پیرو ثروتمند عیسی که هزینهٔ قبر او را داد)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -13042,8 +13211,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) حسن یوسف (نوعی تاج‌خروس به نام Amaranthus tricolor)</quote>
+				<quote>حسن یوسف (نوعی تاج‌خروس به نام Amaranthus tricolor)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -13092,8 +13262,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) شوخی، گواژ، لاغ</quote>
+				<quote>شوخی، گواژ، لاغ</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -13111,8 +13282,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یوشع، کتاب یوشع (مخفف: Josh یا Jos)</quote>
+				<quote>یوشع، کتاب یوشع (مخفف: Josh یا Jos)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -13123,8 +13295,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) درخت یوشع (Yucca brevifolia از خانوادهٔ agave – بومی جنوب غربی ایالات متحده)</quote>
+				<quote>درخت یوشع (Yucca brevifolia از خانوادهٔ agave – بومی جنوب غربی ایالات متحده)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -13137,8 +13310,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یوشیا</quote>
+				<quote>یوشیا</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -13387,8 +13561,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">فیزیک</usg>
 			<cit type="trans">
-				<quote>(فیزیک) ژول (واحد کار و نیرو در دستگاه MKS)</quote>
+				<quote>ژول (واحد کار و نیرو در دستگاه MKS)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -13525,8 +13700,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">مکانیک</usg>
 			<cit type="trans">
-				<quote>(مکانیک) سر محور، یاتاقان گرد، محور یاتاقان</quote>
+				<quote>سر محور، یاتاقان گرد، محور یاتاقان</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -13542,8 +13718,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">مکانیک</usg>
 			<cit type="trans">
-				<quote>(مکانیک) یاتاقان</quote>
+				<quote>یاتاقان</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -13731,8 +13908,9 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="hint">در اصل</usg>
 			<cit type="trans">
-				<quote>(در اصل) کارگر روزمزد</quote>
+				<quote>کارگر روزمزد</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -13895,8 +14073,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="gram">معمولا جمع</usg>
 			<cit type="trans">
-				<quote>(معمولا جمع) غبغب (انسان و حیوان) (غبغب حیوان را dewlap هم می‌گویند)</quote>
+				<quote>غبغب (انسان و حیوان) (غبغب حیوان را dewlap هم می‌گویند)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -13968,8 +14147,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="time">قدیمی</usg>
 			<cit type="trans">
-				<quote>(قدیمی) لذت بردن</quote>
+				<quote>لذت بردن</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -13984,8 +14164,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="time">قدیمی</usg>
 			<cit type="trans">
-				<quote>(قدیمی) خوشی، مسرت، شادمانی</quote>
+				<quote>خوشی، مسرت، شادمانی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14088,8 +14269,9 @@
 			<pos norm="intransitive verb">فعل لازم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) مواد مخدر را به صورت آمپول تزریق کردن</quote>
+				<quote>مواد مخدر را به صورت آمپول تزریق کردن</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14100,8 +14282,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) گردش با اتومبیل (به‌ویژه با اتومبیل سرقت شده)</quote>
+				<quote>گردش با اتومبیل (به‌ویژه با اتومبیل سرقت شده)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14116,13 +14299,15 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) فرمان هواپیما</quote>
+				<quote>فرمان هواپیما</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">کامپیوتر</usg>
 			<cit type="trans">
-				<quote>(کامپیوتر) دستهٔ بازی</quote>
+				<quote>دستهٔ بازی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14136,8 +14321,9 @@
 			<pos norm="abbreviation">مخفف</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">حقوق</usg>
 			<cit type="trans">
-				<quote>(حقوق) امین صلح</quote>
+				<quote>امین صلح</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14315,8 +14501,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یوبال</quote>
+				<quote>یوبال</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14416,8 +14603,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) سرود شادمانی (در کتاب مزامیر داود)</quote>
+				<quote>سرود شادمانی (در کتاب مزامیر داود)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14485,8 +14673,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">کلیسای کاتولیک</usg>
 			<cit type="trans">
-				<quote>(کلیسای کاتولیک) سال توبه و بخشایش گناهان (که توسط کلیسا تعیین و اعلام می‌شود- اگر 25 سال یک بار باشد آن را ordinary jubilee می‌نامند)</quote>
+				<quote>سال توبه و بخشایش گناهان (که توسط کلیسا تعیین و اعلام می‌شود- اگر 25 سال یک بار باشد آن را ordinary jubilee می‌نامند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14505,13 +14694,15 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) سفر داوران</quote>
+				<quote>سفر داوران</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یهودیه</quote>
+				<quote>یهودیه</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14528,13 +14719,15 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یهودا (پسر چهارم یعقوب)، نام ایل و تبار او</quote>
+				<quote>یهودا (پسر چهارم یعقوب)، نام ایل و تبار او</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) کشور یهودیه</quote>
+				<quote>کشور یهودیه</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14638,18 +14831,21 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یهودای اسخریوطی (که به عیسی خیانت کرد)</quote>
+				<quote>یهودای اسخریوطی (که به عیسی خیانت کرد)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یهودای نبی</quote>
+				<quote>یهودای نبی</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یهودا (برادر حضرت عیسی)</quote>
+				<quote>یهودا (برادر حضرت عیسی)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -14665,8 +14861,9 @@
 	</sense>
 	<sense n="2" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یهودای نبی</quote>
+				<quote>یهودای نبی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14723,8 +14920,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) یهودای نبی، یهودای مقدس (یکی از حواریون عیسی)</quote>
+				<quote>یهودای نبی، یهودای مقدس (یکی از حواریون عیسی)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -14795,8 +14993,9 @@
 			<pos norm="abbreviation">مخفف</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) سفر داوران</quote>
+				<quote>سفر داوران</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -14965,8 +15164,9 @@
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* judge not, that ye be not judged</quote>
+				<usg type="dom">انجیل</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(انجیل) دربارهٔ دیگران قضاوت نکن تا خودت مورد قضاوت قرار نگیری</quote>
+					<quote>دربارهٔ دیگران قضاوت نکن تا خودت مورد قضاوت قرار نگیری</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -15025,8 +15225,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) کتاب داوران، سفر داوران</quote>
+				<quote>کتاب داوران، سفر داوران</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -15062,8 +15263,9 @@
 			<pos norm="adjective">صفت</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) روشن‌بینانه، بابصیرت، قاضی‌وار، کادیک‌وار، عاقلانه (judgmatical هم می‌گویند)</quote>
+				<quote>روشن‌بینانه، بابصیرت، قاضی‌وار، کادیک‌وار، عاقلانه (judgmatical هم می‌گویند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15167,8 +15369,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">انجیل</usg>
 			<cit type="trans">
-				<quote>(انجیل) عدالت، دادگری، حق</quote>
+				<quote>عدالت، دادگری، حق</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -15485,8 +15688,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="lang">ژاپنی</usg>
 			<cit type="trans">
-				<quote>(ژاپنی) جودو (ورزشی که از جوجیتسو مشتق شده است)</quote>
+				<quote>جودو (ورزشی که از جوجیتسو مشتق شده است)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15501,8 +15705,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="lang">ژاپنی</usg>
 			<cit type="trans">
-				<quote>(ژاپنی) خبره در جودو، ورزشکار جودو، جودوکار</quote>
+				<quote>خبره در جودو، ورزشکار جودو، جودوکار</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15569,13 +15774,15 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) زندان، هلفدانی</quote>
+				<quote>زندان، هلفدانی</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) یک بطری ویسکی</quote>
+				<quote>یک بطری ویسکی</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -15589,8 +15796,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) زندانی کردن، تو هلفدانی کردن</quote>
+				<quote>زندانی کردن، تو هلفدانی کردن</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15605,8 +15813,9 @@
 			<pos norm="adjective">صفت</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">کالبدشناسی</usg>
 			<cit type="trans">
-				<quote>(کالبدشناسی) وابسته به استخوان گونه، گونه‌ای</quote>
+				<quote>وابسته به استخوان گونه، گونه‌ای</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15622,8 +15831,9 @@
 			<pos norm="adjective">صفت</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">زیست‌شناسی</usg>
 			<cit type="trans">
-				<quote>(زیست‌شناسی) جفتی، دوتایی، دوگانه</quote>
+				<quote>جفتی، دوتایی، دوگانه</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15634,8 +15844,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">موسیقی جاز</usg>
 			<cit type="trans">
-				<quote>(موسیقی جاز) دستهٔ کوچک، ارکستر کوچک</quote>
+				<quote>دستهٔ کوچک، ارکستر کوچک</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15746,8 +15957,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) کله‌خر، احمق، پخمه</quote>
+				<quote>کله‌خر، احمق، پخمه</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15779,8 +15991,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">کالبدشناسی</usg>
 			<cit type="trans">
-				<quote>(کالبدشناسی) سیاهرگ گردن، وداج، ورید وداجی</quote>
+				<quote>سیاهرگ گردن، وداج، ورید وداجی</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -15789,13 +16002,15 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانورشناسی) وابسته به یا دارای بالهٔ زیرگلویی</quote>
+				<quote>وابسته به یا دارای بالهٔ زیرگلویی</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* go for the jugular</quote>
+				<usg type="reg">عامیانه</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(عامیانه) با شقاوت رفتار کردن، به قصد جان زدن یا حمله کردن و غیره</quote>
+					<quote>با شقاوت رفتار کردن، به قصد جان زدن یا حمله کردن و غیره</quote>
 				</cit>
 			</cit>
 		</sense>
@@ -15807,8 +16022,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">کالبدشناسی</usg>
 			<cit type="trans">
-				<quote>(کالبدشناسی) سیاهرگ گردن، وداج، ورید وداجی، رگ جان، جانرگ</quote>
+				<quote>سیاهرگ گردن، وداج، ورید وداجی، رگ جان، جانرگ</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15824,13 +16040,15 @@
 			<pos norm="transitive verb">فعل متعدی</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="plev">نادر</usg>
 			<cit type="trans">
-				<quote>(نادر) سرکسی را بریدن</quote>
+				<quote>سرکسی را بریدن</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">پزشکی</usg>
 			<cit type="trans">
-				<quote>(پزشکی) برای درمان به اقدامات شدید دست زدن</quote>
+				<quote>برای درمان به اقدامات شدید دست زدن</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15846,8 +16064,9 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">حشره‌شناسی</usg>
 			<cit type="trans">
-				<quote>(حشره‌شناسی) یوغ، بال‌بند</quote>
+				<quote>یوغ، بال‌بند</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -15946,8 +16165,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) برق</quote>
+				<quote>برق</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">there is no juice in this wire</quote>
@@ -15957,8 +16177,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) بنزین، روغن (هرگونه سوخت آبگونه)</quote>
+				<quote>بنزین، روغن (هرگونه سوخت آبگونه)</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">half way to Kashan our car ran out of juice</quote>
@@ -15978,8 +16199,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) نفوذ، قدرت</quote>
+				<quote>نفوذ، قدرت</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -15988,8 +16210,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) مشروب الکلی خوردن (به افراط)</quote>
+				<quote>مشروب الکلی خوردن (به افراط)</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* juice up</quote>
@@ -16058,8 +16281,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) جالب، گیرا، پرآب و تاب</quote>
+				<quote>جالب، گیرا، پرآب و تاب</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">a juicy story</quote>
@@ -16069,8 +16293,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) پرنان و آب، پرسود</quote>
+				<quote>پرنان و آب، پرسود</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">a juicy contract</quote>
@@ -16091,8 +16316,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="lang">ژاپنی</usg>
 			<cit type="trans">
-				<quote>(ژاپنی) جوجیتسو (روش کشتی‌گیری ژاپنی)</quote>
+				<quote>جوجیتسو (روش کشتی‌گیری ژاپنی)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -16124,8 +16350,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) رملیک، کنار، درخت عناب (جنس Zizyphus از خانوادهٔ buckthorn)</quote>
+				<quote>رملیک، کنار، درخت عناب (جنس Zizyphus از خانوادهٔ buckthorn)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -16681,8 +16908,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) سرزنده بودن، (مهمانی و غیره) گرم بودن</quote>
+				<quote>سرزنده بودن، (مهمانی و غیره) گرم بودن</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">the party was jumping</quote>
@@ -16692,8 +16920,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">کامپیوتر</usg>
 			<cit type="trans">
-				<quote>(کامپیوتر) جهش، جهیدن</quote>
+				<quote>جهش، جهیدن</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">jump instruction</quote>
@@ -16891,8 +17120,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">ورزش</usg>
 			<cit type="trans">
-				<quote>(ورزش) پرش</quote>
+				<quote>پرش</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">the long jump</quote>
@@ -16945,8 +17175,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">موسیقی جاز</usg>
 			<cit type="trans">
-				<quote>(موسیقی جاز) جاز تند و دارای رنگ مکرر، جامپ</quote>
+				<quote>جاز تند و دارای رنگ مکرر، جامپ</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -16971,8 +17202,9 @@
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* get (or have) the jump on</quote>
+				<usg type="reg">خودمانی</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(خودمانی) از دیگری (یا دیگران) جلو زدن (از)، سبقت گرفتن (از)، پیشدستی کردن</quote>
+					<quote>از دیگری (یا دیگران) جلو زدن (از)، سبقت گرفتن (از)، پیشدستی کردن</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -16995,14 +17227,16 @@
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* jump bail</quote>
+				<usg type="dom">حقوق</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(حقوق) به قید کفیل آزاد شدن و فرار کردن</quote>
+					<quote>به قید کفیل آزاد شدن و فرار کردن</quote>
 				</cit>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* jump down someone's throat</quote>
+				<usg type="reg">عامیانه</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(عامیانه) با خشم و سرزنش با کسی حرف زدن، به کسی پریدن</quote>
+					<quote>با خشم و سرزنش با کسی حرف زدن، به کسی پریدن</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -17043,14 +17277,16 @@
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* jump on (or all over)</quote>
+				<usg type="reg">خودمانی</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(خودمانی) سخت سرزنش کردن، سرکوفت زدن</quote>
+					<quote>سخت سرزنش کردن، سرکوفت زدن</quote>
 				</cit>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* jump out at</quote>
+				<usg type="reg">عامیانه</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(عامیانه) تو چشم زدن، چشمگیر بودن</quote>
+					<quote>تو چشم زدن، چشمگیر بودن</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -17073,8 +17309,9 @@
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* on the jump</quote>
+				<usg type="reg">عامیانه</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(عامیانه) به شدت در تحرک یا فعالیت</quote>
+					<quote>به شدت در تحرک یا فعالیت</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -17173,8 +17410,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">معدن</usg>
 			<cit type="trans">
-				<quote>(معدن) متهٔ چکشی، متهٔ جهنده</quote>
+				<quote>متهٔ چکشی، متهٔ جهنده</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17244,8 +17482,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">ورزش</usg>
 			<cit type="trans">
-				<quote>(ورزش) جهش عمودی و به هم زدن دست‌ها و پاها</quote>
+				<quote>جهش عمودی و به هم زدن دست‌ها و پاها</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17256,8 +17495,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانورشناسی) موش زمستان خواب، موش جهنده (تیرهٔ Zapodidae)</quote>
+				<quote>موش زمستان خواب، موش جهنده (تیرهٔ Zapodidae)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17430,8 +17670,9 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانورشناسی) جونکو (جنس Junco از تیرهٔ Emberizidae – از پرندگان مهاجر آمریکای شمالی)</quote>
+				<quote>جونکو (جنس Junco از تیرهٔ Emberizidae – از پرندگان مهاجر آمریکای شمالی)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17551,8 +17792,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">زبان‌شناسی</usg>
 			<cit type="trans">
-				<quote>(زبان‌شناسی) درنگ، مکث، فاصله</quote>
+				<quote>درنگ، مکث، فاصله</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">juncture phoneme</quote>
@@ -17608,8 +17850,9 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) زالزالک وحشی (گیاهان جنس Amelanchier از خانوادهٔ rose که گل‌های سفید می‌دهند)</quote>
+				<quote>زالزالک وحشی (گیاهان جنس Amelanchier از خانوادهٔ rose که گل‌های سفید می‌دهند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17620,9 +17863,7 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(حشره‌شناسی)</quote>
-			</cit>
+			<usg type="dom">حشره‌شناسی</usg>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
@@ -17726,8 +17967,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">پزشکی</usg>
 			<cit type="trans">
-				<quote>(پزشکی) تب جنگل (انواع بیماری‌های نواحی حاره به‌ویژه مالاریای آسیای جنوب خاوری)</quote>
+				<quote>تب جنگل (انواع بیماری‌های نواحی حاره به‌ویژه مالاریای آسیای جنوب خاوری)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -17738,8 +17980,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانورشناسی) مرغ جنگل (انواع ماکیان جنس Gallus از تیرهٔ Phasianidae که بومی آسیا بوده و یک نوع هندی آنان به نام Gallus gallus تبار مرغ و خروس خانگی محسوب می‌شود)</quote>
+				<quote>مرغ جنگل (انواع ماکیان جنس Gallus از تیرهٔ Phasianidae که بومی آسیا بوده و یک نوع هندی آنان به نام Gallus gallus تبار مرغ و خروس خانگی محسوب می‌شود)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -18053,8 +18296,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) ارس، پیرو، اربس، (درختان و بته‌های همیشه‌سبز از جنس Juniperus و خانوادهٔ cypress که چوب خوشبو دارند و روغنی که از کاج‌های آنها گرفته می‌شود کاربرد دارویی و غیره دارد)</quote>
+				<quote>ارس، پیرو، اربس، (درختان و بته‌های همیشه‌سبز از جنس Juniperus و خانوادهٔ cypress که چوب خوشبو دارند و روغنی که از کاج‌های آنها گرفته می‌شود کاربرد دارویی و غیره دارد)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -18075,8 +18319,9 @@
 			<pos norm="transitive verb">فعل متعدی</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="hint">در اصل</usg>
 			<cit type="trans">
-				<quote>(در اصل) طناب کهنه (که سابقا با آن گلیم و پادری و غیره می‌بافتند)</quote>
+				<quote>طناب کهنه (که سابقا با آن گلیم و پادری و غیره می‌بافتند)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -18130,13 +18375,15 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">خودمانی</usg>
 			<cit type="trans">
-				<quote>(خودمانی) مواد مخدر (به‌ویژه هرویین)</quote>
+				<quote>مواد مخدر (به‌ویژه هرویین)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) دور انداختن، (به عنوان آهن‌پاره یا جنس اوراقی و غیره) فروختن، اسقاط کردن</quote>
+				<quote>دور انداختن، (به عنوان آهن‌پاره یا جنس اوراقی و غیره) فروختن، اسقاط کردن</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">the army is junking some of its old tanks</quote>
@@ -18201,8 +18448,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="hint">در اصل</usg>
 			<cit type="trans">
-				<quote>(در اصل) عضو طبقهٔ زمین‌دار و جنگاور و اشرافی آلمان و پروس</quote>
+				<quote>عضو طبقهٔ زمین‌دار و جنگاور و اشرافی آلمان و پروس</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -18282,9 +18530,7 @@
 			<number norm="plural">جمع</number>
 		</gramGrp>
 		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(خودمانی)</quote>
-			</cit>
+			<usg type="reg">خودمانی</usg>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
@@ -18430,8 +18676,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">نجوم</usg>
 			<cit type="trans">
-				<quote>(نجوم) مشتری (بزرگترین سیارهٔ منظومهٔ شمسی)، برجیس</quote>
+				<quote>مشتری (بزرگترین سیارهٔ منظومهٔ شمسی)، برجیس</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -18443,8 +18690,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="lang">لاتین</usg>
 			<cit type="trans">
-				<quote>(لاتین) ژوپیتر آورندهٔ باران، خدای باران‌آفرین</quote>
+				<quote>ژوپیتر آورندهٔ باران، خدای باران‌آفرین</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -18459,8 +18707,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="time">قرون وسطی</usg>
 			<cit type="trans">
-				<quote>(قرون وسطی) جامه‌ای که زیر زره می‌پوشیدند</quote>
+				<quote>جامه‌ای که زیر زره می‌پوشیدند</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -18543,8 +18792,9 @@
 			<pos norm="adjective">صفت</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">زمین‌شناسی</usg>
 			<cit type="trans">
-				<quote>(زمین‌شناسی) ژوراسیک (وابسته به دومین بخش دوران میانه یا Mesozoic که ویژگی آن فراوانی و چیرگی دایناسورها بود)</quote>
+				<quote>ژوراسیک (وابسته به دومین بخش دوران میانه یا Mesozoic که ویژگی آن فراوانی و چیرگی دایناسورها بود)</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* the Jurassic</quote>
@@ -18570,8 +18820,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">حقوق</usg>
 			<cit type="trans">
-				<quote>(حقوق) گواهی سوگندنامه (که زمان و مکان و سایر ویژگی‌های سوگندنامه را نشان می‌دهد)</quote>
+				<quote>گواهی سوگندنامه (که زمان و مکان و سایر ویژگی‌های سوگندنامه را نشان می‌دهد)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -18602,8 +18853,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">جانورشناسی</usg>
 			<cit type="trans">
-				<quote>(جانورشناسی) نازک‌تن (انواع ماهیان جنس Caranx که خوراکی و بومی دریاهای گرمسیر هستند)</quote>
+				<quote>نازک‌تن (انواع ماهیان جنس Caranx که خوراکی و بومی دریاهای گرمسیر هستند)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -18887,8 +19139,9 @@
 			<pos norm="adjective">صفت</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">کشتیرانی</usg>
 			<cit type="trans">
-				<quote>(کشتیرانی) موقتی، (کاربرد) اضطراری، ناگهگانی</quote>
+				<quote>موقتی، (کاربرد) اضطراری، ناگهگانی</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">a jury mast</quote>
@@ -19025,9 +19278,7 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
-			<cit type="trans">
-				<quote>(دستور زبان)</quote>
-			</cit>
+			<usg type="gram">دستور زبان</usg>
 		</sense>
 		<sense xml:lang="fa">
 			<cit type="trans">
@@ -19249,8 +19500,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="reg">عامیانه</usg>
 			<cit type="trans">
-				<quote>(عامیانه) واقعا، راستی، بسیار، خیلی</quote>
+				<quote>واقعا، راستی، بسیار، خیلی</quote>
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">I feel just fine!</quote>
@@ -19260,8 +19512,9 @@
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* just about</quote>
+				<usg type="reg">عامیانه</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(عامیانه) تقریبا، کمی مانده</quote>
+					<quote>تقریبا، کمی مانده</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -19278,8 +19531,9 @@
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">* just a minute (or moment or second)!</quote>
+				<usg type="reg">عامیانه</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(عامیانه) یک لحظه، یک دقیقه صبر کن!، یک لحظهٔ دیگر، صبر کن ببینم!</quote>
+					<quote>یک لحظه، یک دقیقه صبر کن!، یک لحظهٔ دیگر، صبر کن ببینم!</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -19556,8 +19810,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">حقوق</usg>
 			<cit type="trans">
-				<quote>(حقوق) امین صلح، رییس داده بخش</quote>
+				<quote>امین صلح، رییس داده بخش</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -19631,8 +19886,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="time">قدیمی</usg>
 			<cit type="trans">
-				<quote>(قدیمی) قاضی</quote>
+				<quote>قاضی</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -19662,8 +19918,9 @@
 			</cit>
 			<cit type="example">
 				<quote xml:lang="en">justifiable homicide</quote>
+				<usg type="dom">حقوق</usg>
 				<cit type="trans" xml:lang="fa">
-					<quote>(حقوق) قتل قابل توجیه</quote>
+					<quote>قتل قابل توجیه</quote>
 				</cit>
 			</cit>
 			<cit type="example">
@@ -19719,8 +19976,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">چاپ</usg>
 			<cit type="trans">
-				<quote>(چاپ) تنظیم سطرهای صفحه، فاصله‌بندی</quote>
+				<quote>تنظیم سطرهای صفحه، فاصله‌بندی</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -19799,8 +20057,9 @@
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
+			<usg type="dom">چاپ</usg>
 			<cit type="trans">
-				<quote>(چاپ) فاصله‌بندی کردن، سطرهای صفحه را تنظیم کردن</quote>
+				<quote>فاصله‌بندی کردن، سطرهای صفحه را تنظیم کردن</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -19939,8 +20198,9 @@
 			<pos norm="noun">اسم</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
+			<usg type="dom">گیاه‌شناسی</usg>
 			<cit type="trans">
-				<quote>(گیاه‌شناسی) کتان هندی، چتایی، جوت، کنف هندی (Corchorus capsularis و Corchorus olitorius از خانوادهٔ linden)</quote>
+				<quote>کتان هندی، چتایی، جوت، کنف هندی (Corchorus capsularis و Corchorus olitorius از خانوادهٔ linden)</quote>
 			</cit>
 		</sense>
 		<sense xml:lang="fa">
@@ -20109,8 +20369,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">حقوق</usg>
 			<cit type="trans">
-				<quote>(حقوق) دادگاه خردسالان (معمولا زیر 18 ساله)، دادگاه نوجوانان</quote>
+				<quote>دادگاه خردسالان (معمولا زیر 18 ساله)، دادگاه نوجوانان</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -20133,8 +20394,9 @@
 	</form>
 	<sense n="1" xml:lang="fa">
 		<sense xml:lang="fa">
+			<usg type="dom">حشره‌شناسی</usg>
 			<cit type="trans">
-				<quote>(حشره‌شناسی) گیزن جوانی، هورمون جوانی (هورمون بدن حشرات جوان که رشد و دگردیسی را تنظیم می‌کند)</quote>
+				<quote>گیزن جوانی، هورمون جوانی (هورمون بدن حشرات جوان که رشد و دگردیسی را تنظیم می‌کند)</quote>
 			</cit>
 		</sense>
 	</sense>
