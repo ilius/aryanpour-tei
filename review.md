@@ -1,51 +1,6 @@
 # Review of `aryanpour.parts`
 
 Scope: all 61 files in `aryanpour.parts/` (181,160 entries).
-Baseline for comparison: `aryanpour.tei.bak` and the upstream `Aryanpour.tei.bz2`.
-
-## Applied safe fixes
-
-These formatting-only changes have already been applied to the part files:
-
-| Fix | Count |
-|---|---:|
-| ZWNJ removed before `)` | 16,599 |
-| ZWNJ removed before `!` | 1,531 |
-| ZWNJ removed before `؟` | 677 |
-| ZWNJ removed before `;` | 51 |
-| ZWNJ removed before `"` | 18 |
-| ZWNJ removed before `]` | 8 |
-| ZWNJ removed before `.` | 6 |
-| ZWNJ removed before `:` | 2 |
-| ZWNJ removed before `&` | 1 |
-| ZWNJ removed before `/` | 1 |
-| ZWNJ replaced with space before `(` | 351 |
-| ZWNJ replaced with space before `-` | 328 |
-| ZWNJ replaced with space before `–` | 5 |
-| ZWNJ replaced with space before digit | 7 |
-| ZWNJ replaced with space before Latin letter | 11 |
-| ZWNJ removed after hamza (`ٔ‌`) | 18 |
-| Space removed before `)` | 179 |
-| Space removed before `!` | 34 |
-| Space removed before `.` | 2 |
-| Space removed before `؟` | 1 |
-| Trailing whitespace (tabs) stripped from `20-s.xml:188729` | 1 line |
-| Footer indentation fixed in `60-fa-ye.xml` (`8 spaces` → `2 tabs`) | 1 |
-| `<extent>` corrected from `181165` to `181160` headwords | 1 |
-| Re-sorted after normalization (`32-fa-t.xml`, `57-fa-n.xml`) | 2 files |
-| Duplicate comma `، ،` collapsed to `،` | 4 |
-| ASCII `;` replaced with `؛` in Persian text | 77 |
-| Spaced hyphens normalized to en dash `–` in Persian separator contexts | 10,808 |
-
-Post-change validation:
-
-- All non-empty part files remain well-formed XML.
-- 181,160 entries are still present.
-- 86,831 legitimate intra-word ZWNJ remain.
-- No non-letter-adjacent ZWNJ remain.
-- No trailing whitespace and no double-space text nodes remain.
-- Header + last part still close the TEI document correctly.
-- Persian separator dashes use en dash (`–`); 43 ` - ` occurrences remain in English/numeric contexts.
 
 ## Remaining issues (not auto-fixed)
 
