@@ -4,18 +4,6 @@ Scope: all 61 files in `aryanpour.parts/` (181,160 entries).
 
 ## Remaining issues
 
-### 2. Remaining space-before-punctuation edge cases
-
-- 9 remaining `space + )` cases have a non-alphanumeric predecessor and were intentionally skipped:
-  - `aryanpour.parts/02-a.xml:7857` — `(بدین شکل: ' )`
-  - `aryanpour.parts/02-a.xml:99405` — `(این شکل: * )`
-  - `aryanpour.parts/04-c.xml:83726` — `(به اندازهٔ ) ...`
-  - similar cases in `10-i.xml`, `14-m.xml`
-- 23 remaining `space + !` cases are mostly intentional English examples or symbol labels:
-  - `aryanpour.parts/03-b.xml:58021` — `... جهنم! !go to blazes`
-  - `aryanpour.parts/06-e.xml:60801` — `(این نشان: !)`
-  These should stay as-is.
-
 ### 3. Inline-markup whitespace
 
 A few rare structural elements put text on a new line with indentation, which becomes whitespace in the text content:

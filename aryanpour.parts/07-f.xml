@@ -1988,7 +1988,7 @@
 		</gramGrp>
 		<sense xml:lang="fa">
 			<cit type="trans">
-				<quote>(دستور زبان – وابسته به فعلی که متمم مفعول بی‌واسطهٔ آن اسم یا ضمیر یا صفت بوده و حاکی از انجام کار یا دستور است) فعل کنش نمود (مثلا در این جمله : پیراهن زنانه را کوتاه بکن! !make the dress short و یا: او را به سمت شهردار انتخاب کن! elect him !mayor)</quote>
+				<quote>(دستور زبان – وابسته به فعلی که متمم مفعول بی‌واسطهٔ آن اسم یا ضمیر یا صفت بوده و حاکی از انجام کار یا دستور است) فعل کنش نمود (مثلا در این جمله : پیراهن زنانه را کوتاه بکن! make the dress short! و یا: او را به سمت شهردار انتخاب کن! elect him mayor!)</quote>
 			</cit>
 		</sense>
 	</sense>
@@ -9555,7 +9555,7 @@
 				<quote>خدانگهدار، خداحافظ، بدرود</quote>
 			</cit>
 			<cit type="example">
-				<quote xml:lang="en">farewell ! give my greetings to everyone</quote>
+				<quote xml:lang="en">farewell! give my greetings to everyone</quote>
 				<cit type="trans" xml:lang="fa">
 					<quote>خدانگهدار! همه را سلام برسان</quote>
 				</cit>
