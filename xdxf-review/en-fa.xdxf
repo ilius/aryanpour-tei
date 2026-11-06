@@ -1,0 +1,2534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Pragmatic XDXF sample for manual review: TEI sense -> def, cit trans -> dtrn, cit example -> ex/ex_orig/ex_tran, usg -> categ, gramGrp -> pos/gr, note -> c, xr/def -> dtrn, ref -> kref/iref. -->
+<xdxf lang_from="ENG" lang_to="PER" format="visual">
+	<full_name>Aryanpour sample (English -&gt; Persian)</full_name>
+	<description>Manual-review sample of 50 Aryanpour entries. Converted directly from aryanpour.parts TEI. Entries were sampled across the alphabet and complexity levels.</description>
+	<lexicon>
+		<ar>
+			<k>a</k>
+			<tr>ə</tr>
+			<def n="1" xml:lang="fa">
+				<pos>صفت</pos>
+				<pos>indefinite article</pos>
+				<def xml:lang="fa">
+					<c c="gray">(پیش از واژه‌هایی که با حرف صدادار آغاز می‌شوند تبدیل به an می‌شود)</c>
+					<dtrn>یک، یک عدد، – ی (یای نکره یا وحدت)</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">I see a man</ex_orig>
+						<ex_tran xml:lang="fa">مردی را می‌بینم.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">once a day</ex_orig>
+						<ex_tran xml:lang="fa">روزی یکبار</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">a Mr. Smith called you yesterday</ex_orig>
+						<ex_tran xml:lang="fa">مردی به نام آقای اسمیت دیروز به شما تلفن زد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">an apple</ex_orig>
+						<ex_tran xml:lang="fa">یک سیب</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">a city</ex_orig>
+						<ex_tran xml:lang="fa">یک شهر</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">a hundred and fifty thousand</ex_orig>
+						<ex_tran xml:lang="fa">یکصد و پنجاه هزار</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>هر، هر یک</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">* a few</ex_orig>
+						<ex_tran xml:lang="fa">معدودی، چندتا، چند عدد</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* a good (or great) many</ex_orig>
+						<ex_tran xml:lang="fa">بسیار، خیلی، زیاد</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">a good many of them were sick</ex_orig>
+						<ex_tran xml:lang="fa">تعداد کثیری از آنها بیمار بودند.</ex_tran>
+					</ex>
+				</def>
+			</def>
+			<def n="2" xml:lang="fa">
+				<pos>پیشوند</pos>
+				<def xml:lang="fa">
+					<dtrn>در، به، درون</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>در حال، مشغول</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>بدون، فاقد، ابی -، بی -، نا [amoral]</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>AAU</k>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>اتحادیهٔ ورزشکاران آماتور</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>ablative absolute</k>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<categ type="gram">دستور زبان</categ>
+					<dtrn>مفعول به مطلق، ازی مطلق</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Acta Sanctorum</k>
+			<tr>äk´tä säŋk tō´room</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<categ type="lang">لاتین</categ>
+					<dtrn>مجموعهٔ زندگینامه‌های مقدسین و شهدای کلیسای کاتولیک</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Aegospotami</k>
+			<tr>ē´gäs´pät´ə mī´</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<categ type="geo">یونان کهن</categ>
+					<dtrn>رود ایجوس (ایجوس پوتامی)</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>AIDS-related complex</k>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<categ type="dom">پزشکی</categ>
+					<dtrn>بیماری وابسته به ایدز که نشانهٔ آن بزرگ شدن غدد لنفاوی است و می‌تواند تبدیل به ایدز شود</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>A level</k>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>(انگلیس) مرحلهٔ دوم و پیشرفته‌تر امتحانات دورهٔ متوسطه (که معمولا دو سال بعد از امتحان اول انجام می‌شود) (رجوع شود به: <kref>O level</kref>)، قبولی در این امتحانات (A-level هم می‌نویسند)</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Alkoran</k>
+			<tr>al´kō rän´</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<categ type="time">قدیمی</categ>
+					<dtrn>قرآن</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Baalbek</k>
+			<tr>bäl´bek´</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>شهر بعلبک در لبنان (محل ویرانه‌های یک شهر باستانی رومی)</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Big Daddy</k>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<categ type="reg">عامیانه</categ>
+					<dtrn>شخص یا چیز نیرومند و غنی (و اغلب سلطه‌گرای)، آقابالاسر</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>CAB</k>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>مخفف : (آمریکا) ادارهٔ هواپیمایی کشوری</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Caledonia</k>
+			<tr>kal´ə dōn´yə</tr>
+			<tr>-dō´nē ə</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<categ type="style">شاعرانه</categ>
+					<dtrn>اسکاتلند</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>coed</k>
+			<k>co-ed</k>
+			<tr>kō´ed´</tr>
+			<def n="1" xml:lang="fa">
+				<pos>اسم</pos>
+				<pos>صفت</pos>
+				<def xml:lang="fa">
+					<dtrn>وابسته به آموزش توام پسران و دختران، مختلط، هم‌آموزی<br/>رجوع شود به: coeducational</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">a coed school</ex_orig>
+						<ex_tran xml:lang="fa">مدرسهٔ مختلط</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn/>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(دانشجو) دختر، دانشجوی زن، هم‌آموز</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">two of the coeds were from Egypt</ex_orig>
+						<ex_tran xml:lang="fa">دوتا از دانشجویان دختر اهل مصر بودند.</ex_tran>
+					</ex>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>comatulid</k>
+			<k>feather star</k>
+			<k>comatula</k>
+			<k>comatulida</k>
+			<tr>kō mach´ōō lid´</tr>
+			<def n="1" xml:lang="fa">
+				<pos>اسم</pos>
+				<def xml:lang="fa">
+					<dtrn>لاله‌وشان، نام یک راسته از رده زنبق دریایی است.<br/>نام علمی: Comatulida</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>concrete music</k>
+			<k>musique concrète</k>
+			<k>musique concrete</k>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>موسیقی کانکریت، سبکی از موسیقی است که مشتق شده از صداهای ضبط شده‌است.<br/>امروزه این نام اشاره به گونه‌ای از موسیقی الکتروآکوستیک دارد که بخش‌های مختلف آن از صداهای آکوسماتیک ساخته شده‌است.</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>dab hand</k>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>(انگلیس – عامیانه) ماهر، دارای ید طولی (در کاری)، صد مرده حلاج</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>depository</k>
+			<tr>dē päz´ə tôr´ē</tr>
+			<tr>di-</tr>
+			<def n="1" xml:lang="fa">
+				<pos>اسم</pos>
+				<gr>جمع</gr>
+				<def xml:lang="fa">
+					<dtrn>انبار (که در آن اشیا را به امانت می‌سپارند)، سپارشگاه، ودیعه‌گاه، گروگاه</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>حالت دیگری از <kref>depositary</kref><br/>گنجور، امین، ودیعه نگهدار، سپارش‌دار</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Dutch East Indies</k>
+			<k>Netherlands East Indies</k>
+			<k>Netherlands Indies</k>
+			<k>Netherlands East-Indies</k>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>هند شرقی هلند</dtrn>
+					<dtrn>هند شرقی هلند، بخشی از مستعمرات هلند بود که پس از جنگ جهانی دوم به استقلال رسید و به اندونزی مدرن کنونی تبدیل شد.</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>e-</k>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>پیشوند برابر با: ex- (پیش از حروف b و d و g و j و l و m و n و r و v به کار می‌رود) [eject]</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Englander</k>
+			<tr>-ər</tr>
+			<def n="1" xml:lang="fa">
+				<pos>اسم</pos>
+				<def xml:lang="fa">
+					<categ type="plev">نادر</categ>
+					<dtrn>انگلیسی، بومی انگلیس</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>furmenty</k>
+			<tr>fu_r´mən tē</tr>
+			<def n="1" xml:lang="fa">
+				<pos>اسم</pos>
+			</def>
+		</ar>
+		<ar>
+			<k>Gable</k>
+			<tr>gā´bəl</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>کلارک گیبل (هنرپیشهٔ آمریکایی سینما)</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Galla</k>
+			<tr>gal´ə</tr>
+			<def n="1" xml:lang="fa">
+				<pos>اسم</pos>
+				<pos>صفت</pos>
+				<gr>جمع</gr>
+				<def xml:lang="fa">
+					<dtrn>واژهٔ قدیمی و زننده برای زبان اورومو یا مردم اورومو</dtrn>
+					<dtrn>رجوع شود به: <iref href="https://en.wikipedia.org/wiki/Oromo_language">Oromo language</iref> و <iref href="https://en.wikipedia.org/wiki/Oromo_people">Oromo people</iref></dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>gradation</k>
+			<tr>grā dā´shən</tr>
+			<tr>grə-</tr>
+			<def n="1" xml:lang="fa">
+				<pos>اسم</pos>
+				<def xml:lang="fa">
+					<dtrn>درجه بندی، مدرج سازی، طبقه بندی، پایه، رتبه، پله‌پله سازی، زینه بندی، درجه، زینه</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">the many gradations between absolute good and bad</ex_orig>
+						<ex_tran xml:lang="fa">مدارج مختلف بین خوبی و بدی مطلق</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>دگرگونی تدریجی، (رفتن تدریجی) از مرحله‌ای به مرحله دیگر</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to go from a lower to a higher gradation</ex_orig>
+						<ex_tran xml:lang="fa">از مرحلهٔ پایین‌تر به مرحلهٔ بالاتری رسیدن</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>تبدیل تدریجی از یک رنگ به رنگ دیگر، حد فاصل دو رنگ</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<categ type="dom">زمین‌شناسی</categ>
+					<dtrn>مسطح شدگی (در اثر فرسایش بلندی‌ها و رسوب در گودی‌ها)، همواری، ترازسازی</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(زبان‌شناسی) رجوع شود به: <kref>ablaut</kref></dtrn>
+					<c c="gray">(vowel gradation هم می‌گویند)</c>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Haakon VII</k>
+			<tr>hô´koon</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>هاکون (پادشاه کشور نروژ)</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Iago</k>
+			<tr>ē ä´gō</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>ایاگو (نام مردی بد طینت در نمایشنامهٔ ((اتللو)) از شکسپیر)</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Jabalpur</k>
+			<tr>jub´əl poor´</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>شهر جبل پور (در ناحیهٔ مرکزی هندوستان)</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>jellaba</k>
+			<k>jillaba</k>
+			<k>djellaba</k>
+			<k>galabia</k>
+			<tr>jə lä´bä</tr>
+			<tr>gal´ə bē´ə</tr>
+			<def n="1" xml:lang="fa">
+				<pos>اسم</pos>
+				<def xml:lang="fa">
+					<dtrn>جیلابا</dtrn>
+					<dtrn>روپوش تک‌جنسیتی، بلند، گشاد و آستین‌بلند است که در منطقه مغرب در آفریقای شمالی پوشیده می شود.</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Kaaba</k>
+			<tr>kä´bə</tr>
+			<tr>kä´ə bə</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>(عربی) کعبه</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Labanotation</k>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>(به‌ویژه در باله: روش نگارش حرکات رقصگران به کمک علامات و غیره) رقص‌نگاری، رامش‌نگاری</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>M'</k>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>برابر است با: M'Donald) Mac-)</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Nablus</k>
+			<tr>nab´ləs</tr>
+			<tr>näb´-</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>شهر نابلس (در غرب کشور اردن)</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>newspaperwoman</k>
+			<tr>-woom´ən</tr>
+			<def n="1" xml:lang="fa">
+				<pos>اسم</pos>
+				<gr>مونث</gr>
+				<gr>جمع</gr>
+				<def xml:lang="fa">
+					<dtrn>(زن)</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>روزنامه نویس، گزارشگر، خبرنگار، نودادنگار</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>صاحب روزنامه، روزنامه دار، صاحب امتیاز روزنامه</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Oahu</k>
+			<tr>ō ä´hōō</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>جزیرهٔ اواهو (در آبخست گروه هاوایی – پایتخت: 1526 Honolulu کیلومتر مربع)</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>old hand</k>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<categ type="hint">آدم</categ>
+					<dtrn>کار کشته، کهنه کار، ماهر، پر تجربه</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Pacific</k>
+			<tr>pə sif´ik</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>اقیانوس آرام (نام کامل: the Pacific Ocean)</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Qatar</k>
+			<tr>ke tär´</tr>
+			<tr>kä´tär´</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>کشور قطر (در خلیج فارس – پایتخت: دوحه 15540 – Doha کیلومتر مربع)</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Ra</k>
+			<tr>rä</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>(اسطورهٔ مصر) رآ (خدای خورشید)</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>run</k>
+			<tr>run</tr>
+			<def n="1" xml:lang="fa">
+				<pos>اسم</pos>
+				<pos>صفت</pos>
+				<pos>فعل متعدی</pos>
+				<pos>فعل لازم</pos>
+				<def xml:lang="fa">
+					<dtrn>دویدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">the child ran to her mother</ex_orig>
+						<ex_tran xml:lang="fa">کودک به سوی مادرش دوید.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">I ran and I ran; to a mountain top I came ...</ex_orig>
+						<ex_tran xml:lang="fa">دویدم و دویدم سرکوهی رسیدم ....</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">a running race</ex_orig>
+						<ex_tran xml:lang="fa">مسابقه دو</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>به سرعت حرکت کردن، تند رفتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">a ship running before the wind</ex_orig>
+						<ex_tran xml:lang="fa">یک کشتی که در جلو باد به تندی حرکت می‌کند</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(معمولا با: to) مراجعه کردن(به)، (پیش کسی یا چیزی) رفتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">she is always running to the police</ex_orig>
+						<ex_tran xml:lang="fa">او مرتبا به پلیس مراجعه می‌کند.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">as soon as anything happens he runs to his mother's lap</ex_orig>
+						<ex_tran xml:lang="fa">تا چیزی می‌شود به دامن مادرش پناه می‌برد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(معمولا با: with) معاشر بودن (با)</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">he runs around with a bunch of hoodlums</ex_orig>
+						<ex_tran xml:lang="fa">او با یک دسته اراذل و اوباش دوستی می‌کند.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(آزادانه) آمدن، رفتن، رستن، جنبیدن، گشتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">deer used to run free in these woods</ex_orig>
+						<ex_tran xml:lang="fa">در این بیشه‌ها آهوان آزادانه می‌گشتند.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>فرار کردن، به چاک زدن، ورمالیدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">our dog ran away</ex_orig>
+						<ex_tran xml:lang="fa">سگ ما فرار کرد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(با: up to یا down to یا over to و غیره) سفر تند و کوتاه کردن، زود رفتن و آمدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">run over to the store and get me some sugar</ex_orig>
+						<ex_tran xml:lang="fa">تند برو به مغازه و برایم قدری شکر بگیر.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(در مسابقه یا انتخابات و غیره) شرکت کردن، نامزد (انتخابات و غیره) بودن یا کردن، شرکت دادن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">he is going to run as an independent candidate</ex_orig>
+						<ex_tran xml:lang="fa">او به عنوان نامزد مستقل (در انتخابات) شرکت خواهد کرد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to run a race</ex_orig>
+						<ex_tran xml:lang="fa">در مسابقه شرکت کردن</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(در مسابقات – اول یا دوم و غیره) شدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to run last</ex_orig>
+						<ex_tran xml:lang="fa">آخر شدن</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(ماهی – در جهت معینی) شنا کردن، مهاجرت کردن، مهاجرت، کوچ</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">salmons run upstream for spawning</ex_orig>
+						<ex_tran xml:lang="fa">ماهی آزاد برای تخم‌گذاری به بالای رودخانه شنا می‌کند.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(طبق برنامه مرتبا) رفت و آمد کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">a bus that runs between Tehran and Tabriz</ex_orig>
+						<ex_tran xml:lang="fa">اتوبوسی که میان تهران و تبریز رفت و آمد می‌کند</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(به سرعت از روی چیزی) رد شدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">his eyes ran over the page</ex_orig>
+						<ex_tran xml:lang="fa">به سرعت صفحه را از مد نظر گذراند.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>شایع بودن، زبانزد بودن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">a rumor running through the town</ex_orig>
+						<ex_tran xml:lang="fa">شایعه‌ای که در شهر زبانزد شده است</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>بالا رفتن، خزیدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">a vine running over the wall</ex_orig>
+						<ex_tran xml:lang="fa">درخت مو که از دیوار بالا می‌رود</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(دائما) کار کردن یا جنبیدن، بند نیامدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">his tongue ran on and on</ex_orig>
+						<ex_tran xml:lang="fa">زبانش بند آمدنی نبود.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(اداره یا موتور و غیره) کار کردن، به کار افتادن یا انداختن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">I don't know how to run this motor</ex_orig>
+						<ex_tran xml:lang="fa">نمی‌دانم این موتور را چگونه به کار بیاندازم.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">a machine that is running</ex_orig>
+						<ex_tran xml:lang="fa">موتوری که دارد کار می‌کند</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(به فکر) خطور کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">the memory of that accident keeps running through my mind</ex_orig>
+						<ex_tran xml:lang="fa">خاطرهٔ آن حادثه مرتبا در فکرم خطور می‌کند.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>روان بودن، جریان داشتن، جاری کردن یا بودن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">running water</ex_orig>
+						<ex_tran xml:lang="fa">آب روان</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">at the foot of the hill, the river runs more slowly</ex_orig>
+						<ex_tran xml:lang="fa">در پای تپه (جریان) رودخانه آهسته‌تر می‌شود.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">let the water run through the pipe</ex_orig>
+						<ex_tran xml:lang="fa">بگذار آب در لوله جاری شود.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">gutters running blood</ex_orig>
+						<ex_tran xml:lang="fa">جوی‌هایی که خون در آن جاری است</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>آب شدن و جاری شدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">the vax ran</ex_orig>
+						<ex_tran xml:lang="fa">موم آب شد و جاری شد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the butter was beginning to run</ex_orig>
+						<ex_tran xml:lang="fa">کره داشت آب می‌شد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(پارچه) رنگ پس دادن، (رنگ) دواندن، سرایت کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">colors guaranteed not to run or fade</ex_orig>
+						<ex_tran xml:lang="fa">رنگ‌هایی که تضمین شده است سرایت نمی‌کنند و نمی‌پرند</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>پر بودن، سرشار بودن، لبریز بودن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">her eyes were running with tears</ex_orig>
+						<ex_tran xml:lang="fa">چشمانش از اشک لبریز بودند.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>چکه کردن، (آب یا چرک و غیره) پس دادن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">a running sore</ex_orig>
+						<ex_tran xml:lang="fa">زخمی که از آن چرک یا خون می‌آید</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(زمان) کشیدن، گذشتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">the days ran into weeks</ex_orig>
+						<ex_tran xml:lang="fa">روزها به هفته‌ها کشید.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(در روزنامه یا صحنهٔ تئاتر و غیره) ظاهر شدن، چاپ کردن، نمایش(دهی)</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">a film that had a long run</ex_orig>
+						<ex_tran xml:lang="fa">فیلمی که مدت زیادی نمایش داده می‌شد</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">a play that ran for a full year</ex_orig>
+						<ex_tran xml:lang="fa">نمایشی که یک سال تمام روی صحنه آورده می‌شد</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">several newspapers run his articles</ex_orig>
+						<ex_tran xml:lang="fa">چندین روزنامه مقاله‌های او را چاپ می‌کنند.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(قانون و غیره) اعتبار داشتن، به قوت قانونی باقی ماندن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">a law running for 25 years</ex_orig>
+						<ex_tran xml:lang="fa">قانونی که 25 سال است به قوت خود باقیست</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(به طور موروثی) وجود داشتن، فراوان بودن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">musical talent runs in this family</ex_orig>
+						<ex_tran xml:lang="fa">استعداد موسیقی در این خانواده فراوان است.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>گرایش داشتن، تمایل داشتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">their taste runs more to exotic foods</ex_orig>
+						<ex_tran xml:lang="fa">سلیقهٔ آنان به خوراک‌های عجیب و غریب گرایش بیشتری دارد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(به صورت خط یا راه و غیره) ادامه داشتن، گذشتن، رد شدن، کشیدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to run lines on a sheet of paper</ex_orig>
+						<ex_tran xml:lang="fa">روی یک صفحه کاغذ خط کشیدن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">this railway runs through a forest</ex_orig>
+						<ex_tran xml:lang="fa">این راه‌آهن از میان جنگل می‌گذرد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">a fence that runs through the middle of our land</ex_orig>
+						<ex_tran xml:lang="fa">نرده‌ای که از میان زمین ما رد می‌شود</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(با: from و to) شامل بودن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">his plays run from tragedies to comedies</ex_orig>
+						<ex_tran xml:lang="fa">نمایشنامه‌های او شامل سوگمایش و شادمایش (تراژدی و کمدی) می‌شود.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(به وضع خاصی) رسیدن، برخوردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to run into trouble</ex_orig>
+						<ex_tran xml:lang="fa">به اشکال برخوردن</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(کشتی یا اتومبیل و غیره) خوردن به</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">the boat ran aground</ex_orig>
+						<ex_tran xml:lang="fa">کشتی به گل نشست</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the car ran into a tree</ex_orig>
+						<ex_tran xml:lang="fa">اتومبیل به درخت خورد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(خبر یا داستان و غیره) بودن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">the story runs like this</ex_orig>
+						<ex_tran xml:lang="fa">داستان بدین قرار است</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(قیمت یا اندازه و غیره) بودن، داشتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">boots that run $40</ex_orig>
+						<ex_tran xml:lang="fa">پوتین‌هایی که 40 دلار قیمت دارند</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">apples running 7 to a kilo</ex_orig>
+						<ex_tran xml:lang="fa">هر 7 تا سیب یک کیلو وزن دارد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">prices are running high</ex_orig>
+						<ex_tran xml:lang="fa">قیمت‌ها بالا هستند.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(قرض) بالا آوردن، (ریسک یا خطر) کردن، به خود هموار کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">the free-spending man ran up a heavy debt</ex_orig>
+						<ex_tran xml:lang="fa">مرد ولخرج قرض سنگینی به بار آورد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">if you go,you run the risk of being shot</ex_orig>
+						<ex_tran xml:lang="fa">اگر بروی خطر تیر خوردن را به خود هموار می‌کنی.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(محاصره وغیره را) شکستن، عبور کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to run a naval blockade</ex_orig>
+						<ex_tran xml:lang="fa">محاصرهٔ دریایی را شکستن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to run a red light</ex_orig>
+						<ex_tran xml:lang="fa">از چراغ قرمز عبور کردن</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(موتور اتومبیل و غیره را) درجا به کار انداختن (to idle هم می‌گویند)، هرز کار کردن، خلاص کار کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">let the engine run for five minutes so that it warms up</ex_orig>
+						<ex_tran xml:lang="fa">بگذار موتور (اتومبیل) پنج دقیقه در جا کار کند تا گرم شود.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(جوراب بلند زنانه) نخ‌کش، دررفتگی، نخ‌کش شدن، دررفتگی پیدا کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">these stockings run easily</ex_orig>
+						<ex_tran xml:lang="fa">این جوراب‌ها زود نخ‌کش می‌شوند.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">there is a big run in your stocking</ex_orig>
+						<ex_tran xml:lang="fa">جورابت دررفتگی بزرگی دارد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(کشتی و اتوبوس و غیره) حمل کردن، بردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">our ships run passengers as well as cargo</ex_orig>
+						<ex_tran xml:lang="fa">کشتی‌های ما هم مسافر و هم محموله می‌برند.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>قاچاق کردن، قاچاق حمل کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to run whiskey</ex_orig>
+						<ex_tran xml:lang="fa">ویسکی قاچاق کردن</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>چپاندن، با فشار وارد کردن یا عبور دادن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">run the rod in and out of the hole to make it bigger</ex_orig>
+						<ex_tran xml:lang="fa">میله را چند بار بکن توی سوراخ و در بیاور تا گشادتر شود.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">he run his sword through the middle of Goodarz' neck</ex_orig>
+						<ex_tran xml:lang="fa">شمشیرش را از وسط گردن گودرز رد کرد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>اداره کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to run a household</ex_orig>
+						<ex_tran xml:lang="fa">خانواده‌ای را اداره کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">they ran the country on a tight budget</ex_orig>
+						<ex_tran xml:lang="fa">آنها کشور را با بودجهٔ محدودی اداره کردند.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(آزمایش و غیره) کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">the doctors decided to run another test</ex_orig>
+						<ex_tran xml:lang="fa">دکترها تصمیم گرفتند یک آزمایش دیگر هم بکنند.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(تب) داشتن، کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">she has been running a fever for three days</ex_orig>
+						<ex_tran xml:lang="fa">سه روز است تب دارد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>عمل دویدن، دو، گام‌های تند</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>مسابقهٔ دو</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(اتوبوس و کشتی و غیره) یک رفت (یا یک برگشت)، سفر</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">this train runs between Tehran and Ghom and each run takes two hours</ex_orig>
+						<ex_tran xml:lang="fa">این ترن میان تهران و قم رفت و برگشت می‌کند و هر سفر دو ساعت طول می‌کشد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>جریان، روانی</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">the run of events</ex_orig>
+						<ex_tran xml:lang="fa">جریان امور</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the run of the tide</ex_orig>
+						<ex_tran xml:lang="fa">جریان کشند</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>رخ دادن پی‌درپی، سلسله، دوره</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">a run of good luck</ex_orig>
+						<ex_tran xml:lang="fa">چند بار شانس خوب</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(به ویژه مشتریان) هجوم بردن (به)</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">customers made a run on the banks</ex_orig>
+						<ex_tran xml:lang="fa">مشتریان (برای مطالبهٔ پول خود) به بانک‌ها هجوم بردند.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>-50 (به شرطی که تند باشد) نهر، جوی، رودچه -51 مدت کار کردن موتور و غیره، بازده ماشین (در این مدت) -52 (کالا یا مردم و غیره) نوع معمولی، نوع</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">ordinary run of people</ex_orig>
+						<ex_tran xml:lang="fa">مردم عادی</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>-53 (اسکی) پیست</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">a ski run</ex_orig>
+						<ex_tran xml:lang="fa">پیست اسکی</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>-54 (جانوران) مسیر، راه</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">a buffalo run</ex_orig>
+						<ex_tran xml:lang="fa">مسیر گاوهای وحشی</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>-55 آزادی رفت و آمد یا ورود و خروج یا استفاده</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">my brothers have the run of my house</ex_orig>
+						<ex_tran xml:lang="fa">برادران من می‌توانند هر وقت بخواهند به منزل من بیایند.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>-56 (بیس‌بال – یک امتیاز در اثر یک بار دور زمین گشتن) ران -57 (هواپیما – برای تیراندازی یا بمباران) شیرجه رفتن، از ارتفاع کاستن، به هدف نزدیک شدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">despite enemy fire, we made three runs and left the target in flames</ex_orig>
+						<ex_tran xml:lang="fa">با وجود آتش دشمن سه بار شیرجه رفتیم و هدف را به حریق کشاندیم.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>-58 (کامپیوتر) رانش، اجرا، رانیدن، اجرا کردن (برنامه) -59 ذوب شده، آب شده -60 (فلز) قالب گیری شده، ریخته، ریخته‌گری شده، ریختن، ریخته‌گری</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">run metal</ex_orig>
+						<ex_tran xml:lang="fa">فلز ریخته‌گری شده</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* a run for one's money</ex_orig>
+						<ex_tran xml:lang="fa">1- رقابت شدید 2- بهره وری (از سرمایه‌گذاری یا صرف وقت و غیره)</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* in the long run</ex_orig>
+						<ex_tran xml:lang="fa">بالاخره، در دراز مدت، نتیجهٔ نهایی</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* in the short run</ex_orig>
+						<ex_tran xml:lang="fa">در آغاز، در ابتدا، در کوتاه مدت</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* on the run</ex_orig>
+						<ex_tran xml:lang="fa">1- درحال دویدن 2- در تکاپو، سخت مشغول 3- در حال فرار، درحال عقب نشینی</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run across</ex_orig>
+						<ex_tran xml:lang="fa">(اتفاقا) برخوردن (به کسی یا چیزی)، ملاقات کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run after</ex_orig>
+						<ex_tran xml:lang="fa">تعقیب کردن، دنبال کسی یا چیزی دویدن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run along</ex_orig>
+						<ex_tran xml:lang="fa">رفتن، عزیمت کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">I must run along now</ex_orig>
+						<ex_tran xml:lang="fa">اکنون باید بروم.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run around with</ex_orig>
+						<ex_tran xml:lang="fa">با کسی دیگر رابطه داشتن یا معاشر بودن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">her husband was running around with another woman</ex_orig>
+						<ex_tran xml:lang="fa">شوهرش با یک زن دیگر رابطه داشت.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run away</ex_orig>
+						<ex_tran xml:lang="fa">1- فرار کردن، گریختن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the prisoner ran away</ex_orig>
+						<ex_tran xml:lang="fa">زندانی فرار کرد.</ex_tran>
+						<ex_tran xml:lang="fa">2- ترک خانواده (یا وطن) کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run away with</ex_orig>
+						<ex_tran xml:lang="fa">1- رفتن و با خود بردن، دزدیدن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">he ran away with my purse</ex_orig>
+						<ex_tran xml:lang="fa">کیف پولم را زد.</ex_tran>
+						<ex_tran xml:lang="fa">2- مهار نکردنی شدن، از کنترل خارج شدن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">her enthusiasm ran away with her</ex_orig>
+						<ex_tran xml:lang="fa">اشتیاق او لجام گسیخته شد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run back</ex_orig>
+						<c c="gray">فوتبال آمریکایی</c>
+						<ex_tran xml:lang="fa">با توپ به سوی دروازهٔ حریف دویدن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run down</ex_orig>
+						<ex_tran xml:lang="fa">1- (به خاطر کمبود سوخت یا برق و غیره) از کار ایستادن 2- (با ماشین و غیره به کسی یا چیزی) زدن و افکندن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the truck ran down two large trees</ex_orig>
+						<ex_tran xml:lang="fa">کامیون دو درخت بزرگ را انداخت.</ex_tran>
+						<ex_tran xml:lang="fa">3- تعقیب کردن و گرفتن (یا کشتن)</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run for it</ex_orig>
+						<ex_tran xml:lang="fa">(به منظور فرار یا احتراز) دویدن، دو زدن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run idle</ex_orig>
+						<ex_tran xml:lang="fa">(موتور اتومبیل و غیره) خلاص کار کردن، هرزکارکردن، درجا کار کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run in</ex_orig>
+						<ex_tran xml:lang="fa">1- (به عنوان چیز اضافی) افزودن، شامل کردن، گنجاندن 2- (عامیانه) توقف کوتاه کردن 3- (عامیانه) بازداشت کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run into</ex_orig>
+						<ex_tran xml:lang="fa">1- (اتفاقا) برخوردن به، ملاقات کردن 2- تصادم کردن با، خوردن به، زدن به</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">he again ran into the telephone pole with his car</ex_orig>
+						<ex_tran xml:lang="fa">دوباره با ماشین زد به تیر تلفن.</ex_tran>
+						<ex_tran xml:lang="fa">run to) -3 هم می‌گویند) بالغ شدن بر، رسیدن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the two cars ran into each other</ex_orig>
+						<ex_tran xml:lang="fa">دو اتومبیل با هم شاخ به شاخ شدند.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">their debts run into several millions</ex_orig>
+						<ex_tran xml:lang="fa">قروض آنان به چندین میلیون می‌رسد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run off</ex_orig>
+						<ex_tran xml:lang="fa">1- (متن را) تکثیر کردن، چاپ کردن، پلی‌کپی کردن، تایپ کردن 2- تاراندن، دور کردن 3- هرز رفتن 4- به خارج جاری شدن یا ریختن 5- فرار کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run on</ex_orig>
+						<ex_tran xml:lang="fa">1- ادامه دادن، ادامه یافتن 2- به آخر چیزی اضافه کردن 3- دائما حرف زدن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run out</ex_orig>
+						<ex_tran xml:lang="fa">1- منقضی شدن، به پایان رسیدن، تمام شدن، مصرف شدن 2- بیرون کردن، بیرون راندن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run out of</ex_orig>
+						<ex_tran xml:lang="fa">(موجودی چیزی را) به اتمام رساندن، دیگر نداشتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run out on</ex_orig>
+						<c c="gray">عامیانه</c>
+						<ex_tran xml:lang="fa">تنها گذاشتن و رفتن، قال گذاشتن، رها کردن، ترک کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run out the clock</ex_orig>
+						<ex_tran xml:lang="fa">(فوتبال و بسکتبال و غیره – در اواخر مسابقه) توپ را کنترل کردن، وقت کشی کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run over</ex_orig>
+						<ex_tran xml:lang="fa">1- لبریز شدن 2- (با اتومبیل و غیره) زیر گرفتن، زیر ماشین رفتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">Pooran was run over by a car</ex_orig>
+						<ex_tran xml:lang="fa">پوران زیر ماشین رفت.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run scared</ex_orig>
+						<c c="gray">خودمانی</c>
+						<ex_tran xml:lang="fa">از خطر یا احتمال شکست ترسیدن، روش ترس‌آمیز داشتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run through</ex_orig>
+						<ex_tran xml:lang="fa">1- (با بی‌فکری یا سرعت) خرج کردن، مصرف کردن، لوطی خور کردن 2- (با چیز تیز) سوراخ کردن 3- (باسرعت) بررسی کردن، دوره‌کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* run up</ex_orig>
+						<ex_tran xml:lang="fa">1- (با سرعت) ساختن، بنا کردن 2- (قرض و غیره) ایجاد کردن، به بار آوردن</ex_tran>
+					</ex>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Saarbrücken</k>
+			<tr>sär´brook´ən</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>شهر ساربروکن (پایتخت سارلند در غرب آلمان)</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Ta</k>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>(شیمی – مخفف) نشان تانتال (tantalum)</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>take</k>
+			<tr>tāk</tr>
+			<def n="1" xml:lang="fa">
+				<pos>اسم</pos>
+				<pos>فعل متعدی</pos>
+				<pos>فعل لازم</pos>
+				<def xml:lang="fa">
+					<dtrn>گرفتن، تسخیر کردن، مسخر کردن، تصاحب کردن، فتح کردن، استاندن، یازیدن، دست اندازی کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">they took the fort in two days</ex_orig>
+						<ex_tran xml:lang="fa">دو روزه دژ را تسخیر کردند.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">he took the town and carried its people into captivity</ex_orig>
+						<ex_tran xml:lang="fa">او شهر را فتح کرد و مردم آن را به اسارت برد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">...give or else a tyrant will take by force</ex_orig>
+						<ex_tran xml:lang="fa">...بده ورنه ستمگر به زور بستاند</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>ماهی (و غیره) گرفتن، صید کردن، شکار کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">eighty percent of the whales today are taken in the Antarctic</ex_orig>
+						<ex_tran xml:lang="fa">امروزه هشتاد درصد نهنگ‌ها در جنوبگان صید می‌شوند.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the taking of birds and deer</ex_orig>
+						<ex_tran xml:lang="fa">شکار پرندگان و آهو</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(در دست یا با دست) گرفتن، در دست نگهداشتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">take the pen in your right hand</ex_orig>
+						<ex_tran xml:lang="fa">قلم را در دست راست خود بگیر.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">I took the child in my arms</ex_orig>
+						<ex_tran xml:lang="fa">کودک را در بغل گرفتم.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">he took the hammer firmly by the handle</ex_orig>
+						<ex_tran xml:lang="fa">دستهٔ چکش را محکم گرفت.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">she took my hand and guided me step by step...</ex_orig>
+						<ex_tran xml:lang="fa">دستم بگرفت و پابپا برد...</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(چیزی را از کسی) گرفتن، به دست آوردن، ستدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">if you can play better, take it and play!</ex_orig>
+						<ex_tran xml:lang="fa">گر تو بهتر می‌زنی بستان بزن!</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">he took my watch and never gave it back</ex_orig>
+						<ex_tran xml:lang="fa">ساعتم را گرفت و هرگز پس نداد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">she would not take money from the poor</ex_orig>
+						<ex_tran xml:lang="fa">او از مسکینان پول نمی‌گرفت.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">Akram takes bribes</ex_orig>
+						<ex_tran xml:lang="fa">اکرم رشوه می‌گیرد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>برداشتن، ورداشتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">take anything you want</ex_orig>
+						<ex_tran xml:lang="fa">هرچه دلت می‌خواهد بردار.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">she accused me of taking his camera</ex_orig>
+						<ex_tran xml:lang="fa">مرا متهم کرد که دوربین عکاسی او را برداشته‌ام.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">don't take things that do not belong to you!</ex_orig>
+						<ex_tran xml:lang="fa">چیزهایی را که به تو تعلق ندارند بر ندار!</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">he took his hat and overcoat and left</ex_orig>
+						<ex_tran xml:lang="fa">کلاه و پالتو خود را برداشت و رفت.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">I took the book off the shelf</ex_orig>
+						<ex_tran xml:lang="fa">کتاب را از تاقچه برداشتم.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">who took the money I had left here?</ex_orig>
+						<ex_tran xml:lang="fa">پولی را که این‌جا گذاشته بودم کی برداشت؟</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(شطرنج و نرد و غیره) کشتن، برنده بودن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">my rook took his horse</ex_orig>
+						<ex_tran xml:lang="fa">رخ من اسب او را کشت.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">ace takes the king</ex_orig>
+						<ex_tran xml:lang="fa">خال آس از شاه می‌برد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(به بخشی از بدن) زدن، خوردن (به)</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">his punch took me right on the chin</ex_orig>
+						<ex_tran xml:lang="fa">مشت او درست خورد به چانهٔ من.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>دچار کردن، دستخوش کردن یا شدن، (بیماری) گرفتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">she was taken with a fit of laughing</ex_orig>
+						<ex_tran xml:lang="fa">ناگهان دستخوش خندهٔ شدید شد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to be taken ill</ex_orig>
+						<ex_tran xml:lang="fa">دچار بیماری شدن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">Asghar was taken with pneumonia</ex_orig>
+						<ex_tran xml:lang="fa">اصغر سینه پهلو گرفت.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the child took the measles</ex_orig>
+						<ex_tran xml:lang="fa">بچه سرخک گرفت.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(در حین ارتکاب و غیره) مچ کسی را گرفتن، غافلگیر کردن، دستگیر کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">the thieves were taken by the police</ex_orig>
+						<ex_tran xml:lang="fa">پلیس دزدان را دستگیر کرد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the officer took the sentinel napping</ex_orig>
+						<ex_tran xml:lang="fa">افسر مچ نگهبانی را که چرت می‌زد گرفت.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take someone in the very act</ex_orig>
+						<ex_tran xml:lang="fa">در حین ارتکاب کسی را غافگیر کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">taken in adultry</ex_orig>
+						<ex_tran xml:lang="fa">گرفتار شده هنگام انجام زنا</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>مفتون کردن، مجذوب کردن، جلب کردن، خرسند کردن، (از کسی یا چیزی) خوش آمدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">his performance seemed to have taken the fancy of the crowd</ex_orig>
+						<ex_tran xml:lang="fa">چنین به نظر می‌رسد که بازیگری او آن جماعت را مسحور کرده بود.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the parents of the girl were much taken with Ali</ex_orig>
+						<ex_tran xml:lang="fa">والدین آن دختر خیلی از علی خوششان آمده بود.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">her eyes took my attention momentarily</ex_orig>
+						<ex_tran xml:lang="fa">چشمانش برای لحظه‌ای توجه مرا جلب کرد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>خوردن، نوشیدن، لب زدن، فرودادن، فرو بردن، استنشاق کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to take poison</ex_orig>
+						<ex_tran xml:lang="fa">زهر خوردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">she has taken no food for three days</ex_orig>
+						<ex_tran xml:lang="fa">سه روز است خوراک نخورده است.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">he took the medicine with a glass of water</ex_orig>
+						<ex_tran xml:lang="fa">دارو را با یک لیوان آب خورد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">don't take the smoke into your lungs!</ex_orig>
+						<ex_tran xml:lang="fa">دود را به ریه‌ات فرو نبر!</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">this drug is not to be taken internally</ex_orig>
+						<ex_tran xml:lang="fa">این دارو را نباید خورد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">she took her breakfast alone</ex_orig>
+						<ex_tran xml:lang="fa">صبحانه را تنها صرف کرد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(زن یا معشوق وغیره) گرفتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">he took her to wife</ex_orig>
+						<ex_tran xml:lang="fa">او را به زنی گرفت.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">his wife took a lover</ex_orig>
+						<ex_tran xml:lang="fa">زنش فاسق گرفت.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">she has started taking private students</ex_orig>
+						<ex_tran xml:lang="fa">او شروع کرده است به گرفتن شاگردان خصوصی.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(به شغل یا مقام و غیره) رسیدن، به عهده گرفتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to take a job</ex_orig>
+						<ex_tran xml:lang="fa">کار گرفتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">he took office last year</ex_orig>
+						<ex_tran xml:lang="fa">سال پیش به این شغل رسید.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">he took service under a foreign flag</ex_orig>
+						<ex_tran xml:lang="fa">او زیر یک پرچم خارجی خدمت می‌کرد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">he took the responsibility for keeping order</ex_orig>
+						<ex_tran xml:lang="fa">مسئولیت حفظ نظم را به عهده گرفت.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">Ahmad took the role of a fool</ex_orig>
+						<ex_tran xml:lang="fa">احمد نقش دلقک را به عهده گرفت.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(سوگند) خوردن، (قول و غیره) دادن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">she took a vow never to gamble again</ex_orig>
+						<ex_tran xml:lang="fa">او عهدکرد که دیگر هرگز قمار نکند.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take an oath</ex_orig>
+						<ex_tran xml:lang="fa">قسم خوردن</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(مسابقه یا جایزه و غیره) بردن، شکست دادن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">she took the first prize</ex_orig>
+						<ex_tran xml:lang="fa">او جایزهٔ اول را برد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">he took the fight by a knockout</ex_orig>
+						<ex_tran xml:lang="fa">با ضربهٔ فنی در مسابقهٔ مشت زنی برنده شد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">she took the first place in the broad jump</ex_orig>
+						<ex_tran xml:lang="fa">در پرش طول مقام اول را به دست آورد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>برگزیدن، گزیدن، انتخاب کردن، خریدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">he took the first suit he tried on</ex_orig>
+						<ex_tran xml:lang="fa">اولین لباسی را که پرو کرد خرید.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">take any number from one to ten</ex_orig>
+						<ex_tran xml:lang="fa">هر شماره‌ای را که می‌خواهی از یک تا ده انتخاب کن.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">let him take his pick</ex_orig>
+						<ex_tran xml:lang="fa">بگذار به میل خودش انتخاب کند.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">always take the straight road!</ex_orig>
+						<ex_tran xml:lang="fa">همیشه صراط مستقیم را برگزین!</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>اتخاذ کردن، دست زدن (به)، متوسل شدن (به)، استفاده کردن (از)</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">the government had to take severe measures</ex_orig>
+						<ex_tran xml:lang="fa">دولت مجبور شد دست به اقدام شدید بزند.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">we took any means we could think of</ex_orig>
+						<ex_tran xml:lang="fa">به هر وسیله‌ای که به فکرمان رسید متوصل شدیم.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">I took the first opportunity</ex_orig>
+						<ex_tran xml:lang="fa">از اولین فرصت استفاده کردم.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>گنجایش داشتن، جا داشتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">this bus takes 40 passengers</ex_orig>
+						<ex_tran xml:lang="fa">این اتوبوس برای 40 مسافر جا دارد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>اجاره کردن، آبونه شدن یا بودن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to take a summer house</ex_orig>
+						<ex_tran xml:lang="fa">یک خانهٔ تابستانی اجاره کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take a daily newspaper</ex_orig>
+						<ex_tran xml:lang="fa">روزنامهٔ روزانه را آبونه بودن</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<categ type="reg">خودمانی</categ>
+					<dtrn>گول زدن، گوش کسی را بریدن</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<categ type="gram">دستور زبان</categ>
+					<dtrn>حالت بخصوص گرفتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">a transitive verb takes an object</ex_orig>
+						<ex_tran xml:lang="fa">فعل متعدی مفعول می‌گیرد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the word "book" takes an "s" in the plural</ex_orig>
+						<ex_tran xml:lang="fa">واژهٔ "book" در جمع "s" می‌گیرد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(وسیلهٔ نقلیه) گرفتن، سوار شدن، با... رفتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to take a bus</ex_orig>
+						<ex_tran xml:lang="fa">اتوبوس گرفتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">you can take the subway</ex_orig>
+						<ex_tran xml:lang="fa">می‌توانی با مترو بروی</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>جستن، (پناه) بردن، (بست) نشستن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to take shelter</ex_orig>
+						<ex_tran xml:lang="fa">پناه جستن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take sanctuary</ex_orig>
+						<ex_tran xml:lang="fa">بست نشستن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">as soon as he saw the bear, he took to the nearest tree</ex_orig>
+						<ex_tran xml:lang="fa">تا خرس را دید به نزدیک‌ترین درخت پناه برد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>جای گرفتن، مستقر شدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to take a seat in the rear</ex_orig>
+						<ex_tran xml:lang="fa">در عقب (یک محل) جای گرفتن (نشستن)</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the president took the chair</ex_orig>
+						<ex_tran xml:lang="fa">رییس جمهور بر مسند نشست.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">she is always ready to take the spotlight</ex_orig>
+						<ex_tran xml:lang="fa">او برای این‌که مرکز توجه باشد همیشه آمادگی دارد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(وقت و غیره) صرف کردن، گرفتن، طول کشیدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">writing this dictionary will take six years</ex_orig>
+						<ex_tran xml:lang="fa">نگارش این فرهنگ شش سال طول خواهد کشید.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">it takes a lot of time</ex_orig>
+						<ex_tran xml:lang="fa">خیلی وقت می‌گیرد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>نیاز داشتن، لازم داشتن، مستلزم بودن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">it takes money to travel</ex_orig>
+						<ex_tran xml:lang="fa">سفر کردن پول لازم دارد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">it takes courage to do what he did</ex_orig>
+						<ex_tran xml:lang="fa">کاری که او کرد به شجاعت نیاز دارد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(به ارث) بردن، (به کسی) رفتن، (اسم یا لقب و غیره) گرفتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">he takes after his father</ex_orig>
+						<ex_tran xml:lang="fa">او به پدرش رفته است.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>نقل کردن، نقل قول کردن، گرفتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to take a verse from the Bible</ex_orig>
+						<ex_tran xml:lang="fa">سوره‌ای از انجیل را نقل کردن</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>- کردن، – برداشتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to take a poll</ex_orig>
+						<ex_tran xml:lang="fa">نظر خواهی عمومی کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take a vote</ex_orig>
+						<ex_tran xml:lang="fa">رای گیری کردن، رای گرفتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take notes</ex_orig>
+						<ex_tran xml:lang="fa">نت برداشتن، یادداشت کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take attendance</ex_orig>
+						<ex_tran xml:lang="fa">حاضر غایب کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take inventory</ex_orig>
+						<ex_tran xml:lang="fa">صورت موجودی برداشتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take a copy of a will</ex_orig>
+						<ex_tran xml:lang="fa">از وصیت نامه نسخه برداشتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take pictures</ex_orig>
+						<ex_tran xml:lang="fa">عکس برداشتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take a person's fingerprints</ex_orig>
+						<ex_tran xml:lang="fa">کسی را انگشت نگاری کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take part in an activity</ex_orig>
+						<ex_tran xml:lang="fa">در کاری شرکت کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take a leave of absence</ex_orig>
+						<ex_tran xml:lang="fa">مرخصی گرفتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take a walk</ex_orig>
+						<ex_tran xml:lang="fa">پیاده‌روی کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take a music course</ex_orig>
+						<ex_tran xml:lang="fa">کلاس موسیقی گرفتن (انتخاب کردن)</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take a rest</ex_orig>
+						<ex_tran xml:lang="fa">استراحت کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take the room's measurements</ex_orig>
+						<ex_tran xml:lang="fa">اتاق را اندازه گرفتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take notice</ex_orig>
+						<ex_tran xml:lang="fa">توجه کردن</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>پذیرفتن، پذیرا بودن، قبول کردن، تحمل کردن، تاب داشتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">take my advice!</ex_orig>
+						<ex_tran xml:lang="fa">پند مرا بپذیر!</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take a bet</ex_orig>
+						<ex_tran xml:lang="fa">شرط بندی (قبول) کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">he took my joke seriously</ex_orig>
+						<ex_tran xml:lang="fa">او شوخی مرا جدی گرفت.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">he took his punishment like a man</ex_orig>
+						<ex_tran xml:lang="fa">مثل مرد تنبیه خود را قبول کرد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">this plant takes cold weather beautifully</ex_orig>
+						<ex_tran xml:lang="fa">این گیاه در هوای سرد خوب تاب می‌آورد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>فهمیدن، درک کردن، پی بردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">his hearers were slow to take his meaning</ex_orig>
+						<ex_tran xml:lang="fa">شنودگان زود به منظور او پی نبردند.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">she took my hint immediately</ex_orig>
+						<ex_tran xml:lang="fa">فورا به اشارهٔ من پی برد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(با خود یا به محلی) بردن، حمل کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">God will take the ship where he pleases ...</ex_orig>
+						<ex_tran xml:lang="fa">برد کشتی آنجا که خواهد خدای ...</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">he took his wife to a doctor</ex_orig>
+						<ex_tran xml:lang="fa">زنش را پیش دکتر برد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">will you take me to a movie?</ex_orig>
+						<ex_tran xml:lang="fa">مرا به سینما می‌بری؟</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">he took the whole family to dinner</ex_orig>
+						<ex_tran xml:lang="fa">همهٔ خانواده را برد به شام.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">I took them to London</ex_orig>
+						<ex_tran xml:lang="fa">آنها را به لندن بردم.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">this road will take you to the center of the city</ex_orig>
+						<ex_tran xml:lang="fa">این راه شما را به مرکز شهر خواهد برد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>کشتن، تباه کردن، نابود کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">cruel fate took him from us</ex_orig>
+						<ex_tran xml:lang="fa">سرنوشت قدار او را از ما گرفت.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">cancer takes many lives</ex_orig>
+						<ex_tran xml:lang="fa">سرطان خیلی‌ها را می‌کشد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>کسر کردن، کاستن، منها کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">nothing took from the scene's beauty</ex_orig>
+						<ex_tran xml:lang="fa">هیچ‌چیز از زیبایی آن صحنه نمی‌کاست.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">take three from five</ex_orig>
+						<ex_tran xml:lang="fa">سه را از پنج کسر کردن</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(قلمه یا پیوند یا آتش و غیره) گرفتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">most of this surgeon's grafts take</ex_orig>
+						<ex_tran xml:lang="fa">اکثر پیوندهایی که این جراح می‌زند می‌گیرد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the wick was wet and the sparks didn't take</ex_orig>
+						<ex_tran xml:lang="fa">فتیله تر بود و جرقه‌ها نگرفت.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the fire took rapidly</ex_orig>
+						<ex_tran xml:lang="fa">آتش به سرعت گرفت (روشن شد).</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the vaccination took</ex_orig>
+						<ex_tran xml:lang="fa">واکسن گرفت.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>پنداشتن، به جای کسی یا چیزی دیگر گرفتن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">I took her to be a teacher</ex_orig>
+						<ex_tran xml:lang="fa">فکر کردم که او معلم است.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>عمل گرفتن، در دست گیری، تسخیر، تصاحب، گرفت، گیرش</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>میزان گرفته شده یا صید شده یا بدست آوری شده</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">a day's take of fish</ex_orig>
+						<ex_tran xml:lang="fa">مقدار ماهی صید شده در یک روز</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>دریافتی (ها)، مبالغ واریز شده، کسب، سود، درآمد</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to increase the city's take from gambling</ex_orig>
+						<ex_tran xml:lang="fa">درآمد شهر از محل قماربازی را بیشتر کردن</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>واکسنی که می‌گیرد (اثر می‌کند)</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(عکسبرداری و فیلمبرداری) برداشت</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">* on the take</ex_orig>
+						<c c="gray">عامیانه</c>
+						<ex_tran xml:lang="fa">رشوه گیر، دارای درآمد غیر مشروع</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">a cop who is on the take</ex_orig>
+						<ex_tran xml:lang="fa">پاسبانی که درآمد نامشروع دارد</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take after</ex_orig>
+						<ex_tran xml:lang="fa">1- (به کسی) رفتن، شباهت داشتن 2- (کسی را) تعقیب کردن، دنبال کسی راه افتادن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take a meeting</ex_orig>
+						<c c="gray">خودمانی</c>
+						<ex_tran xml:lang="fa">در کنفرانس حضور یافتن، به جلسه رفتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take a miss</ex_orig>
+						<ex_tran xml:lang="fa">1- (در اصل) اشتباه کردن، عوضی گرفتن 2- درست درک نکردن، سو تفاهم پیدا کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take back</ex_orig>
+						<ex_tran xml:lang="fa">1- پس گرفتن (چیزی یا حرفی یا ادعایی) 2- پس دادن (چیزی خریداری شده)، پس بردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take down</ex_orig>
+						<ex_tran xml:lang="fa">1- یادداشت کردن 2- در جای پایین‌تر قرار دادن، تنزل دادن، پایین بردن 3- (شلوار و غیره) پایین کشیدن 4- خوار کردن، خفیف کردن، پست کردن 5- از هم باز کردن، پیاده کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take five (or ten, etc)</ex_orig>
+						<ex_tran xml:lang="fa">(آمریکا- عامیانه) استراحت پنج دقیقه‌ای (یا ده دقیقه‌ای و غیره) کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take for</ex_orig>
+						<ex_tran xml:lang="fa">1- پنداشتن، تصور کردن، پذیرفتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">I took him for an American</ex_orig>
+						<ex_tran xml:lang="fa">فکر کردم که آمریکایی است.</ex_tran>
+						<ex_tran xml:lang="fa">2- عوضی (به جای کس دیگر) گرفتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take in</ex_orig>
+						<ex_tran xml:lang="fa">1- راه دادن، پذیرفتن، پذیرا شدن 2- (لباس یا بادبان کشتی و غیره) تو گرفتن، کوچک کردن 3- شامل بودن، حاوی بودن 4- درک‌کردن، فهمیدن 5- گول زدن، فریب دادن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">don't be taken in by his tempting promises!</ex_orig>
+						<ex_tran xml:lang="fa">گول وعده‌های وسوسه انگیز او را نخور!</ex_tran>
+						<ex_tran xml:lang="fa">6- دیدار کردن، بازدید کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to take in all the historical sights</ex_orig>
+						<ex_tran xml:lang="fa">همهٔ جاهای تاریخی را بازدید کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take it</ex_orig>
+						<ex_tran xml:lang="fa">1- فکر کردن، پنداشتن، تصور کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">I take it he is her brother</ex_orig>
+						<ex_tran xml:lang="fa">فکر می‌کنم او برادرش باشد.</ex_tran>
+						<ex_tran xml:lang="fa">2- تحمل کردن، تاب آوردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">I am tired of this job; I can't take it any more!</ex_orig>
+						<ex_tran xml:lang="fa">از این شغل بیزارم و دیگر تاب تحمل آن را ندارم!</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take it easy!</ex_orig>
+						<ex_tran xml:lang="fa">سخت نگیر</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take it from me</ex_orig>
+						<ex_tran xml:lang="fa">باور کن، به حرفم اعتماد کن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take it or leave it</ex_orig>
+						<c c="gray">عامیانه</c>
+						<ex_tran xml:lang="fa">می‌خواهی بخواه و نمی‌خواهی نخواه، همین است که هست</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take it out of</ex_orig>
+						<c c="gray">عامیانه</c>
+						<ex_tran xml:lang="fa">1- خسته کردن، فرسودن 2- تقاص گرفتن، پول در کشیدن (از)، غرامت گرفتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take it out on</ex_orig>
+						<c c="gray">عامیانه</c>
+						<ex_tran xml:lang="fa">تلافی کاری را سر شخص ثالث درآوردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">I know you've been fired from your office but don't take it out on the children!</ex_orig>
+						<ex_tran xml:lang="fa">می‌دانم که از اداره اخراجت کرده‌اند ولی تلافی‌اش را سربچه‌ها در نیاور!</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take off</ex_orig>
+						<ex_tran xml:lang="fa">1- (جامه) در آوردن، کندن 2- (کلاه و عینک و غیره) برداشتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">please take off your hat</ex_orig>
+						<ex_tran xml:lang="fa">لطفا کلاه خود را بردارید.</ex_tran>
+						<ex_tran xml:lang="fa">3- عزیمت کردن، رفتن 4- (کار یا مدرسه) غیبت کردن، غایب شدن 5- کشتن 6- کسر کردن، کاستن، تخفیف دادن 7- کپی کردن، نسخه‌برداشتن 8- پرزدن، پرواز کردن 9- شروع کردن، آغاز کردن 10- (هواپیما) بلند شدن از زمین 11- (با: on) تقلید کردن، تقلید در آوردن 12- (عامیانه) موفق شدن، گل کردن، (کار و بار) گرفتن 13- (خودمانی) دزدیدن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take on</ex_orig>
+						<ex_tran xml:lang="fa">1- به خود گرفتن، شکل گرفتن، رنگ گرفتن، قوام گرفتن 2- استخدام کردن، به کار گرفتن 3- به عهده گرفتن، تقبل کردن 4- به مبارزه‌طلبیدن، از پس کسی یا چیزی برآمدن، مقابله کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take one's time</ex_orig>
+						<ex_tran xml:lang="fa">باتانی کار کردن، وقت کافی صرف کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take out</ex_orig>
+						<ex_tran xml:lang="fa">1- کسر کردن، کاستن 2- درآوردن، کشیدن (بیرون) 3- (با پر کردن درخواست و غیره وام و غیره) گرفتن، به دست آوردن 4-(عامیانه) همراهی کردن، (به محلی) بردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take over</ex_orig>
+						<ex_tran xml:lang="fa">به عهده گرفتن، تصدی چیزی را قبول کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take place</ex_orig>
+						<ex_tran xml:lang="fa">به وقوع پیوستن، روی دادن، رخ دادن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take sides</ex_orig>
+						<ex_tran xml:lang="fa">طرفداری کردن، یک طرف را گرفتن، سوگیری کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take something easy</ex_orig>
+						<ex_tran xml:lang="fa">سخت نگرفتن، سخت‌گیری نکردن، آسان گرفتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take to</ex_orig>
+						<ex_tran xml:lang="fa">1- عادت کردن، خوگرفتن 2- پناه بردن به، (به محلی) رفتن 3- (به کار یا مطالعه و غیره) پرداختن 4- (از کسی) خوش آمدن، به دل راه‌دادن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take up</ex_orig>
+						<ex_tran xml:lang="fa">1- افراشتن، بلند کردن، بالابردن 2- (لباس و غیره) تو گرفتن، کوتاه کردن، تنگ کردن 3- جذب کردن، در آشامیدن 4- پذیرفتن، به عهده‌گرفتن 5- ادامه دادن 6- علاقمند شدن به 7- جاگرفتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take upon (or on) oneself</ex_orig>
+						<ex_tran xml:lang="fa">1- مسئولیت کاری را پذیرفتن، به عهده گرفتن، تقبل کردن 2- انجام کاری را آغاز کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take up with</ex_orig>
+						<c c="gray">عامیانه</c>
+						<ex_tran xml:lang="fa">دوست کسی شدن، همدم شدن، هم‌نشینی کردن</ex_tran>
+					</ex>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>turn</k>
+			<tr>tu_rn</tr>
+			<def n="1" xml:lang="fa">
+				<pos>فعل متعدی</pos>
+				<pos>فعل لازم</pos>
+				<pos>اسم</pos>
+				<def xml:lang="fa">
+					<dtrn>چرخاندن، گرداندن، به گردش درآوردن، به چرخش درآوردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to turn the key in a lock</ex_orig>
+						<ex_tran xml:lang="fa">کلید را در قفل چرخاندن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the motor turns the wheel</ex_orig>
+						<ex_tran xml:lang="fa">موتور چرخ را به گردش درمی‌آورد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">she turned her eyes in my direction</ex_orig>
+						<ex_tran xml:lang="fa">چشمان خود را به سوی من چرخاند.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">Mahmood turned his back on me</ex_orig>
+						<ex_tran xml:lang="fa">محمود پشتش را به من کرد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to turn the door handle</ex_orig>
+						<ex_tran xml:lang="fa">دستهٔ در را چرخاندن</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>تراش دادن، خراطی کردن، (با چرخاندن) ساختن، شکل دادن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to turn several table legs</ex_orig>
+						<ex_tran xml:lang="fa">چندین پایهٔ میز خراطی کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to turn a pretty phrase</ex_orig>
+						<ex_tran xml:lang="fa">عبارت زیبایی را تصنیف کردن</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>پیچاندن، پیچ دادن، تاباندن، تاب دادن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to turn a screw</ex_orig>
+						<ex_tran xml:lang="fa">پیچ را پیچاندن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">Amjadi turns the ends of his mustache up</ex_orig>
+						<ex_tran xml:lang="fa">امجدی انتهای سبیل خود را به بالا تاب می‌دهد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>ورق زدن، (صفحه و غیره) برگرداندن، پشت و رو کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to turn the pages of a book</ex_orig>
+						<ex_tran xml:lang="fa">صفحات یک کتاب را ورق زدن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to turn a phonograph record</ex_orig>
+						<ex_tran xml:lang="fa">صفحهٔ گرامافون را پشت و رو کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">before planting we must turn over the soil with a shovel</ex_orig>
+						<ex_tran xml:lang="fa">پیش از کشت باید خاک را با بیل پشت و رو کنیم (شخم بزنیم).</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">fry the fish for three minutes, then turn it and fry the other side</ex_orig>
+						<ex_tran xml:lang="fa">ماهی را سه دقیقه سرخ بکن و سپس آن را پشت و رو کرده و طرف دیگر را سرخ کن.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>وارونه کردن یا شدن، معکوس کردن یا شدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">she turned the bottle upside down</ex_orig>
+						<ex_tran xml:lang="fa">بطری را وارونه کرد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(معده را) به هم زدن، به حال تهوع درآوردن یا درآمدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">when I saw the putrid food my stomach turned</ex_orig>
+						<ex_tran xml:lang="fa">وقتی که آن خوراک متعفن را دیدم دلم به هم خورد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(در مقابل ضربه و غیره) جاخالی دادن، منحرف کردن یا شدن، منصرف کردن یا شدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to turn a blow</ex_orig>
+						<ex_tran xml:lang="fa">در مقابل ضربه جاخالی دادن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to turn someone from his purpose</ex_orig>
+						<ex_tran xml:lang="fa">کسی را از هدف خود منصرف کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">do not turn from the path of righteousness!</ex_orig>
+						<ex_tran xml:lang="fa">از مسیر تقوا منحرف نشوید!</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>تا کردن، خماندن، تو گذاشتن، دولا کردن یا شدن</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>دور زدن</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(مبلغ یا سن و غیره) رسیدن، (بالغ) شدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">tomorrow he is going to turn fifty</ex_orig>
+						<ex_tran xml:lang="fa">فردا پنجاه ساله خواهد شد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>پس زدن، متوقف کردن، برگرداندن، دفع کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to turn an attack</ex_orig>
+						<ex_tran xml:lang="fa">حمله را پس زدن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the criticism turned against the critic himself</ex_orig>
+						<ex_tran xml:lang="fa">انتقاد متوجه خود انتقاد کننده شد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">we turned back an enemy attack</ex_orig>
+						<ex_tran xml:lang="fa">ما حملهٔ دشمن را دفع کردیم.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(رها یا آزاد و غیره) کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">the rebels turned the political prisoners loose</ex_orig>
+						<ex_tran xml:lang="fa">شورشیان، زندانیان سیاسی را آزاد کردند.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>معطوف کردن، متوجه کردن، برگشت دادن، به کار زدن، پرداختن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">Ali turned his gun on us</ex_orig>
+						<ex_tran xml:lang="fa">علی تپانچه‌اش را به طرف ما گرفت.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to turn one's thoughts to monetary matters</ex_orig>
+						<ex_tran xml:lang="fa">افکار خود را به امور پولی معطوف کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to turn one's hand to writing</ex_orig>
+						<ex_tran xml:lang="fa">به نگارش دست زدن (پرداختن)</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">later on he turned his attention to music</ex_orig>
+						<ex_tran xml:lang="fa">بعدا توجه خود را به موسیقی معطوف کرد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to turn knowledge to good account</ex_orig>
+						<ex_tran xml:lang="fa">علم را در امور خیر بکار زدن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">as his debts increased, he turned to crime</ex_orig>
+						<ex_tran xml:lang="fa">چون بدهی‌های او زیاد شد دست به تبهکاری زد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>تبدیل کردن یا شدن، – شدن، – کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to turn bitter with age</ex_orig>
+						<ex_tran xml:lang="fa">در اثر کهنگی تلخ شدن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to turn cream into butter</ex_orig>
+						<ex_tran xml:lang="fa">سرشیر را تبدیل به کره کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to turn produce into hard cash</ex_orig>
+						<ex_tran xml:lang="fa">محصول کشاورزی را تبدیل به پول نقد کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">a writer turned actor</ex_orig>
+						<ex_tran xml:lang="fa">نویسنده‌ای که هنرپیشه شده است</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">turned sick by the sight</ex_orig>
+						<ex_tran xml:lang="fa">دچار حالت تهوع در اثر دیدن آن منظره</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">water turns into ice</ex_orig>
+						<ex_tran xml:lang="fa">آب تبدیل به یخ می‌شود.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to turn Hassan's remarks to ridicule</ex_orig>
+						<ex_tran xml:lang="fa">گفته‌های حسن را مورد تمسخر قرار دادن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">Asghar turned against his former friends</ex_orig>
+						<ex_tran xml:lang="fa">اصغر با دوستان سابق خود ضدیت کرد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>ترجمه کردن یا شدن، (به زبان یا بیان دیگری) برگرداندن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">my father turned Hafez' poems into English</ex_orig>
+						<ex_tran xml:lang="fa">پدرم اشعار حافظ را به انگلیسی ترجمه کرد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">Attar turned that story into a poem</ex_orig>
+						<ex_tran xml:lang="fa">عطار آن داستان را به شعر برگرداند.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>دیوانه کردن، مجنون کردن، مفتون کردن، شیفته کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">too much success has turned his head</ex_orig>
+						<ex_tran xml:lang="fa">موفقیت زیاد به سرش زده است.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">her mind has been turned by grief</ex_orig>
+						<ex_tran xml:lang="fa">اندوه او را دیوانه کرده است.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(شیر و کره و غیره) ترشیدن، ترشاندن، ترش شدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">after a while, the milk started turning</ex_orig>
+						<ex_tran xml:lang="fa">پس از مدتی شیر شروع به ترشیدگی کرد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>رنگ (چیزی را) عوض کردن، رنگ پریده کردن یا شدن، رنگ به رنگ کردن یا شدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">leaves turn in the fall</ex_orig>
+						<ex_tran xml:lang="fa">در پاییز برگ‌ها رنگ عوض می‌کنند.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>چرخیدن، دور زدن، گشتن، گردیدن، به گردش درآمدن، پیچیدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">the key won't turn</ex_orig>
+						<ex_tran xml:lang="fa">کلید نمی‌چرخد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the car turned left and then right</ex_orig>
+						<ex_tran xml:lang="fa">اتومبیل به سمت چپ و سپس به سمت راست پیچید.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">my head ached and the room was turning around my head</ex_orig>
+						<ex_tran xml:lang="fa">سرم درد می‌کرد و اتاق دور سرم می‌چرخید.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">turn right at the end of the street</ex_orig>
+						<ex_tran xml:lang="fa">در انتهای خیابان به دست راست بپیچید.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the teacher's head turned toward me</ex_orig>
+						<ex_tran xml:lang="fa">سر معلم به سوی من چرخید.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>خم شدن، خمیدن، انحنا پیدا کردن، قوسدار شدن، پیچیدن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">turn left at the next intersection</ex_orig>
+						<ex_tran xml:lang="fa">در چهار راه بعدی به طرف چپ بپیچید.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>غلت زدن، تریدن، قل خوردن، قل دادن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">the child tossed and turned all night</ex_orig>
+						<ex_tran xml:lang="fa">کودک تمام شب تکان می‌خورد و غلت می‌زد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>برگشتن، عقبگرد کردن، تغییر جهت دادن، عوض شدن، دگرگون شدن یا کردن، عوض کردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">the tide has turned</ex_orig>
+						<ex_tran xml:lang="fa">کشند برگشته است.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the situation has turned in his favor</ex_orig>
+						<ex_tran xml:lang="fa">اوضاع به سود او تغییر کرده است.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the wind turned</ex_orig>
+						<ex_tran xml:lang="fa">جهت باد عوض شد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">his luck has turned</ex_orig>
+						<ex_tran xml:lang="fa">بخت از او برگشته است.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to turn on one's heels</ex_orig>
+						<ex_tran xml:lang="fa">ناگهان عقبگرد کردن (بازگشتن)</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">an event that turned the course of history</ex_orig>
+						<ex_tran xml:lang="fa">رویدادی که مسیر تاریخ را عوض کرد</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>رجوع کردن به، مراجعه کردن، پناه بردن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">she has no one to turn to</ex_orig>
+						<ex_tran xml:lang="fa">او پشت و پناهی ندارد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">they turn to the government for help</ex_orig>
+						<ex_tran xml:lang="fa">آنان برای کمک به دولت متوسل می‌شوند.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(ناگهان) حمله کردن، پریدن به</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">the dog turned on him</ex_orig>
+						<ex_tran xml:lang="fa">سگ پرید به او.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(با: on یا upon) بستگی داشتن به، منوط بودن</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">our fate turned on the whims of the captain</ex_orig>
+						<ex_tran xml:lang="fa">سرنوشت ما به هوس‌های ناخدا بستگی داشت.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>چرخش، گردش</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">no left turn (is allowed)</ex_orig>
+						<ex_tran xml:lang="fa">گردش به چپ ممنوع (است)</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">don't pull the handle; give it a turn!</ex_orig>
+						<ex_tran xml:lang="fa">دسته را نکش؛ آن را یک چرخ بده!</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">make a left turn</ex_orig>
+						<ex_tran xml:lang="fa">به سمت چپ بچرخ (برو).</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>پیچش، پیچ، تاب</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">a sharp turn in the road</ex_orig>
+						<ex_tran xml:lang="fa">پیچ تند جاده</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the story has many twists and turns</ex_orig>
+						<ex_tran xml:lang="fa">داستان پیچ و تاب فراوان دارد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>قوس‌داری، انحنا، خمش، کژی، خم</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">he went around the turn</ex_orig>
+						<ex_tran xml:lang="fa">او پیچ را دور زد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the river has many turns</ex_orig>
+						<ex_tran xml:lang="fa">رودخانه پیچ و خم زیاد دارد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>جهت چرخش یا انحنا</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>تغییر جهت، انحراف</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">the turn of the tide</ex_orig>
+						<ex_tran xml:lang="fa">تغییر جهت کشند (یا موج)</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(پیاده‌روی و غیره) دور، دورزنی، گشت، گلگشت</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">he took another turn around the garden</ex_orig>
+						<ex_tran xml:lang="fa">او یک بار دیگر دور باغ گشت زد.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>دگرگونی، تغییر</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">at the turn of this century</ex_orig>
+						<ex_tran xml:lang="fa">در آغاز این قرن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">a turn for the better</ex_orig>
+						<ex_tran xml:lang="fa">تغییر در جهت خوب</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>رجوع شود به: <kref>turning point</kref></dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>تکان، یکه، شوک</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>عمل، کار</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">to do someone a good turn</ex_orig>
+						<ex_tran xml:lang="fa">برای کسی عمل خیر انجام دادن</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(سرگیجه یا خشم یا بیماری) حمله، بروز</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>دوره، نوبت</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">it is not your turn yet</ex_orig>
+						<ex_tran xml:lang="fa">هنوز نوبت تو نیست.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">it is my turn to sing</ex_orig>
+						<ex_tran xml:lang="fa">نوبت آواز خواندن من است.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">you missed your turn</ex_orig>
+						<ex_tran xml:lang="fa">نوبت خود را از دست دادی.</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>نمایش کوتاه</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>(بورس سهام) خرید و فروش، دست به دست گشتن</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>لحن، فحوا، نحوه، طرز</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">a quaint turn to her speech</ex_orig>
+						<ex_tran xml:lang="fa">لحن عجیب و غریب حرف زدن او</ex_tran>
+					</ex>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>گرایش، تمایل، استعداد، جهت، سوی</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">an inquisitive turn of mind</ex_orig>
+						<ex_tran xml:lang="fa">تمایل (تفکری) به کنجکاوی</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the discussion took a new turn</ex_orig>
+						<ex_tran xml:lang="fa">بحث مسیر تازه‌ای را به خود گرفت.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to give an old story a new turn</ex_orig>
+						<ex_tran xml:lang="fa">به یک داستان قدیمی سر و صورت تازه‌ای دادن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">turn of events</ex_orig>
+						<ex_tran xml:lang="fa">گرایش رویدادها</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* at every turn</ex_orig>
+						<ex_tran xml:lang="fa">در همهٔ حالات، در کلیهٔ آزمایش‌ها، دائما، همیشه</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* by turns</ex_orig>
+						<ex_tran xml:lang="fa">یکی پس از دیگری، به نوبت، متناوبا</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* call the turn</ex_orig>
+						<ex_tran xml:lang="fa">درست پیش‌بینی کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* in turn</ex_orig>
+						<ex_tran xml:lang="fa">به نوبت، به ترتیب، به طور منظم</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* out of turn</ex_orig>
+						<ex_tran xml:lang="fa">1- خارج از نوبت، به طور غیر مرتب 2- نابهنگام، بی‌موقع، نسنجیده</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to talk out of turn</ex_orig>
+						<ex_tran xml:lang="fa">نسنجیده حرف زدن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take a turn for the better (or worse)</ex_orig>
+						<ex_tran xml:lang="fa">(به ویژه بیماری) رو به بهبود (یا وخامت) گذاشتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* take turns</ex_orig>
+						<ex_tran xml:lang="fa">به نوبت (کاری را) انجام دادن، نوبتی کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* to a turn</ex_orig>
+						<ex_tran xml:lang="fa">به نحو احسن، به بهترین طریق، عالی، بسیار خوب</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* turn and turn about (or turn about)</ex_orig>
+						<ex_tran xml:lang="fa">به نوبت، به طور مرتب و منظم</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* turn down</ex_orig>
+						<ex_tran xml:lang="fa">1- رد کردن، قبول نکردن، نپذیرفتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">our offer was turned down</ex_orig>
+						<ex_tran xml:lang="fa">پیشنهاد ما رد شد.</ex_tran>
+						<ex_tran xml:lang="fa">2- (صدای رادیو و غیره یا نور چراغ و غیره را) کم کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">I turned down the radio</ex_orig>
+						<ex_tran xml:lang="fa">صدای رادیو را کم کردم.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* turn in</ex_orig>
+						<ex_tran xml:lang="fa">1- وارد شدن، داخل شدن 2- تحویل دادن، سپردن، دادن 3- پس دادن، اعاده کردن 4- تا کردن، دولا کردن، تو گذاشتن 5- (عامیانه) به‌بستر رفتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">Farhad turned in his resignation</ex_orig>
+						<ex_tran xml:lang="fa">فرهاد استعفای خود را داد.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">our children turned in earlier</ex_orig>
+						<ex_tran xml:lang="fa">بچه‌های ما زودتر به رختخواب رفتند.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* turn off</ex_orig>
+						<ex_tran xml:lang="fa">1- (از جادهٔ اصلی به جادهٔ فرعی) پیچیدن 2- (راه و غیره) منشعب شدن 3- (جریان چیزی را) بند آوردن، قطع کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to turn off the electricity</ex_orig>
+						<ex_tran xml:lang="fa">برق را قطع کردن</ex_tran>
+						<ex_tran xml:lang="fa">4- (موتور و غیره) خاموش کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to turn off the television</ex_orig>
+						<ex_tran xml:lang="fa">تلویزیون را خاموش کردن</ex_tran>
+						<ex_tran xml:lang="fa">5- منحرف کردن، کنار زدن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">his angry tone turned us off</ex_orig>
+						<ex_tran xml:lang="fa">لحن خشم‌آلود او ما را دلزده کرد.</ex_tran>
+						<ex_tran xml:lang="fa">6- (آمریکا – خودمانی) دلسرد کردن، دلزده کردن، بی‌علاقه کردن، ملول کردن، خسته کردن 7- (انگلیس – کارمند را) اخراج کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* turn on</ex_orig>
+						<ex_tran xml:lang="fa">1- (جریان آب یا گاز و غیره را) باز کردن 2- (رادیو یا تلویزیون و غیره را) روشن کردن 3- (خودمانی) نشئه کردن، (با مواد مخدر) سرکیف آوردن 4- شهوتی کردن، تحریک جنسی کردن 5- سرشوق آوردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to turn on the faucet</ex_orig>
+						<ex_tran xml:lang="fa">شیر آب را باز کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">I tarned the lights on</ex_orig>
+						<ex_tran xml:lang="fa">چراغ‌ها را روشن کردم.</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* turn out</ex_orig>
+						<ex_tran xml:lang="fa">1- انجامیدن، شدن، از آب در آمدن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">how did the meeting turn out?</ex_orig>
+						<ex_tran xml:lang="fa">جلسهٔ ملاقات به کجا انجامید؟</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">the servant turned out to be a thief</ex_orig>
+						<ex_tran xml:lang="fa">نوکر دزد از آب درآمد.</ex_tran>
+						<ex_tran xml:lang="fa">2- (چراغ) خاموش کردن 3- خارج گذاشتن، در بیرون قرار دادن 4- بیرون کردن، اخراج کردن، مرخص کردن 5- پشت و رو کردن 6-خارج شدن، رفتن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">a huge crowd turned out to welcome him</ex_orig>
+						<ex_tran xml:lang="fa">جمعیت عظیمی به پیشواز او رفتند.</ex_tran>
+						<ex_tran xml:lang="fa">7- تولید کردن 8- (از بستر) خارج شدن، برخاستن 9- مجهز کردن، ملبس کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* turn over</ex_orig>
+						<ex_tran xml:lang="fa">1- غلت زدن، جابجا کردن یا شدن، دفتی زدن 2- وارونه کردن، بالا و پایین کردن، پشت و رو کردن 3- (موتور و غیره) روشن کردن، به‌کار انداختن 4- مورد تفکر قرار دادن، سبک و سنگین کردن 5- مسترد کردن، دادن 6- احاله کردن، صرفنظر کردن 7- تبدیل کردن 8-خرید و فروش کردن، داد و ستد کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* turn to</ex_orig>
+						<ex_tran xml:lang="fa">مشغول شدن، دست به کار شدن، (به کاری) پرداختن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">* turn up</ex_orig>
+						<ex_tran xml:lang="fa">1- دولا کردن، بالا زدن و دوختن، تو گرفتن، کوتاه کردن (لباس) 2- نمودار کردن، کشف کردن، پدیدار کردن 3- (جریان یا صدای‌چیزی را) زیاد کردن، بلند کردن</ex_tran>
+					</ex>
+					<ex>
+						<ex_orig xml:lang="en">to turn up the radio</ex_orig>
+						<ex_tran xml:lang="fa">رادیو را بلند کردن</ex_tran>
+						<ex_tran xml:lang="fa">4- (در جادهٔ فرعی) پیچیدن 5- سیر صعودی داشتن، بالا رفتن 6- روی دادن 7- یافت شدن 8- پدیدار شدن، سررسیدن</ex_tran>
+					</ex>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>U bolt</k>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>پیچ رکابی، کرپی</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>underworld</k>
+			<tr>-wu_rld´</tr>
+			<def n="1" xml:lang="fa">
+				<pos>اسم</pos>
+				<def xml:lang="fa">
+					<categ type="time">قدیمی</categ>
+					<dtrn>کرهٔ زمین، جهان خاکی</dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>جهان زیرین، سرزمین مردگان</dtrn>
+					<dtrn>رجوع شود به: <kref>Hades</kref></dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>رجوع شود به: <kref>antipodes</kref></dtrn>
+				</def>
+				<def xml:lang="fa">
+					<dtrn>دنیای تبهکاران، محیط جنایتکاران حرفه‌ای</dtrn>
+					<ex>
+						<ex_orig xml:lang="en">boss of the New York underworld</ex_orig>
+						<ex_tran xml:lang="fa">رئیس تبهکاران نیویورک</ex_tran>
+					</ex>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Vaal</k>
+			<tr>väl</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>رودخانهٔ وال (در جمهوری افریقای جنوبی)</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Waal</k>
+			<tr>väl</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>رودخانهٔ وال (در هلند)</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>xanthene dye</k>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>انواع رنگ‌ها و رنگیزه‌هایی که ملکول آنها دارای زانتین است</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Yadkin</k>
+			<tr>yad´kin</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>رودخانهٔ یدکین (در ایالت کارولینای شمالی – آمریکا)</dtrn>
+				</def>
+			</def>
+		</ar>
+		<ar>
+			<k>Zaanstad</k>
+			<tr>zän´stät´</tr>
+			<def n="1" xml:lang="fa">
+				<def xml:lang="fa">
+					<dtrn>شهر زانستاد (در باختر هلند)</dtrn>
+				</def>
+			</def>
+		</ar>
+	</lexicon>
+</xdxf>

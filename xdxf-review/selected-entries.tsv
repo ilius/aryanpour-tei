@@ -1,0 +1,101 @@
+direction	file	index	headword	score	rare	senses	cits	examples	usg	gramGrp	ref	xr	def	note	br	forms
+en	02-a.xml	0	a	47	1	7	23	9	0	2	0	0	0	1	0	1
+en	02-a.xml	15	AAU	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	02-a.xml	91	ablative absolute	8	0	2	1	0	1	0	0	0	0	0	0	1
+en	02-a.xml	586	Acta Sanctorum	8	0	2	1	0	1	0	0	0	0	0	0	1
+en	02-a.xml	955	Aegospotami	8	0	2	1	0	1	0	0	0	0	0	0	1
+en	02-a.xml	1355	AIDS-related complex	8	0	2	1	0	1	0	0	0	0	0	0	1
+en	02-a.xml	1654	A level	7	0	2	1	0	0	0	1	0	0	0	0	1
+en	02-a.xml	1775	Alkoran	8	0	2	1	0	1	0	0	0	0	0	0	1
+en	03-b.xml	10	Baalbek	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	03-b.xml	1780	Big Daddy	8	0	2	1	0	1	0	0	0	0	0	0	1
+en	04-c.xml	9	CAB	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	04-c.xml	253	Caledonia	8	0	2	1	0	1	0	0	0	0	0	0	1
+en	04-c.xml	3637	coed	19	1	4	7	2	0	1	0	0	0	0	1	2
+en	04-c.xml	3978	comatulid	13	1	2	1	0	0	1	0	0	0	0	1	4
+en	04-c.xml	4432	concrete music	10	1	2	1	0	0	0	0	0	0	0	1	3
+en	05-d.xml	14	dab hand	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	05-d.xml	1143	depository	11	1	3	2	0	0	1	1	0	0	0	1	1
+en	05-d.xml	3659	Dutch East Indies	18	1	2	1	0	0	0	0	0	1	0	0	4
+en	06-e.xml	2	e-	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	06-e.xml	1189	Englander	9	0	2	1	0	1	1	0	0	0	0	0	1
+en	07-f.xml	2942	furmenty	4	0	1	0	0	0	1	0	0	0	0	0	1
+en	08-g.xml	17	Gable	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	08-g.xml	129	Galla	19	1	2	0	0	0	1	2	1	1	0	0	1
+en	08-g.xml	1745	gradation	36	1	6	8	2	1	1	1	1	0	1	0	1
+en	09-h.xml	5	Haakon VII	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	10-i.xml	8	Iago	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	11-j.xml	7	Jabalpur	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	11-j.xml	267	jellaba	19	1	2	1	0	0	1	0	0	1	0	0	4
+en	12-k.xml	6	Kaaba	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	13-l.xml	13	Labanotation	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	14-m.xml	4	M'	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	15-n.xml	13	Nablus	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	15-n.xml	687	newspaperwoman	13	0	4	3	0	0	1	0	0	0	0	0	1
+en	16-o.xml	7	Oahu	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	16-o.xml	458	old hand	8	0	2	1	0	1	0	0	0	0	0	0	1
+en	17-p.xml	23	Pacific	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	18-q.xml	6	Qatar	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	19-r.xml	2	Ra	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	19-r.xml	2903	run	397	0	56	281	111	3	1	0	0	0	0	0	1
+en	20-s.xml	9	Saarbrücken	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	21-t.xml	6	Ta	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	21-t.xml	165	take	447	0	42	349	152	8	1	0	0	0	0	0	1
+en	21-t.xml	3685	turn	350	0	42	270	111	0	1	1	0	0	0	0	1
+en	22-u.xml	11	U bolt	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	22-u.xml	431	underworld	26	1	5	6	1	1	1	2	1	0	0	0	1
+en	23-v.xml	5	Vaal	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	24-w.xml	3	Waal	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	25-x.xml	7	xanthene dye	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	26-y.xml	13	Yadkin	6	0	2	1	0	0	0	0	0	0	0	0	1
+en	27-z.xml	3	Zaanstad	6	0	2	1	0	0	0	0	0	0	0	0	1
+fa	28-fa-aa.xml	0	آ	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	29-fa-alef.xml	0	ا!	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	30-fa-b.xml	2	باآبروریزی	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	31-fa-p.xml	3	پاافزار	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	32-fa-t.xml	2	تا آن زمان	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	33-fa-se.xml	1	ثابت در جا	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	34-fa-j.xml	1	جا-	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	35-fa-ch.xml	4	چابک سواری	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	36-fa-h.xml	0	حاجب	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	37-fa-kh.xml	2	خاتم کردن	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	38-fa-d.xml	1	داپو	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	39-fa-zal.xml	4	ذات (مجازی)	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	40-fa-r.xml	0	رابرت برنز	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	41-fa-z.xml	1	زاب	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	42-fa-zh.xml	1	ژابیز	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	43-fa-s.xml	0	ساباط	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	44-fa-sh.xml	0	شاباش	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	44-fa-sh.xml	107	شادباش	11	0	1	6	0	0	0	5	0	0	0	0	1
+fa	44-fa-sh.xml	709	ش! (حرف ندا)	3	0	1	1	0	0	0	1	0	0	0	0	1
+fa	45-fa-sad.xml	0	صابون	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	45-fa-sad.xml	2	صابون رختشویی	3	0	1	1	0	0	0	1	0	0	0	0	1
+fa	45-fa-sad.xml	519	صرفه جویی کردن	11	0	1	5	0	0	0	5	0	0	0	0	1
+fa	46-fa-zad.xml	1	ضابطه (علوم)	3	0	1	1	0	0	0	1	0	0	0	0	1
+fa	46-fa-zad.xml	3	ضارب با آلت نوک تیز	2	0	1	1	0	0	0	0	0	0	0	0	1
+fa	46-fa-zad.xml	288	ضمانت	11	0	1	6	0	0	0	5	0	0	0	0	1
+fa	47-fa-ta.xml	1	طارم	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	47-fa-ta.xml	4	طاس ریزی در نرد	3	0	1	1	0	0	0	1	0	0	0	0	1
+fa	47-fa-ta.xml	156	طبیعت	11	0	1	6	0	0	0	5	0	0	0	0	1
+fa	48-fa-za.xml	3	ظالم (بسیار)	3	0	1	1	0	0	0	1	0	0	0	0	1
+fa	48-fa-za.xml	7	ظاهرا مجلل	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	48-fa-za.xml	82	ظرفیت	12	0	1	6	0	0	0	6	0	0	0	0	1
+fa	49-fa-eyn.xml	3	عابر پیاده	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	49-fa-eyn.xml	4	عابر تماشاچی	3	0	1	1	0	0	0	1	0	0	0	0	1
+fa	49-fa-eyn.xml	128	عاشقانه	11	0	1	6	0	0	0	5	0	0	0	0	1
+fa	50-fa-gh.xml	1	غار بزرگ	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	50-fa-gh.xml	9	غار (زمین شناسی)	3	0	1	1	0	0	0	1	0	0	0	0	1
+fa	50-fa-gh.xml	248	غریزی	11	0	1	6	0	0	0	5	0	0	0	0	1
+fa	51-fa-f.xml	2	فاتح شدن	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	51-fa-f.xml	211	فا (موسیقی – سلفژ)	3	0	1	1	0	0	0	1	0	0	0	0	1
+fa	51-fa-f.xml	457	فراخی	11	0	1	7	0	0	0	4	0	0	0	0	1
+fa	52-fa-ghaf.xml	1	قاب آویز	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	52-fa-ghaf.xml	84	قابل تحقیر	11	0	1	6	0	0	0	5	0	0	0	0	1
+fa	53-fa-k.xml	0	کاب	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	54-fa-g.xml	0	گابلین	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	55-fa-l.xml	0	لآب	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	56-fa-m.xml	0	مآل اندیش	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	57-fa-n.xml	0	نا	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	58-fa-v.xml	0	و	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	59-fa-he.xml	0	هاب گابلین	2	0	1	1	0	0	0	1	0	0	0	0	1
+fa	60-fa-ye.xml	0	یا	2	0	1	1	0	0	0	1	0	0	0	0	1

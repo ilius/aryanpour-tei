@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Pragmatic XDXF sample for manual review: TEI sense -> def, cit trans -> dtrn, cit example -> ex/ex_orig/ex_tran, usg -> categ, gramGrp -> pos/gr, note -> c, xr/def -> dtrn, ref -> kref/iref. -->
+<xdxf lang_from="PER" lang_to="ENG" format="visual">
+	<full_name>Aryanpour sample (Persian -&gt; English)</full_name>
+	<description>Manual-review sample of 50 Aryanpour entries. Converted directly from aryanpour.parts TEI. Entries were sampled across the alphabet and complexity levels.</description>
+	<lexicon>
+		<ar>
+			<k>آ</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>uh</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>ا!</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>eh</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>باآبروریزی</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>inglorious</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>پاافزار</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>shoe</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>تا آن زمان</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>theretofore</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>ثابت در جا</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>frozen</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>جا-</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>rest</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>چابک سواری</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>equitation</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>حاجب</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>porter</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>خاتم کردن</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>inlay</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>داپو</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>block</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>ذات (مجازی)</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>spirit</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>رابرت برنز</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>Burns</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>زاب</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>spring</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>ژابیز</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>spark</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>ساباط</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>awning</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>شاباش</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>cheer</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>شادباش</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>acclamation</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>cheer</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>congratulation</kref>
+				</dtrn>
+				<dtrn xml:lang="en">felicitation</dtrn>
+				<dtrn xml:lang="en">
+					<kref>hail</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>ovation</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>ش! (حرف ندا)</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>hist</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>صابون</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>soap</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>صابون رختشویی</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>washing powder</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>صرفه جویی کردن</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>economize</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>husband</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>stint</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>retrench</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>save</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>ضابطه (علوم)</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>principle</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>ضارب با آلت نوک تیز</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">stabber</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>ضمانت</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>bail</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>guarantee</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>guaranty</kref>
+				</dtrn>
+				<dtrn xml:lang="en">sponsorship</dtrn>
+				<dtrn xml:lang="en">
+					<kref>testimonial</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>warranty</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>طارم</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>trellis</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>طاس ریزی در نرد</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>cast</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>طبیعت</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">makeup or make-up</dtrn>
+				<dtrn xml:lang="en">
+					<kref>Mother Nature</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>nature</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>physio-</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>soul</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>way</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>ظالم (بسیار)</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>atrocious</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>ظاهرا مجلل</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>grandiose</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>ظرفیت</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>capacity</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>content</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>equal</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>measure</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>tether</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>volume</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>عابر پیاده</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>pedestrian</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>عابر تماشاچی</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>bystander</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>عاشقانه</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>amorous</kref>
+				</dtrn>
+				<dtrn xml:lang="en">amorously</dtrn>
+				<dtrn xml:lang="en">
+					<kref>idyllic</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>loving</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>romantic</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>warm</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>غار بزرگ</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>cavern</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>غار (زمین شناسی)</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>pothole</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>غریزی</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>inborn</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>instinctive</kref>
+				</dtrn>
+				<dtrn xml:lang="en">instinctual</dtrn>
+				<dtrn xml:lang="en">
+					<kref>primeval</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>untaught</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>visceral</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>فاتح شدن</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>win</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>فا (موسیقی – سلفژ)</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>fa</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>فراخی</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>amplitude</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>breadth</kref>
+				</dtrn>
+				<dtrn xml:lang="en">capaciousness</dtrn>
+				<dtrn xml:lang="en">
+					<kref>expansion</kref>
+				</dtrn>
+				<dtrn xml:lang="en">roominess</dtrn>
+				<dtrn xml:lang="en">spaciousness</dtrn>
+				<dtrn xml:lang="en">
+					<kref>width</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>قاب آویز</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>locket</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>قابل تحقیر</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>contemptible</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>dirty</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>dog</kref>
+				</dtrn>
+				<dtrn xml:lang="en">ling _</dtrn>
+				<dtrn xml:lang="en">
+					<kref>pitiful</kref>
+				</dtrn>
+				<dtrn xml:lang="en">
+					<kref>wormy</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>کاب</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>cube</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>گابلین</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>hobgoblin</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>لآب</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>enamel</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>مآل اندیش</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>provident</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>نا</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>sap</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>و</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>and</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>هاب گابلین</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>hobgoblin</kref>
+				</dtrn>
+			</def>
+		</ar>
+		<ar>
+			<k>یا</k>
+			<def n="1" xml:lang="en">
+				<dtrn xml:lang="en">
+					<kref>or</kref>
+				</dtrn>
+			</def>
+		</ar>
+	</lexicon>
+</xdxf>
