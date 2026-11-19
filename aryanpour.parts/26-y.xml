@@ -1949,7 +1949,7 @@
 	<sense n="1" xml:lang="fa">
 		<gramGrp>
 			<pos norm="adjective">صفت</pos>
-			<pos norm="definite article">definite article</pos>
+			<pos norm="definite article">حرف تعریف</pos>
 		</gramGrp>
 		<sense xml:lang="fa">
 			<usg type="time">قدیمی</usg>
